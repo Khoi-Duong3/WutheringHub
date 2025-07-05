@@ -1,0 +1,511 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,1,32.94%,0.3294
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,2,35.64%,0.3564
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,3,38.34%,0.3834
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,4,42.12%,0.4212
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,5,44.82%,0.4482
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,6,47.93%,0.4793
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,7,52.25%,0.5225
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,8,56.57%,0.5657
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,9,60.89%,0.6089
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,10,65.48%,0.6548
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,11,70.88%,0.7088
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,12,76.28%,0.7628
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,13,81.68%,0.8168
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,14,87.08%,0.8708
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,15,92.48%,0.9248
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,16,97.88%,0.9788
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,17,103.29%,1.0329
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,18,108.69%,1.0869
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,19,114.09%,1.1409
+Baizhi,Destined Promise,Normal Attack,Stage 1 DMG,20,119.49%,1.1949
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,1,39.52%,0.3952
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,2,42.76%,0.4276
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,3,46.01%,0.4601
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,4,50.54%,0.5054
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,5,53.78%,0.5378
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,6,57.51%,0.5751
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,7,62.69%,0.6269
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,8,67.88%,0.6788
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,9,73.06%,0.7306
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,10,78.57%,0.7857
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,11,85.05%,0.8505
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,12,91.54%,0.9154
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,13,98.02%,0.9802
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,14,104.50%,1.045
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,15,110.98%,1.1098
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,16,117.46%,1.1746
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,17,123.94%,1.2394
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,18,130.42%,1.3042
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,19,136.90%,1.369
+Baizhi,Destined Promise,Normal Attack,Stage 2 DMG,20,143.39%,1.4339
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,1,6.59%*7,0.4613
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,2,7.13%*7,0.4991
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,3,7.67%*7,0.5369
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,4,8.43%*7,0.5901
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,5,8.97%*7,0.6279
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,6,9.59%*7,0.6713
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,7,10.45%*7,0.7315
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,8,11.32%*7,0.7924
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,9,12.18%*7,0.8526
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,10,13.10%*7,0.917
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,11,14.18%*7,0.9926
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,12,15.26%*7,1.0682
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,13,16.34%*7,1.1438
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,14,17.42%*7,1.2194
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,15,18.50%*7,1.295
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,16,19.58%*7,1.3706
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,17,20.66%*7,1.4462
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,18,21.74%*7,1.5218
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,19,22.82%*7,1.5974
+Baizhi,Destined Promise,Normal Attack,Stage 3 DMG,20,23.90%*7,1.673
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,1,39.52%,0.3952
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,2,42.76%,0.4276
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,3,46.01%,0.4601
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,4,50.54%,0.5054
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,5,53.78%,0.5378
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,6,57.51%,0.5751
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,7,62.69%,0.6269
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,8,67.88%,0.6788
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,9,73.06%,0.7306
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,10,78.57%,0.7857
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,11,85.05%,0.8505
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,12,91.54%,0.9154
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,13,98.02%,0.9802
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,14,104.50%,1.045
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,15,110.98%,1.1098
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,16,117.46%,1.1746
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,17,123.94%,1.2394
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,18,130.42%,1.3042
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,19,136.90%,1.369
+Baizhi,Destined Promise,Normal Attack,Stage 4 DMG,20,143.39%,1.4339
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,1,24.58%,0.2458
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,2,26.60%,0.266
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,3,28.61%,0.2861
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,4,31.43%,0.3143
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,5,33.45%,0.3345
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,6,35.77%,0.3577
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,7,38.99%,0.3899
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,8,42.21%,0.4221
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,9,45.44%,0.4544
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,10,48.86%,0.4886
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,11,52.90%,0.529
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,12,56.93%,0.5693
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,13,60.96%,0.6096
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,14,64.99%,0.6499
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,15,69.02%,0.6902
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,16,73.05%,0.7305
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,17,77.08%,0.7708
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,18,81.11%,0.8111
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,19,85.14%,0.8514
+Baizhi,Destined Promise,Normal Attack,Heavy Attack DMG,20,89.17%,0.8917
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,1,39.68%,0.3968
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,2,42.94%,0.4294
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,3,46.19%,0.4619
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,4,50.75%,0.5075
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,5,54.00%,0.54
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,6,57.74%,0.5774
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,7,62.95%,0.6295
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,8,68.16%,0.6816
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,9,73.36%,0.7336
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,10,78.89%,0.7889
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,11,85.40%,0.854
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,12,91.91%,0.9191
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,13,98.42%,0.9842
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,14,104.92%,1.0492
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,15,111.43%,1.1143
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,16,117.94%,1.1794
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,17,124.45%,1.2445
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,18,130.95%,1.3095
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,19,137.46%,1.3746
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack DMG,20,143.97%,1.4397
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,1,89.86%,0.8986
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,2,97.23%,0.9723
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,3,104.60%,1.046
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,4,114.91%,1.1491
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,5,122.28%,1.2228
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,6,130.75%,1.3075
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,7,142.54%,1.4254
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,8,154.33%,1.5433
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,9,166.12%,1.6612
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,10,178.65%,1.7865
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,11,193.38%,1.9338
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,12,208.12%,2.0812
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,13,222.86%,2.2286
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,14,237.59%,2.3759
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,15,252.33%,2.5233
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,16,267.07%,2.6707
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,17,281.80%,2.818
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,18,296.54%,2.9654
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,19,311.28%,3.1128
+Baizhi,Destined Promise,Normal Attack,Dodge Counter DMG,20,326.01%,3.2601
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),1,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),2,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),3,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),4,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),5,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),6,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),7,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),8,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),9,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),10,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),11,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),12,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),13,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),14,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),15,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),16,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),17,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),18,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),19,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Heavy Attack STA Cost (per sec),20,12.5,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,1,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,2,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,3,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,4,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,5,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,6,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,7,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,8,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,9,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,10,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,11,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,12,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,13,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,14,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,15,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,16,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,17,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,18,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,19,30,0.0
+Baizhi,Destined Promise,Normal Attack,Mid-air Attack STA Cost,20,30,0.0
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,1,8.02%,0.0802
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,2,8.68%,0.0868
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,3,9.34%,0.0934
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,4,10.26%,0.1026
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,5,10.91%,0.1091
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,6,11.67%,0.1167
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,7,12.72%,0.1272
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,8,13.77%,0.1377
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,9,14.82%,0.1482
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,10,15.94%,0.1594
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,11,17.26%,0.1726
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,12,18.57%,0.1857
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,13,19.89%,0.1989
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,14,21.20%,0.212
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,15,22.52%,0.2252
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,16,23.83%,0.2383
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,17,25.15%,0.2515
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,18,26.46%,0.2646
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,19,27.77%,0.2777
+Baizhi,Emergency Plan,Resonance Skill,Skill DMG,20,29.09%,0.2909
+Baizhi,Emergency Plan,Resonance Skill,Healing,1,575+2.90%,0.029
+Baizhi,Emergency Plan,Resonance Skill,Healing,2,623+3.14%,0.0314
+Baizhi,Emergency Plan,Resonance Skill,Healing,3,670+3.37%,0.0337
+Baizhi,Emergency Plan,Resonance Skill,Healing,4,736+3.71%,0.0371
+Baizhi,Emergency Plan,Resonance Skill,Healing,5,783+3.94%,0.0394
+Baizhi,Emergency Plan,Resonance Skill,Healing,6,837+4.22%,0.0422
+Baizhi,Emergency Plan,Resonance Skill,Healing,7,913+4.60%,0.046
+Baizhi,Emergency Plan,Resonance Skill,Healing,8,988+4.98%,0.0498
+Baizhi,Emergency Plan,Resonance Skill,Healing,9,1064+5.36%,0.0536
+Baizhi,Emergency Plan,Resonance Skill,Healing,10,1144+5.76%,0.0576
+Baizhi,Emergency Plan,Resonance Skill,Healing,11,1238+6.24%,0.0624
+Baizhi,Emergency Plan,Resonance Skill,Healing,12,1332+6.71%,0.0671
+Baizhi,Emergency Plan,Resonance Skill,Healing,13,1427+7.19%,0.0719
+Baizhi,Emergency Plan,Resonance Skill,Healing,14,1521+7.66%,0.0766
+Baizhi,Emergency Plan,Resonance Skill,Healing,15,1615+8.14%,0.0814
+Baizhi,Emergency Plan,Resonance Skill,Healing,16,1709+8.61%,0.0861
+Baizhi,Emergency Plan,Resonance Skill,Healing,17,1804+9.09%,0.0909
+Baizhi,Emergency Plan,Resonance Skill,Healing,18,1898+9.56%,0.0956
+Baizhi,Emergency Plan,Resonance Skill,Healing,19,1992+10.04%,0.1004
+Baizhi,Emergency Plan,Resonance Skill,Healing,20,2087+10.51%,0.1051
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,1,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,2,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,3,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,4,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,5,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,6,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,7,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,8,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,9,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,10,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,11,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,12,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,13,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,14,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,15,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,16,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,17,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,18,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,19,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Cooldown,20,16,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,1,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,2,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,3,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,4,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,5,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,6,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,7,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,8,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,9,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,10,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,11,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,12,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,13,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,14,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,15,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,16,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,17,10,0.0
+Baizhi,Emergency Plan,Resonance Skill,Concerto Regen,18,10,0.0
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,1,2.05%,0.0205
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,2,2.22%,0.0222
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,3,2.39%,0.0239
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,4,2.62%,0.0262
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,5,2.79%,0.0279
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,6,2.98%,0.0298
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,7,3.25%,0.0325
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,8,3.52%,0.0352
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,9,3.79%,0.0379
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,10,4.07%,0.0407
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,11,4.41%,0.0441
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,12,4.74%,0.0474
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,13,5.08%,0.0508
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,14,5.41%,0.0541
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,15,5.75%,0.0575
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,16,6.08%,0.0608
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,17,6.42%,0.0642
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,18,6.75%,0.0675
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,19,7.09%,0.0709
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Damage,20,7.42%,0.0742
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,1,349+1.42%,0.0142
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,2,378+1.53%,0.0153
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,3,406+1.65%,0.0165
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,4,446+1.81%,0.0181
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,5,475+1.93%,0.0193
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,6,508+2.06%,0.0206
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,7,554+2.25%,0.0225
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,8,599+2.43%,0.0243
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,9,645+2.62%,0.0262
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,10,694+2.82%,0.0282
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,11,751+3.05%,0.0305
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,12,808+3.28%,0.0328
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,13,865+3.52%,0.0352
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,14,923+3.75%,0.0375
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,15,980+3.98%,0.0398
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,16,1037+4.21%,0.0421
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,17,1094+4.45%,0.0445
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,18,1151+4.68%,0.0468
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,19,1209+4.91%,0.0491
+Baizhi,Momentary Union,Resonance Liberation,Remnant Entities Healing,20,1266+5.14%,0.0514
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,1,310+1.26%,0.0126
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,2,336+1.36%,0.0136
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,3,361+1.47%,0.0147
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,4,397+1.61%,0.0161
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,5,422+1.71%,0.0171
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,6,452+1.83%,0.0183
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,7,492+2.00%,0.02
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,8,533+2.16%,0.0216
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,9,574+2.33%,0.0233
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,10,617+2.51%,0.0251
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,11,668+2.71%,0.0271
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,12,718+2.92%,0.0292
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,13,769+3.12%,0.0312
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,14,820+3.33%,0.0333
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,15,871+3.54%,0.0354
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,16,922+3.74%,0.0374
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,17,973+3.95%,0.0395
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,18,1024+4.16%,0.0416
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,19,1074+4.36%,0.0436
+Baizhi,Momentary Union,Resonance Liberation,Momentary Union Healing,20,1125+4.57%,0.0457
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,1,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,2,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,3,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,4,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,5,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,6,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,7,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,8,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,9,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,10,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,11,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,12,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,13,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,14,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,15,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,16,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,17,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,18,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,19,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Cooldown,20,25,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,1,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,2,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,3,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,4,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,5,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,6,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,7,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,8,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,9,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,10,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,11,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,12,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,13,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,14,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,15,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,16,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,17,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,18,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,19,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Resonance Cost,20,175,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,1,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,2,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,3,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,4,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,5,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,6,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,7,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,8,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,9,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,10,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,11,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,12,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,13,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,14,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,15,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,16,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,17,20,0.0
+Baizhi,Momentary Union,Resonance Liberation,Concerto Regen,18,20,0.0
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,1,40.00%,0.4
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,2,43.28%,0.4328
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,3,46.56%,0.4656
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,4,51.16%,0.5116
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,5,54.44%,0.5444
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,6,58.21%,0.5821
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,7,63.46%,0.6346
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,8,68.70%,0.687
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,9,73.95%,0.7395
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,10,79.53%,0.7953
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,11,86.09%,0.8609
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,12,92.65%,0.9265
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,13,99.21%,0.9921
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,14,105.77%,1.0577
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,15,112.33%,1.1233
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,16,118.89%,1.1889
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,17,125.45%,1.2545
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,18,132.01%,1.3201
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,19,138.57%,1.3857
+Baizhi,Overflowing Frost,Intro Skill,Intro DMG,20,145.13%,1.4513
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,1,75+0.38%,0.0038
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,2,82+0.41%,0.0041
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,3,88+0.44%,0.0044
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,4,96+0.48%,0.0048
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,5,103+0.51%,0.0051
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,6,110+0.55%,0.0055
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,7,119+0.60%,0.006
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,8,129+0.65%,0.0065
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,9,139+0.70%,0.007
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,10,150+0.75%,0.0075
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,11,162+0.81%,0.0081
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,12,174+0.88%,0.0088
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,13,187+0.94%,0.0094
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,14,199+1.00%,0.01
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,15,211+1.06%,0.0106
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,16,223+1.12%,0.0112
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,17,236+1.19%,0.0119
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,18,248+1.25%,0.0125
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,19,260+1.31%,0.0131
+Baizhi,Overflowing Frost,Intro Skill,Overflowing Frost Healing,20,273+1.37%,0.0137
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,1,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,2,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,3,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,4,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,5,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,6,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,7,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,8,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,9,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,10,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,11,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,12,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,13,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,14,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,15,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,16,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,17,10,0.0
+Baizhi,Overflowing Frost,Intro Skill,Concerto Regen,18,10,0.0
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,1,32+0.16%,0.0016
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,2,34+0.17%,0.0017
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,3,37+0.18%,0.0018
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,4,40+0.20%,0.002
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,5,43+0.21%,0.0021
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,6,46+0.23%,0.0023
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,7,50+0.25%,0.0025
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,8,54+0.27%,0.0027
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,9,58+0.29%,0.0029
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,10,63+0.31%,0.0031
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,11,68+0.34%,0.0034
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,12,73+0.36%,0.0036
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,13,78+0.39%,0.0039
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,14,83+0.42%,0.0042
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,15,88+0.44%,0.0044
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,16,93+0.47%,0.0047
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,17,99+0.49%,0.0049
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,18,104+0.52%,0.0052
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,19,109+0.55%,0.0055
+Baizhi,Cycle of Life,Forte Circuit,Concentration Healing,20,114+0.57%,0.0057
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",1,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",2,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",3,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",4,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",5,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",6,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",7,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",8,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",9,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",10,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",11,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",12,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",13,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",14,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",15,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",16,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",17,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack with ""Concentration"" Concerto Regen",18,4,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",1,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",2,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",3,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",4,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",5,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",6,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",7,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",8,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",9,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",10,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",11,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",12,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",13,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",14,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",15,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",16,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",17,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Resonance Skill with ""Concentration"" Concerto Regen",18,8,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",1,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",2,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",3,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",4,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",5,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",6,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",7,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",8,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",9,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",10,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",11,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",12,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",13,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",14,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",15,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",16,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",17,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",18,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",19,2.5,0.0
+Baizhi,Cycle of Life,Forte Circuit,"Heavy Attack ""Concentration"" Resonance Regen",20,2.5,0.0

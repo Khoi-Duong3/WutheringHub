@@ -1,0 +1,761 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,1,40.00%,0.4
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,2,43.28%,0.4328
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,3,46.56%,0.4656
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,4,51.16%,0.5116
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,5,54.44%,0.5444
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,6,58.21%,0.5821
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,7,63.46%,0.6346
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,8,68.70%,0.687
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,9,73.95%,0.7395
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,10,79.53%,0.7953
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,11,86.09%,0.8609
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,12,92.65%,0.9265
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,13,99.21%,0.9921
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,14,105.77%,1.0577
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,15,112.33%,1.1233
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,16,118.89%,1.1889
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,17,125.45%,1.2545
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,18,132.01%,1.3201
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,19,138.57%,1.3857
+Cantarella,Illusion Collapse,Normal Attack,Stage 1 DMG,20,145.13%,1.4513
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,1,18.33%*4,0.7332
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,2,19.83%*4,0.7932
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,3,21.34%*4,0.8536
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,4,23.44%*4,0.9376
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,5,24.94%*4,0.9976
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,6,26.67%*4,1.0668
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,7,29.07%*4,1.1628
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,8,31.48%*4,1.2592
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,9,33.88%*4,1.3552
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,10,36.44%*4,1.4576
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,11,39.44%*4,1.5776
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,12,42.45%*4,1.698
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,13,45.45%*4,1.818
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,14,48.46%*4,1.9384
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,15,51.46%*4,2.0584
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,16,54.47%*4,2.1788
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,17,57.47%*4,2.2988
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,18,60.48%*4,2.4192
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,19,63.48%*4,2.5392
+Cantarella,Illusion Collapse,Normal Attack,Stage 2 DMG,20,66.49%*4,2.6596
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,1,36.50%*2,0.73
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,2,39.50%*2,0.79
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,3,42.49%*2,0.8498
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,4,46.68%*2,0.9336
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,5,49.67%*2,0.9934
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,6,53.12%*2,1.0624
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,7,57.90%*2,1.158
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,8,62.69%*2,1.2538
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,9,67.48%*2,1.3496
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,10,72.57%*2,1.4514
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,11,78.56%*2,1.5712
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,12,84.54%*2,1.6908
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,13,90.53%*2,1.8106
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,14,96.51%*2,1.9302
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,15,102.50%*2,2.05
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,16,108.49%*2,2.1698
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,17,114.47%*2,2.2894
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,18,120.46%*2,2.4092
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,19,126.44%*2,2.5288
+Cantarella,Illusion Collapse,Normal Attack,Stage 3 DMG,20,132.43%*2,2.6486
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,1,28.76%*2,0.5752
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,2,31.12%*2,0.6224
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,3,33.48%*2,0.6696
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,4,36.78%*2,0.7356
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,5,39.14%*2,0.7828
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,6,41.85%*2,0.837
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,7,45.63%*2,0.9126
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,8,49.40%*2,0.988
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,9,53.17%*2,1.0634
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,10,57.18%*2,1.1436
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,11,61.90%*2,1.238
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,12,66.62%*2,1.3324
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,13,71.33%*2,1.4266
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,14,76.05%*2,1.521
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,15,80.77%*2,1.6154
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,16,85.48%*2,1.7096
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,17,90.20%*2,1.804
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,18,94.92%*2,1.8984
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,19,99.63%*2,1.9926
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack DMG,20,104.35%*2,2.087
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,1,26.68%*2,0.5336
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,2,28.87%*2,0.5774
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,3,31.06%*2,0.6212
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,4,34.12%*2,0.6824
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,5,36.31%*2,0.7262
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,6,38.83%*2,0.7766
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,7,42.33%*2,0.8466
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,8,45.83%*2,0.9166
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,9,49.33%*2,0.9866
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,10,53.05%*2,1.061
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,11,57.42%*2,1.1484
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,12,61.80%*2,1.236
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,13,66.17%*2,1.3234
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,14,70.55%*2,1.411
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,15,74.93%*2,1.4986
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,16,79.30%*2,1.586
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,17,83.68%*2,1.6736
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,18,88.05%*2,1.761
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,19,92.43%*2,1.8486
+Cantarella,Illusion Collapse,Normal Attack,Delusive Dive DMG,20,96.80%*2,1.936
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,1,21.12%+31.68%,0.528
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,2,22.86%+34.28%,0.5714
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,3,24.59%+36.88%,0.6147
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,4,27.01%+40.52%,0.6753
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,5,28.75%+43.12%,0.7187
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,6,30.74%+46.10%,0.7684
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,7,33.51%+50.26%,0.8377
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,8,36.28%+54.42%,0.907
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,9,39.05%+58.57%,0.9762
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,10,41.99%+62.99%,1.0498
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,11,45.46%+68.18%,1.1364
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,12,48.92%+73.38%,1.223
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,13,52.38%+78.57%,1.3095
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,14,55.85%+83.77%,1.3962
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,15,59.31%+88.97%,1.4828
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,16,62.78%+94.16%,1.5694
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,17,66.24%+99.36%,1.656
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,18,69.70%+104.55%,1.7425
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,19,73.17%+109.75%,1.8292
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack DMG,20,76.63%+114.94%,1.9157
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,1,26.66%*4,1.0664
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,2,28.85%*4,1.154
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,3,31.04%*4,1.2416
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,4,34.10%*4,1.364
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,5,36.28%*4,1.4512
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,6,38.80%*4,1.552
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,7,42.30%*4,1.692
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,8,45.79%*4,1.8316
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,9,49.29%*4,1.9716
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,10,53.01%*4,2.1204
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,11,57.38%*4,2.2952
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,12,61.75%*4,2.47
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,13,66.12%*4,2.6448
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,14,70.50%*4,2.82
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,15,74.87%*4,2.9948
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,16,79.24%*4,3.1696
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,17,83.61%*4,3.3444
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,18,87.99%*4,3.5196
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,19,92.36%*4,3.6944
+Cantarella,Illusion Collapse,Normal Attack,Dodge Counter DMG,20,96.73%*4,3.8692
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,1,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,2,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,3,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,4,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,5,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,6,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,7,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,8,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,9,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,10,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,11,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,12,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,13,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,14,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,15,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,16,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,17,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,18,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,19,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Heavy Attack STA Cost,20,20,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,1,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,2,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,3,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,4,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,5,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,6,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,7,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,8,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,9,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,10,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,11,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,12,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,13,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,14,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,15,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,16,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,17,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,18,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,19,30,0.0
+Cantarella,Illusion Collapse,Normal Attack,Mid-air Attack STA Cost,20,30,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,1,37.02%*2,0.7404
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,2,40.06%*2,0.8012
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,3,43.10%*2,0.862
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,4,47.35%*2,0.947
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,5,50.38%*2,1.0076
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,6,53.87%*2,1.0774
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,7,58.73%*2,1.1746
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,8,63.59%*2,1.2718
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,9,68.44%*2,1.3688
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,10,73.60%*2,1.472
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,11,79.68%*2,1.5936
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,12,85.75%*2,1.715
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,13,91.82%*2,1.8364
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,14,97.89%*2,1.9578
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,15,103.96%*2,2.0792
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,16,110.03%*2,2.2006
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,17,116.10%*2,2.322
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,18,122.17%*2,2.4434
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,19,128.25%*2,2.565
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step DMG,20,134.32%*2,2.6864
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,1,98.70%,0.987
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,2,106.80%,1.068
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,3,114.89%,1.1489
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,4,126.22%,1.2622
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,5,134.32%,1.3432
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,6,143.62%,1.4362
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,7,156.57%,1.5657
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,8,169.52%,1.6952
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,9,182.47%,1.8247
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,10,196.23%,1.9623
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,11,212.42%,2.1242
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,12,228.60%,2.286
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,13,244.79%,2.4479
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,14,260.98%,2.6098
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,15,277.16%,2.7716
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,16,293.35%,2.9335
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,17,309.54%,3.0954
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,18,325.72%,3.2572
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,19,341.91%,3.4191
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie DMG,20,358.10%,3.581
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,1,100.00%,1.0
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,2,108.20%,1.082
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,3,116.40%,1.164
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,4,127.88%,1.2788
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,5,136.08%,1.3608
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,6,145.51%,1.4551
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,7,158.63%,1.5863
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,8,171.75%,1.7175
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,9,184.87%,1.8487
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,10,198.81%,1.9881
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,11,215.21%,2.1521
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,12,231.61%,2.3161
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,13,248.01%,2.4801
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,14,264.41%,2.6441
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,15,280.81%,2.8081
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,16,297.21%,2.9721
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,17,313.61%,3.1361
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,18,330.01%,3.3001
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,19,346.41%,3.4641
+Cantarella,Dance with Shadows,Resonance Skill,Jolt DMG,20,362.81%,3.6281
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,1,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,2,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,3,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,4,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,5,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,6,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,7,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,8,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,9,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,10,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,11,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,12,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,13,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,14,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,15,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,16,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,17,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,18,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,19,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Cooldown,20,6,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,1,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,2,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,3,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,4,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,5,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,6,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,7,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,8,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,9,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,10,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,11,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,12,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,13,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,14,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,15,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,16,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,17,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,18,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,19,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Cooldown,20,12,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,1,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,2,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,3,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,4,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,5,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,6,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,7,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,8,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,9,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,10,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,11,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,12,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,13,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,14,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,15,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,16,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,17,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,18,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,19,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Graceful Step Concerto Regen,20,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,1,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,2,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,3,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,4,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,5,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,6,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,7,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,8,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,9,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,10,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,11,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,12,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,13,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,14,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,15,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,16,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,17,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,18,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,19,10,0.0
+Cantarella,Dance with Shadows,Resonance Skill,Flickering Reverie Concerto Regen,20,10,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,1,189.13%,1.8913
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,2,204.64%,2.0464
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,3,220.15%,2.2015
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,4,241.86%,2.4186
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,5,257.37%,2.5737
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,6,275.20%,2.752
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,7,300.01%,3.0001
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,8,324.83%,3.2483
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,9,349.64%,3.4964
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,10,376.00%,3.76
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,11,407.02%,4.0702
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,12,438.04%,4.3804
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,13,469.05%,4.6905
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,14,500.07%,5.0007
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,15,531.09%,5.3109
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,16,562.10%,5.621
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,17,593.12%,5.9312
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,18,624.14%,6.2414
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,19,655.15%,6.5515
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation DMG,20,686.17%,6.8617
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,1,7.31%*21,1.5351
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,2,7.91%*21,1.6611
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,3,8.51%*21,1.7871
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,4,9.35%*21,1.9635
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,5,9.95%*21,2.0895
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,6,10.64%*21,2.2344
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,7,11.60%*21,2.436
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,8,12.56%*21,2.6376
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,9,13.52%*21,2.8392
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,10,14.54%*21,3.0534
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,11,15.74%*21,3.3054
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,12,16.93%*21,3.5553
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,13,18.13%*21,3.8073
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,14,19.33%*21,4.0593
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,15,20.53%*21,4.3113
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,16,21.73%*21,4.5633
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,17,22.93%*21,4.8153
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,18,24.13%*21,5.0673
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,19,25.33%*21,5.3193
+Cantarella,Beneath the Sea,Resonance Liberation,Diffusion DMG,20,26.52%*21,5.5692
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,1,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,2,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,3,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,4,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,5,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,6,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,7,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,8,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,9,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,10,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,11,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,12,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,13,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,14,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,15,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,16,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,17,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,18,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,19,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Cooldown,20,25,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,1,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,2,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,3,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,4,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,5,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,6,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,7,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,8,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,9,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,10,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,11,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,12,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,13,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,14,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,15,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,16,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,17,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,18,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,19,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Resonance Cost,20,125,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,1,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,2,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,3,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,4,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,5,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,6,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,7,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,8,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,9,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,10,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,11,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,12,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,13,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,14,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,15,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,16,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,17,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,18,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,19,20,0.0
+Cantarella,Beneath the Sea,Resonance Liberation,Flowing Suffocation Concerto Regen,20,20,0.0
+Cantarella,Cruise,Intro Skill,Ripple DMG,1,21.25%*4,0.85
+Cantarella,Cruise,Intro Skill,Ripple DMG,2,23.00%*4,0.92
+Cantarella,Cruise,Intro Skill,Ripple DMG,3,24.74%*4,0.9896
+Cantarella,Cruise,Intro Skill,Ripple DMG,4,27.18%*4,1.0872
+Cantarella,Cruise,Intro Skill,Ripple DMG,5,28.92%*4,1.1568
+Cantarella,Cruise,Intro Skill,Ripple DMG,6,30.93%*4,1.2372
+Cantarella,Cruise,Intro Skill,Ripple DMG,7,33.71%*4,1.3484
+Cantarella,Cruise,Intro Skill,Ripple DMG,8,36.50%*4,1.46
+Cantarella,Cruise,Intro Skill,Ripple DMG,9,39.29%*4,1.5716
+Cantarella,Cruise,Intro Skill,Ripple DMG,10,42.25%*4,1.69
+Cantarella,Cruise,Intro Skill,Ripple DMG,11,45.74%*4,1.8296
+Cantarella,Cruise,Intro Skill,Ripple DMG,12,49.22%*4,1.9688
+Cantarella,Cruise,Intro Skill,Ripple DMG,13,52.71%*4,2.1084
+Cantarella,Cruise,Intro Skill,Ripple DMG,14,56.19%*4,2.2476
+Cantarella,Cruise,Intro Skill,Ripple DMG,15,59.68%*4,2.3872
+Cantarella,Cruise,Intro Skill,Ripple DMG,16,63.16%*4,2.5264
+Cantarella,Cruise,Intro Skill,Ripple DMG,17,66.65%*4,2.666
+Cantarella,Cruise,Intro Skill,Ripple DMG,18,70.13%*4,2.8052
+Cantarella,Cruise,Intro Skill,Ripple DMG,19,73.62%*4,2.9448
+Cantarella,Cruise,Intro Skill,Ripple DMG,20,77.10%*4,3.084
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,1,8.50%*3+59.50%,0.85
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,2,9.20%*3+64.38%,0.9198
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,3,9.90%*3+69.26%,0.9896
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,4,10.87%*3+76.09%,1.087
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,5,11.57%*3+80.97%,1.1568
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,6,12.37%*3+86.58%,1.2369
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,7,13.49%*3+94.39%,1.3486
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,8,14.60%*3+102.20%,1.46
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,9,15.72%*3+110.00%,1.5716
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,10,16.90%*3+118.30%,1.69
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,11,18.30%*3+128.05%,1.8295
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,12,19.69%*3+137.81%,1.9688
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,13,21.09%*3+147.57%,2.1084
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,14,22.48%*3+157.33%,2.2477
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,15,23.87%*3+167.09%,2.387
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,16,25.27%*3+176.84%,2.5265
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,17,26.66%*3+186.60%,2.6658
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,18,28.06%*3+196.36%,2.8054
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,19,29.45%*3+206.12%,2.9447
+Cantarella,Cruise,Intro Skill,Tidal Surge DMG,20,30.84%*3+215.88%,3.084
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,1,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,2,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,3,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,4,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,5,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,6,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,7,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,8,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,9,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,10,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,11,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,12,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,13,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,14,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,15,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,16,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,17,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,18,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,19,10,0.0
+Cantarella,Cruise,Intro Skill,Ripple Concerto Regen,20,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,1,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,2,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,3,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,4,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,5,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,6,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,7,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,8,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,9,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,10,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,11,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,12,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,13,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,14,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,15,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,16,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,17,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,18,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,19,10,0.0
+Cantarella,Cruise,Intro Skill,Tidal Surge Concerto Regen,20,10,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,1,17.77%*3,0.5331
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,2,19.23%*3,0.5769
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,3,20.69%*3,0.6207
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,4,22.73%*3,0.6819
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,5,24.18%*3,0.7254
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,6,25.86%*3,0.7758
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,7,28.19%*3,0.8457
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,8,30.52%*3,0.9156
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,9,32.85%*3,0.9855
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,10,35.33%*3,1.0599
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,11,38.24%*3,1.1472
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,12,41.15%*3,1.2345
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,13,44.07%*3,1.3221
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,14,46.98%*3,1.4094
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,15,49.90%*3,1.497
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,16,52.81%*3,1.5843
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,17,55.72%*3,1.6716
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,18,58.64%*3,1.7592
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,19,61.55%*3,1.8465
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 1 DMG,20,64.46%*3,1.9338
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,1,31.65%*2,0.633
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,2,34.25%*2,0.685
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,3,36.85%*2,0.737
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,4,40.48%*2,0.8096
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,5,43.07%*2,0.8614
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,6,46.06%*2,0.9212
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,7,50.21%*2,1.0042
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,8,54.36%*2,1.0872
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,9,58.52%*2,1.1704
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,10,62.93%*2,1.2586
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,11,68.12%*2,1.3624
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,12,73.31%*2,1.4662
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,13,78.50%*2,1.57
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,14,83.69%*2,1.6738
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,15,88.88%*2,1.7776
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,16,94.07%*2,1.8814
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,17,99.26%*2,1.9852
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,18,104.45%*2,2.089
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,19,109.64%*2,2.1928
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 2 DMG,20,114.83%*2,2.2966
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,1,32.50%*4,1.3
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,2,35.17%*4,1.4068
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,3,37.83%*4,1.5132
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,4,41.57%*4,1.6628
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,5,44.23%*4,1.7692
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,6,47.30%*4,1.892
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,7,51.56%*4,2.0624
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,8,55.82%*4,2.2328
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,9,60.09%*4,2.4036
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,10,64.62%*4,2.5848
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,11,69.95%*4,2.798
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,12,75.28%*4,3.0112
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,13,80.61%*4,3.2244
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,14,85.94%*4,3.4376
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,15,91.27%*4,3.6508
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,16,96.60%*4,3.864
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,17,101.93%*4,4.0772
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,18,107.26%*4,4.2904
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,19,112.59%*4,4.5036
+Cantarella,Between Illusion and Reality,Forte Circuit,Phantom Sting Stage 3 DMG,20,117.92%*4,4.7168
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,1,21.12%+31.68%,0.528
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,2,22.86%+34.28%,0.5714
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,3,24.59%+36.88%,0.6147
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,4,27.01%+40.52%,0.6753
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,5,28.75%+43.12%,0.7187
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,6,30.74%+46.10%,0.7684
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,7,33.51%+50.26%,0.8377
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,8,36.28%+54.42%,0.907
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,9,39.05%+58.57%,0.9762
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,10,41.99%+62.99%,1.0498
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,11,45.46%+68.18%,1.1364
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,12,48.92%+73.38%,1.223
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,13,52.38%+78.57%,1.3095
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,14,55.85%+83.77%,1.3962
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,15,59.31%+88.97%,1.4828
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,16,62.78%+94.16%,1.5694
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,17,66.24%+99.36%,1.656
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,18,69.70%+104.55%,1.7425
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,19,73.17%+109.75%,1.8292
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex DMG,20,76.63%+114.94%,1.9157
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,1,336.00%*2,6.72
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,2,363.55%*2,7.271
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,3,391.10%*2,7.822
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,4,429.67%*2,8.5934
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,5,457.22%*2,9.1444
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,6,488.91%*2,9.7782
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,7,532.99%*2,10.6598
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,8,577.07%*2,11.5414
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,9,621.15%*2,12.423
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,10,667.99%*2,13.3598
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,11,723.09%*2,14.4618
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,12,778.20%*2,15.564
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,13,833.30%*2,16.666
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,14,888.40%*2,17.768
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,15,943.51%*2,18.8702
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,16,998.61%*2,19.9722
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,17,1053.71%*2,21.0742
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,18,1108.81%*2,22.1762
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,19,1163.92%*2,23.2784
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain DMG,20,1219.02%*2,24.3804
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,1,37.77%*3,1.1331
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,2,40.87%*3,1.2261
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,3,43.97%*3,1.3191
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,4,48.30%*3,1.449
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,5,51.40%*3,1.542
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,6,54.96%*3,1.6488
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,7,59.91%*3,1.7973
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,8,64.87%*3,1.9461
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,9,69.82%*3,2.0946
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,10,75.09%*3,2.2527
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,11,81.28%*3,2.4384
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,12,87.48%*3,2.6244
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,13,93.67%*3,2.8101
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,14,99.86%*3,2.9958
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,15,106.06%*3,3.1818
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,16,112.25%*3,3.3675
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,17,118.45%*3,3.5535
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,18,124.64%*3,3.7392
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,19,130.83%*3,3.9249
+Cantarella,Between Illusion and Reality,Forte Circuit,Shadowy Sweep DMG,20,137.03%*3,4.1109
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,1,90+21.60%,0.216
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,2,100+22.46%,0.2246
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,3,112+23.33%,0.2333
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,4,126+24.62%,0.2462
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,5,142+26.35%,0.2635
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,6,157+28.08%,0.2808
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,7,160+31.32%,0.3132
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,8,163+34.99%,0.3499
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,9,166+38.88%,0.3888
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,10,171+45.36%,0.4536
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,11,185+49.10%,0.491
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,12,199+52.84%,0.5284
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,13,213+56.59%,0.5659
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,14,227+60.33%,0.6033
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,15,241+64.07%,0.6407
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,16,255+67.81%,0.6781
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,17,269+71.55%,0.7155
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,18,283+75.29%,0.7529
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,19,297+79.04%,0.7904
+Cantarella,Between Illusion and Reality,Forte Circuit,Healing by Consuming Trance,20,312+82.78%,0.8278
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,1,375+90.00%,0.9
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,2,420+93.60%,0.936
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,3,468+97.20%,0.972
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,4,525+102.60%,1.026
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,5,592+109.80%,1.098
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,6,656+117.00%,1.17
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,7,667+130.50%,1.305
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,8,682+145.80%,1.458
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,9,693+162.00%,1.62
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,10,712+189.00%,1.89
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,11,771+204.59%,2.0459
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,12,830+220.18%,2.2018
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,13,888+235.77%,2.3577
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,14,947+251.36%,2.5136
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,15,1006+266.95%,2.6695
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,16,1065+282.54%,2.8254
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,17,1123+298.14%,2.9814
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,18,1182+313.73%,3.1373
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,19,1241+329.32%,3.2932
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Healing,20,1300+344.91%,3.4491
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,1,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,2,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,3,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,4,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,5,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,6,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,7,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,8,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,9,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,10,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,11,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,12,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,13,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,14,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,15,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,16,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,17,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,18,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,19,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mid-air Phantom Sting STA cost,20,5,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,1,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,2,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,3,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,4,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,5,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,6,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,7,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,8,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,9,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,10,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,11,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,12,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,13,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,14,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,15,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,16,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,17,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,18,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,19,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Abysmal Vortex STA Cost,20,30,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,1,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,2,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,3,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,4,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,5,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,6,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,7,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,8,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,9,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,10,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,11,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,12,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,13,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,14,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,15,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,16,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,17,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,18,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,19,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Mirage Duration,20,8,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,1,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,2,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,3,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,4,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,5,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,6,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,7,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,8,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,9,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,10,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,11,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,12,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,13,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,14,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,15,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,16,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,17,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,18,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,19,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Cooldown,20,18,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,1,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,2,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,3,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,4,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,5,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,6,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,7,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,8,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,9,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,10,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,11,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,12,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,13,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,14,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,15,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,16,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,17,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,18,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,19,12,0.0
+Cantarella,Between Illusion and Reality,Forte Circuit,Perception Drain Concerto Regen,20,12,0.0

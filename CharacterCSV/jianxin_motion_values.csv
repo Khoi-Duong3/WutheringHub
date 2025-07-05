@@ -1,0 +1,754 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,1,34.94%,0.3494
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,2,37.80%,0.378
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,3,40.67%,0.4067
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,4,44.68%,0.4468
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,5,47.54%,0.4754
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,6,50.84%,0.5084
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,7,55.42%,0.5542
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,8,60.01%,0.6001
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,9,64.59%,0.6459
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,10,69.46%,0.6946
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,11,75.19%,0.7519
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,12,80.92%,0.8092
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,13,86.65%,0.8665
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,14,92.38%,0.9238
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,15,98.11%,0.9811
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,16,103.84%,1.0384
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,17,109.56%,1.0956
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,18,115.29%,1.1529
+Jianxin,Fengyiquan,Normal Attack,Stage 1 DMG,19,121.02%,1.2102
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,1,13.40%*2+40.19%,0.6699
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,2,14.50%*2+43.49%,0.7249
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,3,15.60%*2+46.78%,0.7798
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,4,17.14%*2+51.40%,0.8568
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,5,18.23%*2+54.69%,0.9115
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,6,19.50%*2+58.48%,0.9748
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,7,21.26%*2+63.76%,1.0628
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,8,23.01%*2+69.03%,1.1505
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,9,24.77%*2+74.30%,1.2384
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,10,26.64%*2+79.90%,1.3318
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,11,28.83%*2+86.49%,1.4415
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,12,31.03%*2+93.08%,1.5514
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,13,33.23%*2+99.68%,1.6614
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,14,35.43%*2+106.27%,1.7713
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,15,37.62%*2+112.86%,1.881
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,16,39.82%*2+119.45%,1.9909
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,17,42.02%*2+126.04%,2.1008
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,18,44.21%*2+132.63%,2.2105
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,19,46.41%*2+139.22%,2.3204
+Jianxin,Fengyiquan,Normal Attack,Stage 2 DMG,20,48.61%*2+145.81%,2.4303
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,1,21.00%*4,0.84
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,2,22.72%*4,0.9088
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,3,24.44%*4,0.9776
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,4,26.85%*4,1.074
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,5,28.57%*4,1.1428
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,6,30.55%*4,1.222
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,7,33.31%*4,1.3324
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,8,36.06%*4,1.4424
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,9,38.82%*4,1.5528
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,10,41.75%*4,1.67
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,11,45.19%*4,1.8076
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,12,48.63%*4,1.9452
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,13,52.07%*4,2.0828
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,14,55.52%*4,2.2208
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,15,58.96%*4,2.3584
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,16,62.40%*4,2.496
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,17,65.85%*4,2.634
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,18,69.29%*4,2.7716
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,19,72.73%*4,2.9092
+Jianxin,Fengyiquan,Normal Attack,Stage 3 DMG,20,76.18%*4,3.0472
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,1,57.04%,0.5704
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,2,61.72%,0.6172
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,3,66.39%,0.6639
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,4,72.94%,0.7294
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,5,77.62%,0.7762
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,6,83.00%,0.83
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,7,90.48%,0.9048
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,8,97.96%,0.9796
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,9,105.45%,1.0545
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,10,113.40%,1.134
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,11,122.75%,1.2275
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,12,132.10%,1.321
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,13,141.46%,1.4146
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,14,150.81%,1.5081
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,15,160.16%,1.6016
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,16,169.52%,1.6952
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,17,178.87%,1.7887
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,18,188.23%,1.8823
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,19,197.58%,1.9758
+Jianxin,Fengyiquan,Normal Attack,Stage 4 DMG,20,206.93%,2.0693
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,1,63.41%,0.6341
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,2,68.61%,0.6861
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,3,73.81%,0.7381
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,4,81.09%,0.8109
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,5,86.29%,0.8629
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,6,92.27%,0.9227
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,7,100.59%,1.0059
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,8,108.91%,1.0891
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,9,117.23%,1.1723
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,10,126.07%,1.2607
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,11,136.47%,1.3647
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,12,146.87%,1.4687
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,13,157.27%,1.5727
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,14,167.67%,1.6767
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,15,178.07%,1.7807
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,16,188.47%,1.8847
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,17,198.87%,1.9887
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,18,209.26%,2.0926
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,19,219.66%,2.1966
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack DMG,20,230.06%,2.3006
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,1,62.00%,0.62
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,2,67.09%,0.6709
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,3,72.17%,0.7217
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,4,79.29%,0.7929
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,5,84.37%,0.8437
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,6,90.22%,0.9022
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,7,98.36%,0.9836
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,8,106.49%,1.0649
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,9,114.62%,1.1462
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,10,123.27%,1.2327
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,11,133.44%,1.3344
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,12,143.60%,1.436
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,13,153.77%,1.5377
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,14,163.94%,1.6394
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,15,174.11%,1.7411
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,16,184.28%,1.8428
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,17,194.44%,1.9444
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,18,204.61%,2.0461
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack DMG,19,214.78%,2.1478
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,1,20.54%*2+82.14%,1.2322
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,2,22.22%*2+88.87%,1.3331
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,3,23.91%*2+95.61%,1.4343
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,4,26.26%*2+105.04%,1.5756
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,5,27.95%*2+111.77%,1.6767
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,6,29.88%*2+119.52%,1.7928
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,7,32.58%*2+130.29%,1.9545
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,8,35.27%*2+141.07%,2.1161
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,9,37.96%*2+151.84%,2.2776
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,10,40.83%*2+163.29%,2.4495
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,11,44.19%*2+176.76%,2.6514
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,12,47.56%*2+190.23%,2.8535
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,13,50.93%*2+203.70%,3.0556
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,14,54.30%*2+217.17%,3.2577
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,15,57.66%*2+230.64%,3.4596
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,16,61.03%*2+244.11%,3.6617
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,17,64.40%*2+257.58%,3.8638
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,18,67.77%*2+271.05%,4.0659
+Jianxin,Fengyiquan,Normal Attack,Dodge Counter DMG,19,71.13%*2+284.52%,4.2678
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,1,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,2,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,3,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,4,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,5,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,6,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,7,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,8,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,9,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,10,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,11,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,12,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,13,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,14,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,15,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,16,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,17,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Heavy Attack STA Cost,18,20,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,1,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,2,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,3,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,4,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,5,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,6,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,7,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,8,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,9,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,10,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,11,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,12,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,13,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,14,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,15,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,16,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,17,30,0.0
+Jianxin,Fengyiquan,Normal Attack,Mid-air Attack STA Cost,18,30,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,1,168.30%,1.683
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,2,182.11%,1.8211
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,3,195.91%,1.9591
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,4,215.23%,2.1523
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,5,229.03%,2.2903
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,6,244.90%,2.449
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,7,266.98%,2.6698
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,8,289.06%,2.8906
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,9,311.14%,3.1114
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,10,334.60%,3.346
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,11,362.20%,3.622
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,12,389.80%,3.898
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,13,417.41%,4.1741
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,14,445.01%,4.4501
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,15,472.61%,4.7261
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,16,500.21%,5.0021
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,17,527.81%,5.2781
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,18,555.41%,5.5541
+Jianxin,Calming Air,Resonance Skill,Chi Counter Damage,19,583.01%,5.8301
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,1,130.14%,1.3014
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,2,140.81%,1.4081
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,3,151.48%,1.5148
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,4,166.42%,1.6642
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,5,177.09%,1.7709
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,6,189.36%,1.8936
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,7,206.44%,2.0644
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,8,223.51%,2.2351
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,9,240.59%,2.4059
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,10,258.73%,2.5873
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,11,280.07%,2.8007
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,12,301.41%,3.0141
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,13,322.75%,3.2275
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,14,344.09%,3.4409
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,15,365.44%,3.6544
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,16,386.78%,3.8678
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,17,408.12%,4.0812
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,18,429.46%,4.2946
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,19,450.81%,4.5081
+Jianxin,Calming Air,Resonance Skill,Chi Parry Damage,20,472.15%,4.7215
+Jianxin,Calming Air,Resonance Skill,Cooldown,1,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,2,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,3,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,4,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,5,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,6,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,7,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,8,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,9,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,10,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,11,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,12,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,13,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,14,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,15,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,16,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,17,12,0.0
+Jianxin,Calming Air,Resonance Skill,Cooldown,18,12,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,1,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,2,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,3,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,4,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,5,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,6,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,7,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,8,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,9,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,10,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,11,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,12,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,13,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,14,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,15,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,16,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,17,8,0.0
+Jianxin,Calming Air,Resonance Skill,Skill Concerto Regen,18,8,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,1,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,2,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,3,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,4,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,5,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,6,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,7,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,8,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,9,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,10,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,11,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,12,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,13,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,14,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,15,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,16,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,17,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Counter Concerto Regen,18,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,1,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,2,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,3,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,4,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,5,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,6,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,7,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,8,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,9,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,10,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,11,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,12,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,13,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,14,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,15,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,16,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,17,14,0.0
+Jianxin,Calming Air,Resonance Skill,Chi Parry Concerto Regen,18,14,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,1,15.00%,0.15
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,2,16.23%,0.1623
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,3,17.46%,0.1746
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,4,19.19%,0.1919
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,5,20.42%,0.2042
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,6,21.83%,0.2183
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,7,23.80%,0.238
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,8,25.77%,0.2577
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,9,27.74%,0.2774
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,10,29.83%,0.2983
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,11,32.29%,0.3229
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,12,34.75%,0.3475
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,13,37.21%,0.3721
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,14,39.67%,0.3967
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,15,42.13%,0.4213
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,16,44.59%,0.4459
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,17,47.05%,0.4705
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,18,49.51%,0.4951
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Continuous Damage,19,51.97%,0.5197
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,1,320.00%,3.2
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,2,346.24%,3.4624
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,3,372.48%,3.7248
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,4,409.22%,4.0922
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,5,435.46%,4.3546
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,6,465.64%,4.6564
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,7,507.62%,5.0762
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,8,549.60%,5.496
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,9,591.59%,5.9159
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,10,636.20%,6.362
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,11,688.68%,6.8868
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,12,741.16%,7.4116
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,13,793.64%,7.9364
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,14,846.12%,8.4612
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,15,898.60%,8.986
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,16,951.08%,9.5108
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,17,1003.56%,10.0356
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,18,1056.04%,10.5604
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Liberation Explosion Damage,19,1108.52%,11.0852
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,1,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,2,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,3,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,4,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,5,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,6,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,7,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,8,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,9,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,10,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,11,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,12,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,13,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,14,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,15,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,16,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,17,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Wind Field Duration,18,3.12,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,1,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,2,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,3,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,4,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,5,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,6,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,7,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,8,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,9,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,10,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,11,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,12,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,13,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,14,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,15,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,16,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,17,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Cooldown,18,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,1,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,2,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,3,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,4,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,5,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,6,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,7,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,8,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,9,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,10,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,11,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,12,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,13,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,14,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,15,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,16,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,17,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Resonance Cost,18,150,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,1,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,2,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,3,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,4,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,5,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,6,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,7,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,8,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,9,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,10,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,11,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,12,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,13,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,14,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,15,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,16,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,17,20,0.0
+Jianxin,Purification Force Field,Resonance Liberation,Concerto Regen,18,20,0.0
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,1,17.00%*3+34.00%,0.85
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,2,18.40%*3+36.79%,0.9199
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,3,19.79%*3+39.58%,0.9895
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,4,21.74%*3+43.48%,1.087
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,5,23.14%*3+46.27%,1.1569
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,6,24.74%*3+49.48%,1.237
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,7,26.97%*3+53.94%,1.3485
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,8,29.20%*3+58.40%,1.46
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,9,31.43%*3+62.86%,1.5715
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,10,33.80%*3+67.60%,1.69
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,11,36.59%*3+73.18%,1.8295
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,12,39.38%*3+78.75%,1.9689
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,13,42.17%*3+84.33%,2.1084
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,14,44.95%*3+89.90%,2.2475
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,15,47.74%*3+95.48%,2.387
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,16,50.53%*3+101.06%,2.5265
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,17,53.32%*3+106.63%,2.6659
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,18,56.11%*3+112.21%,2.8054
+Jianxin,Essence of Tao,Intro Skill,Intro DMG,19,58.89%*3+117.78%,2.9445
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,1,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,2,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,3,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,4,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,5,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,6,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,7,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,8,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,9,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,10,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,11,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,12,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,13,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,14,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,15,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,16,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,17,10,0.0
+Jianxin,Essence of Tao,Intro Skill,Concerto Regen,18,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,1,125.00%,1.25
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,2,135.25%,1.3525
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,3,145.50%,1.455
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,4,159.85%,1.5985
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,5,170.10%,1.701
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,6,181.89%,1.8189
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,7,198.29%,1.9829
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,8,214.69%,2.1469
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,9,231.09%,2.3109
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,10,248.52%,2.4852
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,11,269.02%,2.6902
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,12,289.52%,2.8952
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,13,310.02%,3.1002
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,14,330.52%,3.3052
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,15,351.02%,3.5102
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,16,371.52%,3.7152
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,17,392.02%,3.9202
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,18,412.52%,4.1252
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Damage,19,433.02%,4.3302
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,1,12.50%,0.125
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,2,13.53%,0.1353
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,3,14.55%,0.1455
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,4,15.99%,0.1599
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,5,17.01%,0.1701
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,6,18.19%,0.1819
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,7,19.83%,0.1983
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,8,21.47%,0.2147
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,9,23.11%,0.2311
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,10,24.86%,0.2486
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,11,26.91%,0.2691
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,12,28.96%,0.2896
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,13,31.01%,0.3101
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,14,33.06%,0.3306
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,15,35.11%,0.3511
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,16,37.16%,0.3716
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,17,39.21%,0.3921
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,18,41.26%,0.4126
+Jianxin,Primordial Chi Spiral,Forte Circuit,Zhoutian Progress Continuous Damage,19,43.31%,0.4331
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,1,70.00%,0.7
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,2,75.74%,0.7574
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,3,81.48%,0.8148
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,4,89.52%,0.8952
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,5,95.26%,0.9526
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,6,101.86%,1.0186
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,7,111.05%,1.1105
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,8,120.23%,1.2023
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,9,129.41%,1.2941
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,10,139.17%,1.3917
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,11,150.65%,1.5065
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,12,162.13%,1.6213
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,13,173.61%,1.7361
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,14,185.09%,1.8509
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,15,196.57%,1.9657
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,16,208.05%,2.0805
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,17,219.53%,2.1953
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,18,231.01%,2.3101
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Shock Damage,19,242.49%,2.4249
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,1,190.00%,1.9
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,2,205.58%,2.0558
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,3,221.16%,2.2116
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,4,242.98%,2.4298
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,5,258.56%,2.5856
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,6,276.47%,2.7647
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,7,301.40%,3.014
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,8,326.33%,3.2633
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,9,351.26%,3.5126
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,10,377.74%,3.7774
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,11,408.90%,4.089
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,12,440.06%,4.4006
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,13,471.22%,4.7122
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,14,502.38%,5.0238
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,15,533.54%,5.3354
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,16,564.70%,5.647
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,17,595.86%,5.9586
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,18,627.02%,6.2702
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Shock Damage,19,658.18%,6.5818
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,1,260.00%,2.6
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,2,281.32%,2.8132
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,3,302.64%,3.0264
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,4,332.49%,3.3249
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,5,353.81%,3.5381
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,6,378.33%,3.7833
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,7,412.44%,4.1244
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,8,446.55%,4.4655
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,9,480.67%,4.8067
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,10,516.91%,5.1691
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,11,559.55%,5.5955
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,12,602.19%,6.0219
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,13,644.83%,6.4483
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,14,687.47%,6.8747
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,15,730.11%,7.3011
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,16,772.75%,7.7275
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,17,815.39%,8.1539
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,18,858.03%,8.5803
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Shock Damage,19,900.67%,9.0067
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,1,110.00%,1.1
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,2,119.02%,1.1902
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,3,128.04%,1.2804
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,4,140.67%,1.4067
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,5,149.69%,1.4969
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,6,160.07%,1.6007
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,7,174.50%,1.745
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,8,188.93%,1.8893
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,9,203.36%,2.0336
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,10,218.70%,2.187
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,11,236.74%,2.3674
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,12,254.78%,2.5478
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,13,272.82%,2.7282
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,14,290.86%,2.9086
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,15,308.90%,3.089
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,16,326.94%,3.2694
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,17,344.98%,3.4498
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,18,363.02%,3.6302
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Damage,19,381.06%,3.8106
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,1,437+17.06%,0.1706
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,2,490+17.75%,0.1775
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,3,546+18.43%,0.1843
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,4,612+19.45%,0.1945
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,5,691+20.82%,0.2082
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,6,765+22.18%,0.2218
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,7,778+24.74%,0.2474
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,8,796+27.64%,0.2764
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,9,809+30.71%,0.3071
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,10,831+35.83%,0.3583
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,11,899+38.79%,0.3879
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,12,968+41.74%,0.4174
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,13,1036+44.70%,0.447
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,14,1105+47.65%,0.4765
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,15,1174+50.61%,0.5061
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,16,1242+53.57%,0.5357
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,17,1311+56.52%,0.5652
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,18,1379+59.48%,0.5948
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,19,1448+62.43%,0.6243
+Jianxin,Primordial Chi Spiral,Forte Circuit,Incomplete Minor Zhoutian Final Shield,20,1516+65.39%,0.6539
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,1,875+34.13%,0.3413
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,2,980+35.49%,0.3549
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,3,1093+36.86%,0.3686
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,4,1225+38.90%,0.389
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,5,1382+41.63%,0.4163
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,6,1531+44.36%,0.4436
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,7,1557+49.48%,0.4948
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,8,1592+55.28%,0.5528
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,9,1618+61.43%,0.6143
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,10,1662+71.66%,0.7166
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,11,1799+77.57%,0.7757
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,12,1936+83.49%,0.8349
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,13,2073+89.40%,0.894
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,14,2211+95.31%,0.9531
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,15,2348+101.22%,1.0122
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,16,2485+107.13%,1.0713
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,17,2622+113.04%,1.1304
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,18,2759+118.95%,1.1895
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,19,2896+124.87%,1.2487
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Final Shield,20,3033+130.78%,1.3078
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,1,1750+68.25%,0.6825
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,2,1960+70.98%,0.7098
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,3,2187+73.71%,0.7371
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,4,2450+77.81%,0.7781
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,5,2765+83.27%,0.8327
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,6,3062+88.73%,0.8873
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,7,3115+98.96%,0.9896
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,8,3185+110.57%,1.1057
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,9,3237+122.85%,1.2285
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,10,3325+143.33%,1.4333
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,11,3599+155.15%,1.5515
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,12,3873+166.97%,1.6697
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,13,4147+178.79%,1.7879
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,14,4422+190.62%,1.9062
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,15,4696+202.44%,2.0244
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,16,4970+214.26%,2.1426
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,17,5244+226.09%,2.2609
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,18,5519+237.91%,2.3791
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,19,5793+249.73%,2.4973
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Final Shield,20,6067+261.55%,2.6155
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,1,2915+113.70%,1.137
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,2,3265+118.25%,1.1825
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,3,3644+122.80%,1.228
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,4,4081+129.62%,1.2962
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,5,4606+138.72%,1.3872
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,6,5102+147.82%,1.4782
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,7,5189+164.87%,1.6487
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,8,5306+184.20%,1.842
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,9,5393+204.67%,2.0467
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,10,5539+238.78%,2.3878
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,11,5996+258.48%,2.5848
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,12,6453+278.17%,2.7817
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,13,6910+297.87%,2.9787
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,14,7367+317.57%,3.1757
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,15,7824+337.27%,3.3727
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,16,8281+356.96%,3.5696
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,17,8738+376.66%,3.7666
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,18,9195+396.36%,3.9636
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,19,9652+416.05%,4.1605
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Final Shield,20,10108+435.75%,4.3575
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,1,700+27.30%,0.273
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,2,784+28.39%,0.2839
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,3,875+29.48%,0.2948
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,4,980+31.12%,0.3112
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,5,1106+33.31%,0.3331
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,6,1225+35.49%,0.3549
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,7,1246+39.59%,0.3959
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,8,1274+44.23%,0.4423
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,9,1295+49.14%,0.4914
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,10,1330+57.33%,0.5733
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,11,1439+62.06%,0.6206
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,12,1549+66.79%,0.6679
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,13,1659+71.52%,0.7152
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,14,1768+76.25%,0.7625
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,15,1878+80.98%,0.8098
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,16,1988+85.71%,0.8571
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,17,2097+90.43%,0.9043
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,18,2207+95.16%,0.9516
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,19,2317+99.89%,0.9989
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Healing,20,2427+104.62%,1.0462
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,1,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,2,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,3,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,4,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,5,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,6,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,7,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,8,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,9,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,10,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,11,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,12,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,13,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,14,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,15,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,16,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,17,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Shield Duration,18,30,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,1,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,2,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,3,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,4,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,5,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,6,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,7,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,8,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,9,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,10,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,11,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,12,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,13,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,14,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,15,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,16,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,17,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Pushing Punch Concerto Regen,18,10,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,1,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,2,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,3,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,4,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,5,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,6,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,7,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,8,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,9,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,10,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,11,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,12,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,13,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,14,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,15,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,16,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,17,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Minor Zhoutian Concerto Regen,18,5,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,1,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,2,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,3,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,4,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,5,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,6,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,7,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,8,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,9,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,10,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,11,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,12,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,13,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,14,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,15,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,16,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,17,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Inner Concerto Regen,18,18,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,1,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,2,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,3,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,4,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,5,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,6,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,7,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,8,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,9,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,10,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,11,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,12,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,13,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,14,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,15,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,16,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,17,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Major Zhoutian: Outer Concerto Regen,18,23,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,1,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,2,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,3,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,4,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,5,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,6,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,7,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,8,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,9,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,10,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,11,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,12,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,13,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,14,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,15,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,16,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,17,7,0.0
+Jianxin,Primordial Chi Spiral,Forte Circuit,Yielding Pull Concerto Regen,18,7,0.0

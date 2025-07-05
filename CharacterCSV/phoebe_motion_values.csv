@@ -1,0 +1,561 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,1,14.85%,0.1485
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,2,16.07%,0.1607
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,3,17.29%,0.1729
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,4,19.00%,0.19
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,5,20.21%,0.2021
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,6,21.61%,0.2161
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,7,23.56%,0.2356
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,8,25.51%,0.2551
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,9,27.46%,0.2746
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,10,29.53%,0.2953
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,11,31.96%,0.3196
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,12,34.40%,0.344
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,13,36.83%,0.3683
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,14,39.27%,0.3927
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,15,41.71%,0.4171
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,16,44.14%,0.4414
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,17,46.58%,0.4658
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,18,49.01%,0.4901
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,19,51.45%,0.5145
+Phoebe,O Come Divine Light,Normal Attack,Stage 1 DMG,20,53.88%,0.5388
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,1,11.25%+13.75%,0.25
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,2,12.18%+14.88%,0.2706
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,3,13.10%+16.01%,0.2911
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,4,14.39%+17.59%,0.3198
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,5,15.31%+18.72%,0.3403
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,6,16.37%+20.01%,0.3638
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,7,17.85%+21.82%,0.3967
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,8,19.33%+23.62%,0.4295
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,9,20.80%+25.42%,0.4622
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,10,22.37%+27.34%,0.4971
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,11,24.22%+29.60%,0.5382
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,12,26.06%+31.85%,0.5791
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,13,27.91%+34.11%,0.6202
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,14,29.75%+36.36%,0.6611
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,15,31.60%+38.62%,0.7022
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,16,33.44%+40.87%,0.7431
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,17,35.29%+43.13%,0.7842
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,18,37.13%+45.38%,0.8251
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,19,38.98%+47.64%,0.8662
+Phoebe,O Come Divine Light,Normal Attack,Stage 2 DMG,20,40.82%+49.89%,0.9071
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,1,7.17%*8,0.5736
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,2,7.75%*8,0.62
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,3,8.34%*8,0.6672
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,4,9.16%*8,0.7328
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,5,9.75%*8,0.78
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,6,10.43%*8,0.8344
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,7,11.37%*8,0.9096
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,8,12.31%*8,0.9848
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,9,13.25%*8,1.06
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,10,14.24%*8,1.1392
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,11,15.42%*8,1.2336
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,12,16.59%*8,1.3272
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,13,17.77%*8,1.4216
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,14,18.94%*8,1.5152
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,15,20.12%*8,1.6096
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,16,21.29%*8,1.7032
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,17,22.47%*8,1.7976
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,18,23.64%*8,1.8912
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,19,24.82%*8,1.9856
+Phoebe,O Come Divine Light,Normal Attack,Stage 3 DMG,20,25.99%*8,2.0792
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,1,20.80%*4,0.832
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,2,22.50%*4,0.9
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,3,24.21%*4,0.9684
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,4,26.60%*4,1.064
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,5,28.30%*4,1.132
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,6,30.26%*4,1.2104
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,7,32.99%*4,1.3196
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,8,35.72%*4,1.4288
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,9,38.45%*4,1.538
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,10,41.35%*4,1.654
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,11,44.76%*4,1.7904
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,12,48.17%*4,1.9268
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,13,51.58%*4,2.0632
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,14,54.99%*4,2.1996
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,15,58.40%*4,2.336
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,16,61.81%*4,2.4724
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,17,65.22%*4,2.6088
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,18,68.63%*4,2.7452
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,19,72.04%*4,2.8816
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack DMG,20,75.45%*4,3.018
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,1,23.25%*2,0.465
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,2,25.16%*2,0.5032
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,3,27.07%*2,0.5414
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,4,29.74%*2,0.5948
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,5,31.64%*2,0.6328
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,6,33.84%*2,0.6768
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,7,36.89%*2,0.7378
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,8,39.94%*2,0.7988
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,9,42.99%*2,0.8598
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,10,46.23%*2,0.9246
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,11,50.04%*2,1.0008
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,12,53.85%*2,1.077
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,13,57.67%*2,1.1534
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,14,61.48%*2,1.2296
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,15,65.29%*2,1.3058
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,16,69.11%*2,1.3822
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,17,72.92%*2,1.4584
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,18,76.73%*2,1.5346
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,19,80.55%*2,1.611
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack DMG,20,84.36%*2,1.6872
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,1,10.86%*8,0.8688
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,2,11.75%*8,0.94
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,3,12.64%*8,1.0112
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,4,13.89%*8,1.1112
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,5,14.78%*8,1.1824
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,6,15.80%*8,1.264
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,7,17.22%*8,1.3776
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,8,18.65%*8,1.492
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,9,20.07%*8,1.6056
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,10,21.58%*8,1.7264
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,11,23.36%*8,1.8688
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,12,25.15%*8,2.012
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,13,26.93%*8,2.1544
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,14,28.71%*8,2.2968
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,15,30.49%*8,2.4392
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,16,32.27%*8,2.5816
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,17,34.05%*8,2.724
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,18,35.83%*8,2.8664
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,19,37.61%*8,3.0088
+Phoebe,O Come Divine Light,Normal Attack,Dodge Counter DMG,20,39.39%*8,3.1512
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,1,22.05%*6,1.323
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,2,23.86%*6,1.4316
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,3,25.67%*6,1.5402
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,4,28.20%*6,1.692
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,5,30.01%*6,1.8006
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,6,32.09%*6,1.9254
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,7,34.98%*6,2.0988
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,8,37.88%*6,2.2728
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,9,40.77%*6,2.4462
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,10,43.84%*6,2.6304
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,11,47.46%*6,2.8476
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,12,51.08%*6,3.0648
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,13,54.69%*6,3.2814
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,14,58.31%*6,3.4986
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,15,61.92%*6,3.7152
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,16,65.54%*6,3.9324
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,17,69.16%*6,4.1496
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,18,72.77%*6,4.3662
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,19,76.39%*6,4.5834
+Phoebe,O Come Divine Light,Normal Attack,Chamuel's Star: Dodge Counter DMG,20,80.00%*6,4.8
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,1,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,2,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,3,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,4,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,5,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,6,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,7,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,8,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,9,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,10,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,11,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,12,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,13,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,14,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,15,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,16,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,17,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,18,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,19,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Heavy Attack STA Cost,20,25,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,1,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,2,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,3,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,4,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,5,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,6,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,7,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,8,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,9,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,10,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,11,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,12,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,13,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,14,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,15,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,16,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,17,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,18,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,19,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-air Attack STA Cost,20,30,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,1,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,2,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,3,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,4,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,5,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,6,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,7,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,8,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,9,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,10,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,11,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,12,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,13,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,14,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,15,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,16,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,17,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,18,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,19,20,0.0
+Phoebe,O Come Divine Light,Normal Attack,Mid-Air Heavy Attack STA Cost,20,20,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,1,31.50%*2,0.63
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,2,34.09%*2,0.6818
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,3,36.67%*2,0.7334
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,4,40.29%*2,0.8058
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,5,42.87%*2,0.8574
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,6,45.84%*2,0.9168
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,7,49.97%*2,0.9994
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,8,54.11%*2,1.0822
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,9,58.24%*2,1.1648
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,10,62.63%*2,1.2526
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,11,67.80%*2,1.356
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,12,72.96%*2,1.4592
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,13,78.13%*2,1.5626
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,14,83.29%*2,1.6658
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,15,88.46%*2,1.7692
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,16,93.63%*2,1.8726
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,17,98.79%*2,1.9758
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,18,103.96%*2,2.0792
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,19,109.12%*2,2.1824
+Phoebe,To Where Light Shines,Resonance Skill,Skill DMG,20,114.29%*2,2.2858
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,1,7.50%*2,0.15
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,2,8.12%*2,0.1624
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,3,8.73%*2,0.1746
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,4,9.60%*2,0.192
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,5,10.21%*2,0.2042
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,6,10.92%*2,0.2184
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,7,11.90%*2,0.238
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,8,12.89%*2,0.2578
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,9,13.87%*2,0.2774
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,10,14.92%*2,0.2984
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,11,16.15%*2,0.323
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,12,17.38%*2,0.3476
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,13,18.61%*2,0.3722
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,14,19.84%*2,0.3968
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,15,21.07%*2,0.4214
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,16,22.30%*2,0.446
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,17,23.53%*2,0.4706
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,18,24.76%*2,0.4952
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,19,25.99%*2,0.5198
+Phoebe,To Where Light Shines,Resonance Skill,Ring of Mirrors: Refracted Holy Light DMG,20,27.22%*2,0.5444
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,1,29.85%,0.2985
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,2,32.30%,0.323
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,3,34.75%,0.3475
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,4,38.18%,0.3818
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,5,40.62%,0.4062
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,6,43.44%,0.4344
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,7,47.36%,0.4736
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,8,51.27%,0.5127
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,9,55.19%,0.5519
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,10,59.35%,0.5935
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,11,64.25%,0.6425
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,12,69.14%,0.6914
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,13,74.04%,0.7404
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,14,78.93%,0.7893
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,15,83.83%,0.8383
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,16,88.72%,0.8872
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,17,93.62%,0.9362
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,18,98.51%,0.9851
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,19,103.41%,1.0341
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 1 DMG,20,108.30%,1.083
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,1,20.00%*2,0.4
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,2,21.64%*2,0.4328
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,3,23.28%*2,0.4656
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,4,25.58%*2,0.5116
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,5,27.22%*2,0.5444
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,6,29.11%*2,0.5822
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,7,31.73%*2,0.6346
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,8,34.35%*2,0.687
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,9,36.98%*2,0.7396
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,10,39.77%*2,0.7954
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,11,43.05%*2,0.861
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,12,46.33%*2,0.9266
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,13,49.61%*2,0.9922
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,14,52.89%*2,1.0578
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,15,56.17%*2,1.1234
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,16,59.45%*2,1.189
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,17,62.73%*2,1.2546
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,18,66.01%*2,1.3202
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,19,69.29%*2,1.3858
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 2 DMG,20,72.57%*2,1.4514
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,1,14.55%*6,0.873
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,2,15.75%*6,0.945
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,3,16.94%*6,1.0164
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,4,18.61%*6,1.1166
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,5,19.80%*6,1.188
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,6,21.18%*6,1.2708
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,7,23.09%*6,1.3854
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,8,24.99%*6,1.4994
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,9,26.90%*6,1.614
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,10,28.93%*6,1.7358
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,11,31.32%*6,1.8792
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,12,33.70%*6,2.022
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,13,36.09%*6,2.1654
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,14,38.48%*6,2.3088
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,15,40.86%*6,2.4516
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,16,43.25%*6,2.595
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,17,45.64%*6,2.7384
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,18,48.02%*6,2.8812
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,19,50.41%*6,3.0246
+Phoebe,To Where Light Shines,Resonance Skill,Chamuel's Star: Stage 3 DMG,20,52.79%*6,3.1674
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,1,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,2,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,3,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,4,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,5,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,6,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,7,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,8,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,9,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,10,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,11,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,12,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,13,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,14,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,15,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,16,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,17,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,18,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,19,12,0.0
+Phoebe,To Where Light Shines,Resonance Skill,Cooldown,20,12,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,1,202.00%,2.02
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,2,218.57%,2.1857
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,3,235.13%,2.3513
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,4,258.32%,2.5832
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,5,274.89%,2.7489
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,6,293.94%,2.9394
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,7,320.44%,3.2044
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,8,346.94%,3.4694
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,9,373.44%,3.7344
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,10,401.60%,4.016
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,11,434.73%,4.3473
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,12,467.86%,4.6786
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,13,500.99%,5.0099
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,14,534.11%,5.3411
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,15,567.24%,5.6724
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,16,600.37%,6.0037
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,17,633.50%,6.335
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,18,666.63%,6.6663
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,19,699.75%,6.9975
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Ultimate DMG,20,732.88%,7.3288
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,1,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,2,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,3,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,4,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,5,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,6,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,7,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,8,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,9,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,10,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,11,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,12,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,13,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,14,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,15,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,16,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,17,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,18,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,19,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Cooldown,20,25,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,1,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,2,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,3,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,4,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,5,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,6,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,7,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,8,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,9,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,10,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,11,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,12,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,13,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,14,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,15,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,16,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,17,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,18,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,19,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Resonance Cost,20,125,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,1,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,2,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,3,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,4,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,5,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,6,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,7,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,8,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,9,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,10,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,11,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,12,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,13,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,14,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,15,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,16,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,17,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,18,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,19,20,0.0
+Phoebe,Dawn of Enlightenment,Resonance Liberation,Concerto Regen,20,20,0.0
+Phoebe,Golden Grace,Intro Skill,Skill DMG,1,100.00%,1.0
+Phoebe,Golden Grace,Intro Skill,Skill DMG,2,108.20%,1.082
+Phoebe,Golden Grace,Intro Skill,Skill DMG,3,116.40%,1.164
+Phoebe,Golden Grace,Intro Skill,Skill DMG,4,127.88%,1.2788
+Phoebe,Golden Grace,Intro Skill,Skill DMG,5,136.08%,1.3608
+Phoebe,Golden Grace,Intro Skill,Skill DMG,6,145.51%,1.4551
+Phoebe,Golden Grace,Intro Skill,Skill DMG,7,158.63%,1.5863
+Phoebe,Golden Grace,Intro Skill,Skill DMG,8,171.75%,1.7175
+Phoebe,Golden Grace,Intro Skill,Skill DMG,9,184.87%,1.8487
+Phoebe,Golden Grace,Intro Skill,Skill DMG,10,198.81%,1.9881
+Phoebe,Golden Grace,Intro Skill,Skill DMG,11,215.21%,2.1521
+Phoebe,Golden Grace,Intro Skill,Skill DMG,12,231.61%,2.3161
+Phoebe,Golden Grace,Intro Skill,Skill DMG,13,248.01%,2.4801
+Phoebe,Golden Grace,Intro Skill,Skill DMG,14,264.41%,2.6441
+Phoebe,Golden Grace,Intro Skill,Skill DMG,15,280.81%,2.8081
+Phoebe,Golden Grace,Intro Skill,Skill DMG,16,297.21%,2.9721
+Phoebe,Golden Grace,Intro Skill,Skill DMG,17,313.61%,3.1361
+Phoebe,Golden Grace,Intro Skill,Skill DMG,18,330.01%,3.3001
+Phoebe,Golden Grace,Intro Skill,Skill DMG,19,346.41%,3.4641
+Phoebe,Golden Grace,Intro Skill,Skill DMG,20,362.81%,3.6281
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,1,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,2,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,3,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,4,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,5,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,6,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,7,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,8,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,9,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,10,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,11,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,12,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,13,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,14,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,15,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,16,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,17,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,18,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,19,10,0.0
+Phoebe,Golden Grace,Intro Skill,Concerto Regen,20,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,1,321.00%,3.21
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,2,347.33%,3.4733
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,3,373.65%,3.7365
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,4,410.50%,4.105
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,5,436.82%,4.3682
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,6,467.09%,4.6709
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,7,509.21%,5.0921
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,8,551.32%,5.5132
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,9,593.44%,5.9344
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,10,638.19%,6.3819
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,11,690.83%,6.9083
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,12,743.47%,7.4347
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,13,796.12%,7.9612
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,14,848.76%,8.4876
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,15,901.41%,9.0141
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,16,954.05%,9.5405
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,17,1006.69%,10.0669
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,18,1059.34%,10.5934
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,19,1111.98%,11.1198
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany DMG,20,1164.63%,11.6463
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,1,94.50%,0.945
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,2,102.25%,1.0225
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,3,110.00%,1.1
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,4,120.85%,1.2085
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,5,128.60%,1.286
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,6,137.51%,1.3751
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,7,149.91%,1.4991
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,8,162.31%,1.6231
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,9,174.71%,1.7471
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,10,187.88%,1.8788
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,11,203.38%,2.0338
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,12,218.88%,2.1888
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,13,234.37%,2.3437
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,14,249.87%,2.4987
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,15,265.37%,2.6537
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,16,280.87%,2.8087
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,17,296.37%,2.9637
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,18,311.86%,3.1186
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,19,327.36%,3.2736
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession DMG,20,342.86%,3.4286
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,1,41.59%*3,1.2477
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,2,45.00%*3,1.35
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,3,48.41%*3,1.4523
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,4,53.19%*3,1.5957
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,5,56.60%*3,1.698
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,6,60.52%*3,1.8156
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,7,65.98%*3,1.9794
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,8,71.43%*3,2.1429
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,9,76.89%*3,2.3067
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,10,82.69%*3,2.4807
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,11,89.51%*3,2.6853
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,12,96.33%*3,2.8899
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,13,103.15%*3,3.0945
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,14,109.97%*3,3.2991
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,15,116.79%*3,3.5037
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,16,123.61%*3,3.7083
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,17,130.43%*3,3.9129
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,18,137.25%*3,4.1175
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,19,144.07%*3,4.3221
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash DMG,20,150.89%*3,4.5267
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,1,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,2,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,3,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,4,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,5,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,6,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,7,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,8,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,9,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,10,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,11,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,12,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,13,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,14,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,15,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,16,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,17,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,18,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,19,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Heavy Attack: Starflash STA Cost,20,25,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,1,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,2,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,3,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,4,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,5,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,6,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,7,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,8,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,9,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,10,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,11,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,12,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,13,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,14,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,15,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,16,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,17,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,18,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,19,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Absolution Litany Concerto Regen,20,10,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,1,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,2,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,3,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,4,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,5,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,6,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,7,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,8,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,9,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,10,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,11,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,12,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,13,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,14,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,15,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,16,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,17,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,18,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,19,40,0.0
+Phoebe,Radiant Invocation,Forte Circuit,Utter Confession Concerto Regen,20,40,0.0

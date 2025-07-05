@@ -1,0 +1,519 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,1,29.75%,0.2975
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,2,32.19%,0.3219
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,3,34.63%,0.3463
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,4,38.05%,0.3805
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,5,40.49%,0.4049
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,6,43.29%,0.4329
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,7,47.20%,0.472
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,8,51.10%,0.511
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,9,55.00%,0.55
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,10,59.15%,0.5915
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,11,64.03%,0.6403
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,12,68.91%,0.6891
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,13,73.79%,0.7379
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,14,78.67%,0.7867
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,15,83.55%,0.8355
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,16,88.42%,0.8842
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,17,93.30%,0.933
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,18,98.18%,0.9818
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,19,103.06%,1.0306
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 1 DMG,20,107.94%,1.0794
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,1,38.25%,0.3825
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,2,41.39%,0.4139
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,3,44.53%,0.4453
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,4,48.92%,0.4892
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,5,52.06%,0.5206
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,6,55.66%,0.5566
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,7,60.68%,0.6068
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,8,65.70%,0.657
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,9,70.72%,0.7072
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,10,76.05%,0.7605
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,11,82.32%,0.8232
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,12,88.60%,0.886
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,13,94.87%,0.9487
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,14,101.14%,1.0114
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,15,107.41%,1.0741
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,16,113.69%,1.1369
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,17,119.96%,1.1996
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,18,126.23%,1.2623
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,19,132.51%,1.3251
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 2 DMG,20,138.78%,1.3878
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,1,7.65%*5,0.3825
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,2,8.28%*5,0.414
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,3,8.91%*5,0.4455
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,4,9.79%*5,0.4895
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,5,10.42%*5,0.521
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,6,11.14%*5,0.557
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,7,12.14%*5,0.607
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,8,13.14%*5,0.657
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,9,14.15%*5,0.7075
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,10,15.21%*5,0.7605
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,11,16.47%*5,0.8235
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,12,17.72%*5,0.886
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,13,18.98%*5,0.949
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,14,20.23%*5,1.0115
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,15,21.49%*5,1.0745
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,16,22.74%*5,1.137
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,17,24.00%*5,1.2
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,18,25.25%*5,1.2625
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,19,26.51%*5,1.3255
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 3 DMG,20,27.76%*5,1.388
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,1,65.45%,0.6545
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,2,70.82%,0.7082
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,3,76.19%,0.7619
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,4,83.70%,0.837
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,5,89.07%,0.8907
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,6,95.24%,0.9524
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,7,103.83%,1.0383
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,8,112.42%,1.1242
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,9,121.00%,1.21
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,10,130.13%,1.3013
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,11,140.86%,1.4086
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,12,151.59%,1.5159
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,13,162.33%,1.6233
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,14,173.06%,1.7306
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,15,183.80%,1.838
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,16,194.53%,1.9453
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,17,205.26%,2.0526
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,18,216.00%,2.16
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,19,226.73%,2.2673
+Rover: Spectro,Vibration Manifestation,Normal Attack,Stage 4 DMG,20,237.46%,2.3746
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,1,98.25%,0.9825
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,2,106.31%,1.0631
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,3,114.37%,1.1437
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,4,125.65%,1.2565
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,5,133.70%,1.337
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,6,142.97%,1.4297
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,7,155.86%,1.5586
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,8,168.75%,1.6875
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,9,181.64%,1.8164
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,10,195.34%,1.9534
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,11,211.45%,2.1145
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,12,227.56%,2.2756
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,13,243.67%,2.4367
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,14,259.79%,2.5979
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,15,275.90%,2.759
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,16,292.01%,2.9201
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,17,308.13%,3.0813
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,18,324.24%,3.2424
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,19,340.35%,3.4035
+Rover: Spectro,Vibration Manifestation,Normal Attack,Dodge Counter DMG,20,356.47%,3.5647
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,1,9.69%*5,0.4845
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,2,10.49%*5,0.5245
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,3,11.28%*5,0.564
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,4,12.40%*5,0.62
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,5,13.19%*5,0.6595
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,6,14.10%*5,0.705
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,7,15.38%*5,0.769
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,8,16.65%*5,0.8325
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,9,17.92%*5,0.896
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,10,19.27%*5,0.9635
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,11,20.86%*5,1.043
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,12,22.45%*5,1.1225
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,13,24.04%*5,1.202
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,14,25.63%*5,1.2815
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,15,27.22%*5,1.361
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,16,28.80%*5,1.44
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,17,30.39%*5,1.5195
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,18,31.98%*5,1.599
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,19,33.57%*5,1.6785
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack DMG,20,35.16%*5,1.758
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,1,38.25%,0.3825
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,2,41.39%,0.4139
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,3,44.53%,0.4453
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,4,48.92%,0.4892
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,5,52.06%,0.5206
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,6,55.66%,0.5566
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,7,60.68%,0.6068
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,8,65.70%,0.657
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,9,70.72%,0.7072
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,10,76.05%,0.7605
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,11,82.32%,0.8232
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,12,88.60%,0.886
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,13,94.87%,0.9487
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,14,101.14%,1.0114
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,15,107.41%,1.0741
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,16,113.69%,1.1369
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,17,119.96%,1.1996
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,18,126.23%,1.2623
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,19,132.51%,1.3251
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Resonance DMG,20,138.78%,1.3878
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,1,63.75%,0.6375
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,2,68.98%,0.6898
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,3,74.21%,0.7421
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,4,81.53%,0.8153
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,5,86.76%,0.8676
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,6,92.77%,0.9277
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,7,101.13%,1.0113
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,8,109.50%,1.095
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,9,117.86%,1.1786
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,10,126.75%,1.2675
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,11,137.20%,1.372
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,12,147.66%,1.4766
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,13,158.11%,1.5811
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,14,168.57%,1.6857
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,15,179.02%,1.7902
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,16,189.48%,1.8948
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,17,199.93%,1.9993
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,18,210.39%,2.1039
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,19,220.84%,2.2084
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack - Aftertune DMG,20,231.30%,2.313
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,1,52.70%,0.527
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,2,57.03%,0.5703
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,3,61.35%,0.6135
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,4,67.40%,0.674
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,5,71.72%,0.7172
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,6,76.69%,0.7669
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,7,83.60%,0.836
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,8,90.52%,0.9052
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,9,97.43%,0.9743
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,10,104.78%,1.0478
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,11,113.42%,1.1342
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,12,122.06%,1.2206
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,13,130.71%,1.3071
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,14,139.35%,1.3935
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,15,147.99%,1.4799
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,16,156.63%,1.5663
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,17,165.28%,1.6528
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,18,173.92%,1.7392
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,19,182.56%,1.8256
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack DMG,20,191.21%,1.9121
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,1,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,2,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,3,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,4,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,5,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,6,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,7,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,8,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,9,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,10,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,11,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,12,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,13,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,14,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,15,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,16,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,17,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Heavy Attack STA Cost,18,25,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,1,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,2,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,3,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,4,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,5,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,6,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,7,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,8,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,9,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,10,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,11,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,12,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,13,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,14,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,15,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,16,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,17,30,0.0
+Rover: Spectro,Vibration Manifestation,Normal Attack,Mid-air Attack STA Cost,18,30,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,1,118.80%,1.188
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,2,128.55%,1.2855
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,3,138.29%,1.3829
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,4,151.93%,1.5193
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,5,161.67%,1.6167
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,6,172.87%,1.7287
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,7,188.46%,1.8846
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,8,204.04%,2.0404
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,9,219.63%,2.1963
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,10,236.19%,2.3619
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,11,255.67%,2.5567
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,12,275.16%,2.7516
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,13,294.64%,2.9464
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,14,314.12%,3.1412
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,15,333.61%,3.3361
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,16,353.09%,3.5309
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,17,372.57%,3.7257
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,18,392.06%,3.9206
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,19,411.54%,4.1154
+Rover: Spectro,Resonating Slashes,Resonance Skill,Skill DMG,20,431.02%,4.3102
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,1,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,2,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,3,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,4,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,5,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,6,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,7,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,8,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,9,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,10,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,11,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,12,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,13,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,14,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,15,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,16,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,17,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Cooldown,18,6,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,1,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,2,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,3,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,4,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,5,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,6,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,7,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,8,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,9,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,10,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,11,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,12,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,13,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,14,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,15,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,16,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,17,10,0.0
+Rover: Spectro,Resonating Slashes,Resonance Skill,Concerto Regen,18,10,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,1,100.00%+340.00%,4.4
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,2,108.20%+367.88%,4.7608
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,3,116.40%+395.76%,5.1216
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,4,127.88%+434.80%,5.6268
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,5,136.08%+462.68%,5.9876
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,6,145.51%+494.74%,6.4025
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,7,158.63%+539.35%,6.9798
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,8,171.75%+583.95%,7.557
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,9,184.87%+628.56%,8.1343
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,10,198.81%+675.96%,8.7477
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,11,215.21%+731.72%,9.4693
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,12,231.61%+787.48%,10.1909
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,13,248.01%+843.24%,10.9125
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,14,264.41%+899.00%,11.6341
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,15,280.81%+954.76%,12.3557
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,16,297.21%+1010.52%,13.0773
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,17,313.61%+1066.28%,13.7989
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,18,330.01%+1122.04%,14.5205
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,19,346.41%+1177.80%,15.2421
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Ultimate DMG,20,362.81%+1233.56%,15.9637
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,1,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,2,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,3,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,4,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,5,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,6,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,7,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,8,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,9,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,10,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,11,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,12,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,13,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,14,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,15,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,16,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,17,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Cooldown,18,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,1,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,2,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,3,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,4,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,5,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,6,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,7,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,8,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,9,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,10,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,11,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,12,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,13,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,14,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,15,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,16,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,17,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Resonance Cost,18,125,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,1,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,2,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,3,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,4,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,5,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,6,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,7,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,8,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,9,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,10,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,11,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,12,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,13,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,14,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,15,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,16,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,17,20,0.0
+Rover: Spectro,Echoing Orchestra,Resonance Liberation,Concerto  Regen,18,20,0.0
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,1,85.00%,0.85
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,2,91.97%,0.9197
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,3,98.94%,0.9894
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,4,108.70%,1.087
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,5,115.67%,1.1567
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,6,123.69%,1.2369
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,7,134.84%,1.3484
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,8,145.99%,1.4599
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,9,157.14%,1.5714
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,10,168.99%,1.6899
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,11,182.93%,1.8293
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,12,196.87%,1.9687
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,13,210.81%,2.1081
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,14,224.75%,2.2475
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,15,238.69%,2.3869
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,16,252.63%,2.5263
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,17,266.57%,2.6657
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,18,280.51%,2.8051
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,19,294.45%,2.9445
+Rover: Spectro,Waveshock,Intro Skill,Intro DMG,20,308.39%,3.0839
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,1,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,2,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,3,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,4,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,5,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,6,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,7,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,8,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,9,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,10,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,11,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,12,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,13,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,14,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,15,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,16,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,17,10,0.0
+Rover: Spectro,Waveshock,Intro Skill,Concerto Regen,18,10,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,1,64.93%*2,1.2986
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,2,70.25%*2,1.405
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,3,75.58%*2,1.5116
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,4,83.03%*2,1.6606
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,5,88.35%*2,1.767
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,6,94.48%*2,1.8896
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,7,103.00%*2,2.06
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,8,111.51%*2,2.2302
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,9,120.03%*2,2.4006
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,10,129.08%*2,2.5816
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,11,139.73%*2,2.7946
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,12,150.38%*2,3.0076
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,13,161.03%*2,3.2206
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,14,171.67%*2,3.4334
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,15,182.32%*2,3.6464
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,16,192.97%*2,3.8594
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,17,203.62%*2,4.0724
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,18,214.26%*2,4.2852
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,19,224.91%*2,4.4982
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin DMG,20,235.56%*2,4.7112
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,1,20.00%,0.2
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,2,21.64%,0.2164
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,3,23.28%,0.2328
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,4,25.58%,0.2558
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,5,27.22%,0.2722
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,6,29.11%,0.2911
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,7,31.73%,0.3173
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,8,34.35%,0.3435
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,9,36.98%,0.3698
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,10,39.77%,0.3977
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,11,43.05%,0.4305
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,12,46.33%,0.4633
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,13,49.61%,0.4961
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,14,52.89%,0.5289
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,15,56.17%,0.5617
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,16,59.45%,0.5945
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,17,62.73%,0.6273
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,18,66.01%,0.6601
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,19,69.29%,0.6929
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Whirl DMG,20,72.57%,0.7257
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,1,40.00%,0.4
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,2,43.28%,0.4328
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,3,46.56%,0.4656
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,4,51.16%,0.5116
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,5,54.44%,0.5444
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,6,58.21%,0.5821
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,7,63.46%,0.6346
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,8,68.70%,0.687
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,9,73.95%,0.7395
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,10,79.53%,0.7953
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,11,86.09%,0.8609
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,12,92.65%,0.9265
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,13,99.21%,0.9921
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,14,105.77%,1.0577
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,15,112.33%,1.1233
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,16,118.89%,1.1889
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,17,125.45%,1.2545
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,18,132.01%,1.3201
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,19,138.57%,1.3857
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 1 DMG,20,145.13%,1.4513
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,1,80.00%,0.8
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,2,86.56%,0.8656
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,3,93.12%,0.9312
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,4,102.31%,1.0231
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,5,108.87%,1.0887
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,6,116.41%,1.1641
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,7,126.91%,1.2691
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,8,137.40%,1.374
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,9,147.90%,1.479
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,10,159.05%,1.5905
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,11,172.17%,1.7217
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,12,185.29%,1.8529
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,13,198.41%,1.9841
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,14,211.53%,2.1153
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,15,224.65%,2.2465
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,16,237.77%,2.3777
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,17,250.89%,2.5089
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,18,264.01%,2.6401
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,19,277.13%,2.7713
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Stage 2 DMG,20,290.25%,2.9025
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,1,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,2,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,3,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,4,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,5,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,6,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,7,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,8,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,9,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,10,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,11,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,12,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,13,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,14,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,15,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,16,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,17,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Shimmer Duration,18,9,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,1,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,2,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,3,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,4,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,5,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,6,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,7,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,8,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,9,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,10,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,11,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,12,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,13,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,14,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,15,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,16,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,17,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Spin Concerto Regen,18,20,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,1,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,2,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,3,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,4,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,5,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,6,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,7,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,8,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,9,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,10,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,11,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,12,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,13,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,14,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,15,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,16,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,17,8,0.0
+Rover: Spectro,World in a Grain of Sand,Forte Circuit,Resonating Echoes Concerto Regen,18,8,0.0

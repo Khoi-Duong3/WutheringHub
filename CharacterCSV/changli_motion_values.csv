@@ -1,0 +1,544 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,1,14.84%*2,0.2968
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,2,16.05%*2,0.321
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,3,17.27%*2,0.3454
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,4,18.97%*2,0.3794
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,5,20.19%*2,0.4038
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,6,21.59%*2,0.4318
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,7,23.53%*2,0.4706
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,8,25.48%*2,0.5096
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,9,27.43%*2,0.5486
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,10,29.49%*2,0.5898
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,11,31.93%*2,0.6386
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,12,34.36%*2,0.6872
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,13,36.79%*2,0.7358
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,14,39.22%*2,0.7844
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,15,41.66%*2,0.8332
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,16,44.09%*2,0.8818
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,17,46.52%*2,0.9304
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,18,48.95%*2,0.979
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 1 DMG,19,51.39%*2,1.0278
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,1,17.85%*2,0.357
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,2,19.32%*2,0.3864
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,3,20.78%*2,0.4156
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,4,22.83%*2,0.4566
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,5,24.30%*2,0.486
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,6,25.98%*2,0.5196
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,7,28.32%*2,0.5664
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,8,30.66%*2,0.6132
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,9,33.00%*2,0.66
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,10,35.49%*2,0.7098
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,11,38.42%*2,0.7684
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,12,41.35%*2,0.827
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,13,44.27%*2,0.8854
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,14,47.20%*2,0.944
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,15,50.13%*2,1.0026
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,16,53.06%*2,1.0612
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,17,55.98%*2,1.1196
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,18,58.91%*2,1.1782
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 2 DMG,19,61.84%*2,1.2368
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,1,18.34%*3,0.5502
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,2,19.84%*3,0.5952
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,3,21.34%*3,0.6402
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,4,23.45%*3,0.7035
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,5,24.95%*3,0.7485
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,6,26.68%*3,0.8004
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,7,29.08%*3,0.8724
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,8,31.49%*3,0.9447
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,9,33.89%*3,1.0167
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,10,36.45%*3,1.0935
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,11,39.46%*3,1.1838
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,12,42.46%*3,1.2738
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,13,45.47%*3,1.3641
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,14,48.48%*3,1.4544
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,15,51.48%*3,1.5444
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,16,54.49%*3,1.6347
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,17,57.49%*3,1.7247
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,18,60.50%*3,1.815
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 3 DMG,19,63.51%*3,1.9053
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,1,25.50%+14.88%*4,0.8502
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,2,27.60%+16.10%*4,0.92
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,3,29.69%+17.32%*4,0.9897
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,4,32.61%+19.03%*4,1.0873
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,5,34.71%+20.25%*4,1.1571
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,6,37.11%+21.65%*4,1.2371
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,7,40.46%+23.60%*4,1.3486
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,8,43.80%+25.55%*4,1.46
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,9,47.15%+27.50%*4,1.5715
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,10,50.70%+29.58%*4,1.6902
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,11,54.88%+32.02%*4,1.8296
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,12,59.07%+34.46%*4,1.9691
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,13,63.25%+36.90%*4,2.1085
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,14,67.43%+39.34%*4,2.2479
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,15,71.61%+41.78%*4,2.3873
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,16,75.79%+44.21%*4,2.5263
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,17,79.98%+46.65%*4,2.6658
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,18,84.16%+49.09%*4,2.8052
+Changli,Blazing Enlightment,Normal Attack,Basic Attack 4 DMG,19,88.34%+51.53%*4,2.9446
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,1,30.86%,0.3086
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,2,33.39%,0.3339
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,3,35.92%,0.3592
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,4,39.46%,0.3946
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,5,41.99%,0.4199
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,6,44.90%,0.449
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,7,48.95%,0.4895
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,8,53.00%,0.53
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,9,57.05%,0.5705
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,10,61.35%,0.6135
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,11,66.41%,0.6641
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,12,71.47%,0.7147
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,13,76.53%,0.7653
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,14,81.59%,0.8159
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,15,86.65%,0.8665
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,16,91.71%,0.9171
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,17,96.77%,0.9677
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,18,101.83%,1.0183
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 1 DMG,19,106.89%,1.0689
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,1,25.59%*2,0.5118
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,2,27.69%*2,0.5538
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,3,29.79%*2,0.5958
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,4,32.72%*2,0.6544
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,5,34.82%*2,0.6964
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,6,37.23%*2,0.7446
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,7,40.59%*2,0.8118
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,8,43.95%*2,0.879
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,9,47.30%*2,0.946
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,10,50.87%*2,1.0174
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,11,55.07%*2,1.1014
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,12,59.26%*2,1.1852
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,13,63.46%*2,1.2692
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,14,67.65%*2,1.353
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,15,71.85%*2,1.437
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,16,76.05%*2,1.521
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,17,80.24%*2,1.6048
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,18,84.44%*2,1.6888
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 2 DMG,19,88.63%*2,1.7726
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,1,22.13%*3,0.6639
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,2,23.95%*3,0.7185
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,3,25.76%*3,0.7728
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,4,28.30%*3,0.849
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,5,30.12%*3,0.9036
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,6,32.20%*3,0.966
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,7,35.11%*3,1.0533
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,8,38.01%*3,1.1403
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,9,40.91%*3,1.2273
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,10,44.00%*3,1.32
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,11,47.63%*3,1.4289
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,12,51.26%*3,1.5378
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,13,54.89%*3,1.6467
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,14,58.51%*3,1.7553
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,15,62.14%*3,1.8642
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,16,65.77%*3,1.9731
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,17,69.40%*3,2.082
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,18,73.03%*3,2.1909
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 3 DMG,19,76.66%*3,2.2998
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,1,19.13%+11.16%*4,0.6377
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,2,20.70%+12.08%*4,0.6902
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,3,22.27%+12.99%*4,0.7423
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,4,24.46%+14.27%*4,0.8154
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,5,26.03%+15.19%*4,0.8679
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,6,27.83%+16.24%*4,0.9279
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,7,30.34%+17.70%*4,1.0114
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,8,32.85%+19.17%*4,1.0953
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,9,35.36%+20.63%*4,1.1788
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,10,38.03%+22.18%*4,1.2675
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,11,41.16%+24.01%*4,1.372
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,12,44.30%+25.84%*4,1.4766
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,13,47.44%+27.67%*4,1.5812
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,14,50.57%+29.50%*4,1.6857
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,15,53.71%+31.33%*4,1.7903
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,16,56.85%+33.16%*4,1.8949
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,17,59.98%+34.99%*4,1.9994
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,18,63.12%+36.82%*4,2.104
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack 4 DMG,19,66.26%+38.65%*4,2.2086
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,1,14.58%*3+18.75%,0.6249
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,2,15.78%*3+20.28%,0.6762
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,3,16.97%*3+21.82%,0.7273
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,4,18.65%*3+23.97%,0.7992
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,5,19.84%*3+25.51%,0.8503
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,6,21.22%*3+27.28%,0.9094
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,7,23.13%*3+29.74%,0.9913
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,8,25.04%*3+32.20%,1.0732
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,9,26.95%*3+34.65%,1.155
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,10,28.99%*3+37.27%,1.2424
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,11,31.38%*3+40.34%,1.3448
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,12,33.77%*3+43.41%,1.4472
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,13,36.16%*3+46.49%,1.5497
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,14,38.55%*3+49.56%,1.6521
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,15,40.94%*3+52.64%,1.7546
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,16,43.33%*3+55.71%,1.857
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,17,45.72%*3+58.78%,1.9594
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,18,48.11%*3+61.86%,2.0619
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack,19,50.50%*3+64.93%,2.1643
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,1,62.00%,0.62
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,2,67.09%,0.6709
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,3,72.17%,0.7217
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,4,79.29%,0.7929
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,5,84.37%,0.8437
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,6,90.22%,0.9022
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,7,98.36%,0.9836
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,8,106.49%,1.0649
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,9,114.62%,1.1462
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,10,123.27%,1.2327
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,11,133.44%,1.3344
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,12,143.60%,1.436
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,13,153.77%,1.5377
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,14,163.94%,1.6394
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,15,174.11%,1.7411
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,16,184.28%,1.8428
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,17,194.44%,1.9444
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,18,204.61%,2.0461
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack,19,214.78%,2.1478
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,1,41.57%*3,1.2471
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,2,44.98%*3,1.3494
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,3,48.39%*3,1.4517
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,4,53.16%*3,1.5948
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,5,56.57%*3,1.6971
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,6,60.49%*3,1.8147
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,7,65.94%*3,1.9782
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,8,71.40%*3,2.142
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,9,76.85%*3,2.3055
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,10,82.64%*3,2.4792
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,11,89.46%*3,2.6838
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,12,96.28%*3,2.8884
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,13,103.09%*3,3.0927
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,14,109.91%*3,3.2973
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,15,116.73%*3,3.5019
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,16,123.55%*3,3.7065
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,17,130.36%*3,3.9108
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,18,137.18%*3,4.1154
+Changli,Blazing Enlightment,Normal Attack,Dodge Counter,19,144.00%*3,4.32
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,1,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,2,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,3,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,4,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,5,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,6,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,7,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,8,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,9,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,10,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,11,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,12,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,13,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,14,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,15,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,16,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,17,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,18,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,19,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Attack STA Cost,20,5,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,1,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,2,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,3,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,4,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,5,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,6,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,7,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,8,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,9,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,10,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,11,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,12,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,13,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,14,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,15,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,16,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,17,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,18,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,19,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Heavy Attack STA Cost,20,25,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,1,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,2,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,3,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,4,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,5,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,6,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,7,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,8,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,9,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,10,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,11,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,12,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,13,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,14,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,15,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,16,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,17,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,18,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,19,30,0.0
+Changli,Blazing Enlightment,Normal Attack,Mid-air Heavy Attack STA Cost,20,30,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,1,41.19%*3+82.37%,2.0594
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,2,44.57%*3+89.13%,2.2284
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,3,47.94%*3+95.88%,2.397
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,4,52.67%*3+105.34%,2.6335
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,5,56.05%*3+112.09%,2.8024
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,6,59.93%*3+119.86%,2.9965
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,7,65.34%*3+130.67%,3.2669
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,8,70.74%*3+141.47%,3.5369
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,9,76.14%*3+152.28%,3.807
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,10,81.88%*3+163.76%,4.094
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,11,88.64%*3+177.27%,4.4319
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,12,95.39%*3+190.78%,4.7695
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,13,102.15%*3+204.29%,5.1074
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,14,108.90%*3+217.79%,5.4449
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,15,115.65%*3+231.30%,5.7825
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,16,122.41%*3+244.81%,6.1204
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,17,129.16%*3+258.32%,6.458
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,18,135.92%*3+271.83%,6.7959
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture DMG,19,142.67%*3+285.34%,7.1335
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,1,29.65%*2+41.51%+47.44%,1.4825
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,2,32.08%*2+44.91%+51.33%,1.604
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,3,34.51%*2+48.32%+55.22%,1.7256
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,4,37.92%*2+53.08%+60.67%,1.8959
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,5,40.35%*2+56.49%+64.56%,2.0175
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,6,43.14%*2+60.40%+69.03%,2.1571
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,7,47.03%*2+65.85%+75.25%,2.3516
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,8,50.92%*2+71.29%+81.48%,2.5461
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,9,54.81%*2+76.74%+87.70%,2.7406
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,10,58.95%*2+82.52%+94.31%,2.9473
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,11,63.81%*2+89.33%+102.09%,3.1904
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,12,68.67%*2+96.14%+109.87%,3.4335
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,13,73.53%*2+102.94%+117.65%,3.6765
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,14,78.40%*2+109.75%+125.43%,3.9198
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,15,83.26%*2+116.56%+133.21%,4.1629
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,16,88.12%*2+123.37%+140.99%,4.406
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,17,92.98%*2+130.17%+148.77%,4.649
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,18,97.84%*2+136.98%+156.55%,4.8921
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest DMG,19,102.71%*2+143.79%+164.33%,5.1354
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,1,36.56%+54.84%,0.914
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,2,39.56%+59.34%,0.989
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,3,42.56%+63.83%,1.0639
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,4,46.75%+70.13%,1.1688
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,5,49.75%+74.62%,1.2437
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,6,53.20%+79.80%,1.33
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,7,58.00%+86.99%,1.4499
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,8,62.79%+94.18%,1.5697
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,9,67.59%+101.38%,1.6897
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,10,72.68%+109.02%,1.817
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,11,78.68%+118.02%,1.967
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,12,84.67%+127.01%,2.1168
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,13,90.67%+136.00%,2.2667
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,14,96.66%+144.99%,2.4165
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,15,102.66%+153.99%,2.5665
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,16,108.66%+162.98%,2.7164
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,17,114.65%+171.97%,2.8662
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,18,120.65%+180.97%,3.0162
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge DMG,19,126.64%+189.96%,3.166
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,1,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,2,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,3,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,4,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,5,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,6,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,7,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,8,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,9,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,10,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,11,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,12,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,13,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,14,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,15,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,16,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,17,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,18,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,19,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Capture - Concerto Regen,20,14,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,1,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,2,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,3,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,4,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,5,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,6,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,7,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,8,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,9,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,10,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,11,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,12,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,13,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,14,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,15,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,16,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,17,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,18,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,19,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Conquest - Concerto Regen,20,7,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,1,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,2,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,3,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,4,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,5,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,6,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,7,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,8,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,9,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,10,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,11,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,12,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,13,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,14,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,15,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,16,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,17,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,18,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,19,6,0.0
+Changli,Tripartite Flames,Resonance Skill,True Sight: Charge - Concerto Regen,20,6,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,1,610.00%,6.1
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,2,660.02%,6.6002
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,3,710.04%,7.1004
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,4,780.07%,7.8007
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,5,830.09%,8.3009
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,6,887.62%,8.8762
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,7,967.65%,9.6765
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,8,1047.68%,10.4768
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,9,1127.71%,11.2771
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,10,1212.75%,12.1275
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,11,1312.79%,13.1279
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,12,1412.83%,14.1283
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,13,1512.87%,15.1287
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,14,1612.91%,16.1291
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,15,1712.95%,17.1295
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,16,1812.99%,18.1299
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,17,1913.03%,19.1303
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,18,2013.07%,20.1307
+Changli,Radiance of Fealty,Resonance Liberation,Ultimate DMG,19,2113.11%,21.1311
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,1,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,2,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,3,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,4,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,5,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,6,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,7,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,8,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,9,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,10,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,11,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,12,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,13,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,14,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,15,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,16,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,17,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,18,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,19,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Cooldown,20,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,1,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,2,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,3,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,4,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,5,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,6,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,7,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,8,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,9,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,10,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,11,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,12,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,13,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,14,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,15,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,16,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,17,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,18,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,19,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Resonance Cost,20,125,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,1,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,2,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,3,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,4,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,5,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,6,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,7,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,8,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,9,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,10,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,11,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,12,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,13,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,14,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,15,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,16,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,17,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,18,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,19,20,0.0
+Changli,Radiance of Fealty,Resonance Liberation,Concerto Regen,20,20,0.0
+Changli,Obedience of Rules,Intro Skill,Intro DMG,1,22.38%+13.06%*4,0.7462
+Changli,Obedience of Rules,Intro Skill,Intro DMG,2,24.22%+14.13%*4,0.8074
+Changli,Obedience of Rules,Intro Skill,Intro DMG,3,26.06%+15.20%*4,0.8686
+Changli,Obedience of Rules,Intro Skill,Intro DMG,4,28.62%+16.70%*4,0.9542
+Changli,Obedience of Rules,Intro Skill,Intro DMG,5,30.46%+17.77%*4,1.0154
+Changli,Obedience of Rules,Intro Skill,Intro DMG,6,32.57%+19.00%*4,1.0857
+Changli,Obedience of Rules,Intro Skill,Intro DMG,7,35.51%+20.71%*4,1.1835
+Changli,Obedience of Rules,Intro Skill,Intro DMG,8,38.44%+22.43%*4,1.2816
+Changli,Obedience of Rules,Intro Skill,Intro DMG,9,41.38%+24.14%*4,1.3794
+Changli,Obedience of Rules,Intro Skill,Intro DMG,10,44.50%+25.96%*4,1.4834
+Changli,Obedience of Rules,Intro Skill,Intro DMG,11,48.17%+28.10%*4,1.6057
+Changli,Obedience of Rules,Intro Skill,Intro DMG,12,51.84%+30.24%*4,1.728
+Changli,Obedience of Rules,Intro Skill,Intro DMG,13,55.51%+32.38%*4,1.8503
+Changli,Obedience of Rules,Intro Skill,Intro DMG,14,59.18%+34.52%*4,1.9726
+Changli,Obedience of Rules,Intro Skill,Intro DMG,15,62.85%+36.66%*4,2.0949
+Changli,Obedience of Rules,Intro Skill,Intro DMG,16,66.52%+38.81%*4,2.2176
+Changli,Obedience of Rules,Intro Skill,Intro DMG,17,70.19%+40.95%*4,2.3399
+Changli,Obedience of Rules,Intro Skill,Intro DMG,18,73.86%+43.09%*4,2.4622
+Changli,Obedience of Rules,Intro Skill,Intro DMG,19,77.53%+45.23%*4,2.5845
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,1,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,2,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,3,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,4,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,5,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,6,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,7,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,8,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,9,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,10,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,11,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,12,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,13,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,14,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,15,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,16,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,17,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,18,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,19,10,0.0
+Changli,Obedience of Rules,Intro Skill,Concerto Regen,20,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,1,19.74%*5+230.30%,3.29
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,2,21.36%*5+249.18%,3.5598
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,3,22.98%*5+268.07%,3.8297
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,4,25.25%*5+294.51%,4.2076
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,5,26.87%*5+313.39%,4.4774
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,6,28.73%*5+335.11%,4.7876
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,7,31.32%*5+365.32%,5.2192
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,8,33.91%*5+395.54%,5.6509
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,9,36.50%*5+425.75%,6.0825
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,10,39.25%*5+457.85%,6.541
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,11,42.49%*5+495.62%,7.0807
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,12,45.72%*5+533.39%,7.6199
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,13,48.96%*5+571.16%,8.1596
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,14,52.20%*5+608.93%,8.6993
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,15,55.44%*5+646.69%,9.2389
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,16,58.67%*5+684.46%,9.7781
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,17,61.91%*5+722.23%,10.3178
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,18,65.15%*5+760.00%,10.8575
+Changli,Flaming Sacrifice,Forte Circuit,Flaming Sacrifice DMG,19,68.38%*5+797.77%,11.3967
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,1,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,2,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,3,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,4,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,5,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,6,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,7,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,8,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,9,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,10,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,11,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,12,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,13,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,14,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,15,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,16,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,17,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,18,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,19,10,0.0
+Changli,Flaming Sacrifice,Forte Circuit,Concerto Regen,20,10,0.0
