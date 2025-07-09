@@ -1,5 +1,6 @@
 'use client'
 import Tile from './components/Tile'
+import HomePageButton from './components/HomePageButton'
 
 const tileData = [
   {
@@ -26,16 +27,26 @@ export default function Home() {
   return (
     <main className="px-8 py-16 max-w-7xl mx-auto">
       <section>
-        <h2 className="text-3xl font-bold text-center text-white mb-12">
+        <h2 className="text-3xl font-bold text-center text-white mb-4">
           The source of various tools, guides, and information for Wuthering Waves
         </h2>
         <p className='text-m text-gray-400 text-center'>
           Please choose one of our services below
         </p>
-        <div>
-          
+        <p className='text-xl text-gray-400 text-center mb-10'>
+          ↓
+        </p>
+        <div className='mb-20 grid grid-cols-5 gap-4'>
+          <HomePageButton/>
         </div>
       </section>
+
+      <section>
+        <h2 className='text-3xl font-bold text-center text-white mb-12'>
+          News & Current Patch Notes
+        </h2>
+      </section>
+
       <section>
         <h2 className="text-3xl font-bold text-center text-white mb-12">
           What WutheringHub offers
