@@ -3,6 +3,7 @@ import Tile from './components/Tile'
 import HomePageButton from './components/HomePageButton'
 import PatchNotes from './components/PatchNotes'
 import WuwaTwitterTimeline from './components/WuwaTweets'
+import EventCard from './components/EventCard'
 
 const tileData = [
   {
@@ -26,6 +27,11 @@ const tileData = [
 ]
 
 export default function Home() {
+  const blueStops = {
+    transparentStop: 'rgba(59,130,246,0)',
+    opaqueStop: 'rgba(59,130,246,1)',
+  }
+
   return (
     <main className="px-8 py-16 max-w-7xl mx-auto">
       <section>
@@ -58,6 +64,16 @@ export default function Home() {
         <h2 className='text-3xl font-bold text-center text-white mb-12'>
           Current & Upcoming Events
         </h2>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+          <EventCard imageURL='/whiwa.png' gradientStops={blueStops}>
+            <h3 className="text-xl font-semibold text-white">
+              Whimpering Wastes
+            </h3>
+            <p className="text-gray-200">Starts July 15 • 8 PM</p>
+          </EventCard>
+        </div>
+
       <section>
         <h2 className="text-3xl font-bold text-center text-white mb-12">
           What WutheringHub offers
