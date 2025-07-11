@@ -1,6 +1,8 @@
 'use client'
 import Tile from './components/Tile'
 import HomePageButton from './components/HomePageButton'
+import PatchNotes from './components/PatchNotes'
+import WuwaTwitterTimeline from './components/WuwaTweets'
 
 const tileData = [
   {
@@ -41,12 +43,21 @@ export default function Home() {
         </div>
       </section>
 
-      <section>
+      <section className='mb-20'>
         <h2 className='text-3xl font-bold text-center text-white mb-12'>
           News & Current Patch Notes
         </h2>
+        <div>
+          <PatchNotes src="https://wutheringwaves.kurogames.com/en/main/news/detail/2699" height="80vh" title="Version 2.4 Patch Notes"/>
+        </div>
+        <div>
+          <WuwaTwitterTimeline/>
+        </div>
+        
       </section>
-
+        <h2 className='text-3xl font-bold text-center text-white mb-12'>
+          Current & Upcoming Events
+        </h2>
       <section>
         <h2 className="text-3xl font-bold text-center text-white mb-12">
           What WutheringHub offers

@@ -15,7 +15,7 @@ export default function Navbar() {
   }, [])
 
   const navClasses = clsx(
-    'fixed top-0 left-0 w-full z-50 bg-transparent',
+    'fixed top-0 left-0 w-full z-50 bg-neutral-950',
     {
       'border-b border-gray-700 dark:border-gray-700': scrolled,
       'border-b-0': !scrolled,
