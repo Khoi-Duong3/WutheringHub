@@ -51,27 +51,30 @@ export default function Home() {
 
       <section className='mb-20'>
         <h2 className='text-3xl font-bold text-center text-white mb-12'>
-          News & Current Patch Notes
+          Latest Patch Notes
         </h2>
         <div>
           <PatchNotes src="https://wutheringwaves.kurogames.com/en/main/news/detail/2699" height="80vh" title="Version 2.4 Patch Notes"/>
         </div>
-        <div>
-          <WuwaTwitterTimeline/>
-        </div>
-        
+
       </section>
         <h2 className='text-3xl font-bold text-center text-white mb-12'>
           Current & Upcoming Events
         </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-          <EventCard imageURL='/whiwa.png' gradientStops={blueStops}>
-            <h3 className="text-xl font-semibold text-white">
-              Whimpering Wastes
-            </h3>
-            <p className="text-gray-200">Starts July 15 • 8 PM</p>
-          </EventCard>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-20">
+          <EventCard imageURL='/whiwaBG.png' gradientStops={blueStops} title="Whimpering Wastes" details={
+            <>
+              <p>
+                <strong>Event Duration:</strong> 2025/06/09 04:00 — 2025/07/21 03:59
+              </p>
+              <p>
+                <strong>Paragraph goes here</strong>testing testing
+              </p>
+            </>
+          }
+          />
+          
         </div>
 
       <section>
