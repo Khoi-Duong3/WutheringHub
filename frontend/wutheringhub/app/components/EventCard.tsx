@@ -33,7 +33,7 @@ export default function EventCard({
         isOpen ? "rounded-t-sm" : "h-16 rounded-sm"
       }`}
     >
-      <div className="absolute inset-y-0 left-0 w-32 z-0">
+      <div className="absolute top-0 left-0 h-16 w-32 overflow-hidden z-0">
         <Image
           src={imageURL}
           alt="event banner"
@@ -51,7 +51,7 @@ export default function EventCard({
         style={{
           backgroundImage: `linear-gradient(
             to right,
-            ${transparentStop} 0px,
+            ${transparentStop} 10px,
             ${opaqueStop} 20%
           )`,
         }}

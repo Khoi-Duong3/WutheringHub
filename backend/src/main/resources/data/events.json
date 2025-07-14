@@ -1,0 +1,12 @@
+[
+    {
+        "eventType": "whiwa",
+        "imageURL": "/whiwaBG.png",
+        "title": "Whimpering Wastes",
+        "start": "2025-06-09T04:00:00Z",
+        "end":   "2025-07-21T03:59:00Z",
+        "description": [
+            "After allies use Skill to attack enemy targets, every enemy target hit additionally accumulates 5 Grit Value for allies."
+        ]
+    }
+]

@@ -1,9 +1,8 @@
-'use client'
 import Tile from './components/Tile'
 import HomePageButton from './components/HomePageButton'
 import PatchNotes from './components/PatchNotes'
-import WuwaTwitterTimeline from './components/WuwaTweets'
 import EventCard from './components/EventCard'
+import { getEvents, Event } from '@/lib/getEvents'
 
 const tileData = [
   {
@@ -26,11 +25,9 @@ const tileData = [
   },
 ]
 
-export default function Home() {
-  const blueStops = {
-    transparentStop: 'rgba(59,130,246,0)',
-    opaqueStop: 'rgba(59,130,246,1)',
-  }
+export default async function Home() {
+
+  const events: Event[] = await getEvents()
 
   return (
     <main className="px-8 py-16 max-w-7xl mx-auto">
@@ -62,19 +59,27 @@ export default function Home() {
           Current & Upcoming Events
         </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-20">
-          <EventCard imageURL='/whiwaBG.png' gradientStops={blueStops} title="Whimpering Wastes" details={
-            <>
-              <p>
-                <strong>Event Duration:</strong> 2025/06/09 04:00 — 2025/07/21 03:59
-              </p>
-              <p>
-                <strong>Paragraph goes here</strong>testing testing
-              </p>
-            </>
-          }
-          />
-          
+        <div className="grid grid-cols-1 gap-2 mb-20">
+          {events.map((e) => (
+            <EventCard
+              key={e.eventType}
+              imageURL={e.imageURL}
+              gradientStops={e.gradientStops}
+              title={e.title}
+              details={
+                <>
+                  <p>
+                    <strong>Event Duration:</strong>{" "}
+                    {new Date(e.start).toLocaleString()} —{" "}
+                    {new Date(e.end).toLocaleString()}
+                  </p>
+                  {e.description.map((line, i) => (
+                    <p key={i}>{line}</p>
+                  ))}
+                </>
+              }
+            />
+          ))}
         </div>
 
       <section>

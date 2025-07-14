@@ -1,0 +1,30 @@
+[
+    {
+        "eventType": "whiwa",
+        "imageURL": "/whiwaBG.png",
+        "title": "Whimpering Wastes",
+        "start": "2025-06-09T04:00:00Z",
+        "end":   "2025-07-21T03:59:00Z",
+        "description": [
+            "Testing testing, this whimpering waste cycle..."
+        ]
+    },
+
+    {
+        "eventType": "lupaBanner",
+        "imageURL": "/lupaSplash.jpg",
+        "title": "Roar of Triumph",
+        "start": "2025-06-09T04:00:00Z",
+        "end":   "2025-07-21T03:59:00Z",
+        "description": ["Limited banner for the featured resonator Lupa"]
+    },
+
+    {
+        "eventType": "cartethiyaBanner",
+        "imageURL": "/cartethyaSplash.jpg",
+        "title": "Dance In The Storm's Wake",
+        "start": "2025-06-09T04:00:00Z",
+        "end":   "2025-07-21T03:59:00Z",
+        "description": ["Limited banner for the featured resonator Cartethiya"]
+    }
+]
