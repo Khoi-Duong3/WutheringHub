@@ -66,6 +66,7 @@ export default async function Home() {
               imageURL={e.imageURL}
               gradientStops={e.gradientStops}
               title={e.title}
+              countdown={e.end}
               details={
                 <>
                   <p>
