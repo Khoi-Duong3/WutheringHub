@@ -16,7 +16,8 @@ type EventProps = {
   title: ReactNode
   subtitle?: ReactNode
   details?: ReactNode
-  countdown?: string
+  countdownStart?: string
+  countdownEnd?: string
 }
 
 export default function EventCard({
@@ -25,7 +26,8 @@ export default function EventCard({
   title,
   subtitle,
   details,
-  countdown,
+  countdownStart,
+  countdownEnd,
 }: EventProps) {
   const { transparentStop, opaqueStop } = gradientStops
   const [isOpen, setIsOpen] = useState(false)
@@ -70,9 +72,9 @@ export default function EventCard({
         </div>
 
         <div className="flex items-center space-x-4">
-          {countdown && (
+          {(countdownStart || countdownEnd) && (
             <div className="px-2 py-0.5 bg-gray-800/40 rounded text-sm font-mono">
-              <CountDown target={countdown} />
+              <CountDown start={countdownStart!} end={countdownEnd!} />
             </div>
           )}
           {details && (

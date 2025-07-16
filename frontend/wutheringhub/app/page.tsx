@@ -2,6 +2,8 @@ import Tile from './components/Tile'
 import HomePageButton from './components/HomePageButton'
 import PatchNotes from './components/PatchNotes'
 import EventCard from './components/EventCard'
+import RegionButton, {type Region} from './components/RegionButtons'
+import EventList from './components/EventList'
 import { getEvents, Event } from '@/lib/getEvents'
 
 const tileData = [
@@ -55,33 +57,10 @@ export default async function Home() {
         </div>
 
       </section>
-        <h2 className='text-3xl font-bold text-center text-white mb-12'>
+        <h2 className='text-3xl font-bold text-center text-white mb-8'>
           Current & Upcoming Events
         </h2>
-
-        <div className="grid grid-cols-1 gap-2 mb-20">
-          {events.map((e) => (
-            <EventCard
-              key={e.eventType}
-              imageURL={e.imageURL}
-              gradientStops={e.gradientStops}
-              title={e.title}
-              countdown={e.end}
-              details={
-                <>
-                  <p>
-                    <strong>Event Duration:</strong>{" "}
-                    {new Date(e.start).toLocaleString()} —{" "}
-                    {new Date(e.end).toLocaleString()}
-                  </p>
-                  {e.description.map((line, i) => (
-                    <p key={i}>{line}</p>
-                  ))}
-                </>
-              }
-            />
-          ))}
-        </div>
+        <EventList events={events}/>
 
       <section>
         <h2 className="text-3xl font-bold text-center text-white mb-12">
@@ -102,3 +81,4 @@ export default async function Home() {
     </main>
   )
 }
+
