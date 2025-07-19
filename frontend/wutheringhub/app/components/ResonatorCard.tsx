@@ -17,25 +17,35 @@ interface Props {
 }
 
 export default function ResonatorCard({resonator}: Props){
+
+    const bg = resonator.star === 5 ? "bg-yellow-500 hover:bg-yellow-400" : resonator.star === 4 ? "bg-violet-800 hover:bg-violet-700" : 'bg-gray-100 hover:bg-gray-200'
     return (
     <Link
       href={`/resonators/${resonator.id}`}
-      className="block rounded overflow-hidden shadow hover:shadow-lg transition"
+      className={`block rounded overflow-hidden shadow hover:shadow-lg transition`}
     >
-      <div className="relative w-full pb-[100%]"> {/* 1:1 aspect ratio box */}
+      <div className={`relative w-full aspect-[2/3] ${bg} flex items-center justify-center`}>
         <Image
           src={resonator.portraitURL}
           alt={resonator.name}
-          fill                                 // ← tells Next.js “fill the parent div”
-          className="object-cover"
+          fill                               
+          className="object-contain"
         />
+
+        <div className="absolute top-0 left-0 w-9 h-9">
+          <Image src={`/elements/${resonator.element}.png`} alt={resonator.element} fill/>
+        </div>
+
+        <div className="absolute top-0 right-0 w-9 h-9">
+          <Image src={`/weapontype/${resonator.weaponType}.png`} alt={resonator.weaponType} fill className="object-contain drop-shadow-black"/>
+        </div>
+
       </div>
-      <div className="p-2 text-center">
-        <p className="font-semibold">{resonator.name}</p>
-        <p className="text-sm text-gray-500">
-          {resonator.element} • {resonator.star}★
-        </p>
+
+
+      <div className="bg-gray-800 px-3 py-2 text-center">
+        <p className="font-semibold text-white">{resonator.name}</p>
       </div>
     </Link>
-  )
+    )
 }

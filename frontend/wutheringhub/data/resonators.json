@@ -6,5 +6,15 @@
         "weaponType": "Sword",
         "star": 5,
         "portraitURL": "/ChangliFullSprite.png"
+    },
+
+    {
+        "id": 2,
+        "name": "Sanhua",
+        "element": "Glacio",
+        "weaponType": "Sword",
+        "star": 4,
+        "portraitURL": "/SanhuaFullSprite.png"
     }
+
 ]
