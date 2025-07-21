@@ -18,18 +18,18 @@ interface Props {
 
 export default function ResonatorCard({resonator}: Props){
 
-    const bg = resonator.star === 5 ? "bg-yellow-500 hover:bg-yellow-400" : resonator.star === 4 ? "bg-violet-800 hover:bg-violet-700" : 'bg-gray-100 hover:bg-gray-200'
+    const bg = resonator.star === 5 ? "bg-yellow-400 hover:bg-yellow-300" : resonator.star === 4 ? "bg-violet-700 hover:bg-violet-600" : 'bg-gray-100 hover:bg-gray-200'
     return (
     <Link
       href={`/resonators/${resonator.id}`}
       className={`block rounded overflow-hidden shadow hover:shadow-lg transition`}
     >
-      <div className={`relative w-full aspect-[2/3] ${bg} flex items-center justify-center`}>
+      <div className={`relative w-full aspect-[2/3] ${bg}`}>
         <Image
           src={resonator.portraitURL}
           alt={resonator.name}
           fill                               
-          className="object-contain"
+          className="object-contain object-bottom"
         />
 
         <div className="absolute top-0 left-0 w-9 h-9">

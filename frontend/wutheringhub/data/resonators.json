@@ -15,6 +15,42 @@
         "weaponType": "Sword",
         "star": 4,
         "portraitURL": "/SanhuaFullSprite.png"
+    },
+
+    {
+        "id": 3,
+        "name": "Jiyan",
+        "element": "Aero",
+        "weaponType": "Broadblade",
+        "star": 5,
+        "portraitURL": "/JiyanFullSprite.png"
+    },
+
+    {
+        "id": 4,
+        "name": "Cantarella",
+        "element": "Havoc",
+        "weaponType": "Rectifier",
+        "star": 5,
+        "portraitURL": "/CantarellaFullSprite.png"
+    },
+
+    {
+        "id": 5,
+        "name": "Zani",
+        "element": "Spectro",
+        "weaponType": "Gauntlets",
+        "star": 5,
+        "portraitURL": "/ZaniFullSprite.png"
+    },
+
+    {
+        "id": 6,
+        "name": "Carlotta",
+        "element": "Glacio",
+        "weaponType": "Pistols",
+        "star": 5,
+        "portraitURL": "/CarlottaFullSprite.png"
     }
 
 ]

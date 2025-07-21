@@ -4,7 +4,7 @@ import { useState, useMemo } from "react"
 import ResonatorGrid, { Resonator } from '../components/ResonatorGrid'
 import resonators from '@/data/resonators.json'
 import ResonatorSearchBar from "../components/ResonatorSearchBar"
-import ResonatorFilterBar, {Star} from "../components/ResonatorFilterBar"
+import ResonatorFilterBar from "../components/ResonatorFilterBar"
 
 export default function Resonators(){
     const allResonators = resonators as Resonator[];
@@ -12,11 +12,11 @@ export default function Resonators(){
     const weapons = useMemo(() => Array.from(new Set(allResonators.map((r) => r.weaponType))), [allResonators]);
 
     const [query, setQuery] = useState("");
-    const [selectedStars, setSelectedStars] = useState<Star[]>([])
+    const [selectedStars, setSelectedStars] = useState<number[]>([])
     const [selectedElements, setSelectedElements] = useState<string[]>([])
     const [selectedWeapons, setSelectedWeapons] = useState<string[]>([])
 
-    const toggleStar = (s: Star) => setSelectedStars((prev) => (prev.includes(s) ? prev.filter((x) => x !== s) : [...prev,s]))
+    const toggleStar = (s: number) => setSelectedStars(prev => prev.includes(s) ? prev.filter(x => x !== s) : [...prev,s])
     const toggleElement = (ele: string) => setSelectedElements((prev) => (prev.includes(ele) ? prev.filter((x) => x !== ele) : [...prev,ele]))
     const toggleWeapon = (wep: string) => setSelectedWeapons((prev) => (prev.includes(wep) ? prev.filter((x) => x !== wep) : [...prev,wep]))
     const resetFilters = () => {
@@ -36,6 +36,9 @@ export default function Resonators(){
                 return false
             }
             if (selectedWeapons.length && !selectedWeapons.includes(r.weaponType)) {
+                return false
+            }
+            if (selectedStars.length > 0 && !selectedStars.includes(r.star)){
                 return false
             }
             return true
