@@ -4,6 +4,8 @@ import { useState } from "react"
 import RegionButton, { type Region } from "./RegionButtons"
 import EventCard from "./EventCard"
 import type { Event } from "@/lib/getEvents"
+import { formatDate } from "@/lib/formatDate"
+import { format } from "path"
 
 interface Props { events: Event[] }
 
@@ -54,7 +56,8 @@ export default function EventList({events}: Props) {
                             details={
                             <>
                                 <p>
-                                <strong>Event Duration:</strong> {new Date(e.regionStartMs).toLocaleString()} — {new Date(e.regionEndMs).toLocaleString()}
+                                    <strong>Event Duration:</strong>{" "}
+                                    {formatDate(e.regionStartMs)} - {formatDate(e.regionEndMs)}
                                 </p>
                                 {e.description.map((line, i) => (
                                 <p key={i}>{line}</p>
@@ -79,7 +82,7 @@ export default function EventList({events}: Props) {
                                     details={
                                         <>
                                             <p>
-                                                <strong>Event Starts:</strong> {new Date(e.regionStartMs).toLocaleString()}
+                                                <strong>Event Starts:</strong> {formatDate(e.regionStartMs)}
                                             </p>
                                             {e.description.map((line, i) => (
                                                 <p key={i}>{line}</p>

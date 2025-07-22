@@ -1,47 +1,68 @@
 [
     {
+        "id": 0,
+        "name": "Aalto",
+        "element": "Aero",
+        "weaponType": "Pistols",
+        "star": 4,
+        "portraitURL": "/portraits/AaltoPortrait.png"
+
+        
+    },
+
+    {
         "id": 1,
-        "name": "Changli",
-        "element": "Fusion",
-        "weaponType": "Sword",
-        "star": 5,
-        "portraitURL": "/ChangliFullSprite.png"
+        "name": "Baizhi",
+        "element": "Glacio",
+        "weaponType": "Rectifier",
+        "star": 4,
+        "portraitURL": "/portraits/BaizhiPortrait.png"
+
+        
     },
 
     {
         "id": 2,
-        "name": "Sanhua",
-        "element": "Glacio",
+        "name": "Brant",
+        "element": "Fusion",
         "weaponType": "Sword",
-        "star": 4,
-        "portraitURL": "/SanhuaFullSprite.png"
+        "star": 5,
+        "portraitURL": "/portraits/BrantPortrait.png"
+
+        
     },
 
     {
         "id": 3,
-        "name": "Jiyan",
-        "element": "Aero",
+        "name": "Calcharo",
+        "element": "Electro",
         "weaponType": "Broadblade",
         "star": 5,
-        "portraitURL": "/JiyanFullSprite.png"
+        "portraitURL": "/portraits/CalcharoPortrait.png"
+
+        
     },
 
     {
         "id": 4,
-        "name": "Cantarella",
+        "name": "Camellya",
         "element": "Havoc",
-        "weaponType": "Rectifier",
+        "weaponType": "Sword",
         "star": 5,
-        "portraitURL": "/CantarellaFullSprite.png"
+        "portraitURL": "/portraits/CamellyaPortrait.png"
+
+        
     },
 
     {
         "id": 5,
-        "name": "Zani",
-        "element": "Spectro",
-        "weaponType": "Gauntlets",
+        "name": "Cantarella",
+        "element": "Havoc",
+        "weaponType": "Rectifier",
         "star": 5,
-        "portraitURL": "/ZaniFullSprite.png"
+        "portraitURL": "/portraits/CantarellaPortrait.png"
+
+        
     },
 
     {
@@ -50,7 +71,328 @@
         "element": "Glacio",
         "weaponType": "Pistols",
         "star": 5,
-        "portraitURL": "/CarlottaFullSprite.png"
+        "portraitURL": "/portraits/CarlottaPortrait.png"
+
+        
+    },
+
+    {
+        "id": 7,
+        "name": "Cartethyia",
+        "element": "Aero",
+        "weaponType": "Sword",
+        "star": 5,
+        "portraitURL": "/portraits/CartethyiaPortrait.png"
+
+        
+    },
+
+    {
+        "id": 8,
+        "name": "Changli",
+        "element": "Fusion",
+        "weaponType": "Sword",
+        "star": 5,
+        "portraitURL": "/portraits/ChangliPortrait.png"
+
+        
+    },
+
+    {
+        "id": 9,
+        "name": "Chixia",
+        "element": "Fusion",
+        "weaponType": "Pistols",
+        "star": 4,
+        "portraitURL": "/portraits/ChixiaPortrait.png"
+
+        
+    },
+
+    {
+        "id": 10,
+        "name": "Ciaccona",
+        "element": "Aero",
+        "weaponType": "Pistols",
+        "star": 5,
+        "portraitURL": "/portraits/CiacconaPortrait.png"
+
+        
+    },
+
+    {
+        "id": 11,
+        "name": "Danjin",
+        "element": "Havoc",
+        "weaponType": "Sword",
+        "star": 4,
+        "portraitURL": "/portraits/DanjinPortrait.png"
+
+        
+    },
+
+    {
+        "id": 12,
+        "name": "Encore",
+        "element": "Fusion",
+        "weaponType": "Rectifier",
+        "star": 5,
+        "portraitURL": "/portraits/EncorePortrait.png"
+
+        
+    },
+
+    {
+        "id": 13,
+        "name": "Jianxin",
+        "element": "Aero",
+        "weaponType": "Gauntlets",
+        "star": 5,
+        "portraitURL": "/portraits/JianxinPortrait.png"
+
+        
+    },
+
+    {
+        "id": 14,
+        "name": "Jinhsi",
+        "element": "Spectro",
+        "weaponType": "Broadblade",
+        "star": 5,
+        "portraitURL": "/portraits/JinhsiPortrait.png"
+
+        
+    },
+
+    {
+        "id": 15,
+        "name": "Jiyan",
+        "element": "Aero",
+        "weaponType": "Broadblade",
+        "star": 5,
+        "portraitURL": "/portraits/JiyanPortrait.png"
+
+        
+    },
+
+    {
+        "id": 16,
+        "name": "Lingyang",
+        "element": "Glacio",
+        "weaponType": "Gauntlets",
+        "star": 5,
+        "portraitURL": "/portraits/LingyangPortrait.png"
+
+        
+    },
+
+    {
+        "id": 17,
+        "name": "Lumi",
+        "element": "Electro",
+        "weaponType": "Broadblade",
+        "star": 5,
+        "portraitURL": "/portraits/LumiPortrait.png"
+
+        
+    },
+
+    {
+        "id": 18,
+        "name": "Lupa",
+        "element": "Fusion",
+        "weaponType": "Broadblade",
+        "star": 5,
+        "portraitURL": "/portraits/LupaPortrait.png"
+
+        
+    },
+
+    {
+        "id": 19,
+        "name": "Mortefi",
+        "element": "Fusion",
+        "weaponType": "Pistols",
+        "star": 4,
+        "portraitURL": "/portraits/MortefiPortrait.png"
+
+        
+    },
+
+    {
+        "id": 20,
+        "name": "Phoebe",
+        "element": "Spectro",
+        "weaponType": "Rectifier",
+        "star": 5,
+        "portraitURL": "/portraits/PhoebePortrait.png"
+
+        
+    },
+
+    {
+        "id": 21,
+        "name": "Phrolova",
+        "element": "Havoc",
+        "weaponType": "Rectifier",
+        "star": 5,
+        "portraitURL": "/portraits/PhrolovaPortrait.png"
+
+        
+    },
+
+    {
+        "id": 22,
+        "name": "Roccia",
+        "element": "Havoc",
+        "weaponType": "Gauntlets",
+        "star": 5,
+        "portraitURL": "/portraits/RocciaPortrait.png"
+
+        
+    },
+
+    {
+        "id": 23,
+        "name": "Rover: Aero",
+        "element": "Aero",
+        "weaponType": "Sword",
+        "star": 5,
+        "portraitURL": "/portraits/RoverPortrait.png"
+
+        
+    },
+
+    {
+        "id": 24,
+        "name": "Rover: Havoc",
+        "element": "Havoc",
+        "weaponType": "Sword",
+        "star": 5,
+        "portraitURL": "/portraits/RoverPortrait.png"
+
+        
+    },
+
+    {
+        "id": 25,
+        "name": "Rover: Spectro",
+        "element": "Spectro",
+        "weaponType": "Sword",
+        "star": 5,
+        "portraitURL": "/portraits/RoverPortrait.png"
+
+        
+    },
+
+    {
+        "id": 26,
+        "name": "Sanhua",
+        "element": "Glacio",
+        "weaponType": "Sword",
+        "star": 4,
+        "portraitURL": "/portraits/SanhuaPortrait.png"
+
+        
+    },
+
+    {
+        "id": 27,
+        "name": "Shorekeeper",
+        "element": "Spectro",
+        "weaponType": "Rectifier",
+        "star": 5,
+        "portraitURL": "/portraits/ShorekeeperPortrait.png"
+
+        
+    },
+
+    {
+        "id": 28,
+        "name": "Taoqi",
+        "element": "Havoc",
+        "weaponType": "Broadblade",
+        "star": 4,
+        "portraitURL": "/portraits/TaoqiPortrait.png"
+
+        
+    },
+
+    {
+        "id": 29,
+        "name": "Verina",
+        "element": "Spectro",
+        "weaponType": "Rectifier",
+        "star": 5,
+        "portraitURL": "/portraits/VerinaPortrait.png"
+
+        
+    },
+
+    {
+        "id": 30,
+        "name": "Xiangli Yao",
+        "element": "Electro",
+        "weaponType": "Gauntlets",
+        "star": 5,
+        "portraitURL": "/portraits/XiangliYaoPortrait.png"
+
+        
+    },
+
+    {
+        "id": 31,
+        "name": "Yangyang",
+        "element": "Aero",
+        "weaponType": "Sword",
+        "star": 4,
+        "portraitURL": "/portraits/YangyangPortrait.png"
+
+        
+    },
+
+    {
+        "id": 32,
+        "name": "Yinlin",
+        "element": "Electro",
+        "weaponType": "Rectifier",
+        "star": 5,
+        "portraitURL": "/portraits/YinlinPortrait.png"
+
+        
+    },
+
+    {
+        "id": 33,
+        "name": "Youhu",
+        "element": "Glacio",
+        "weaponType": "Gauntlets",
+        "star": 4,
+        "portraitURL": "/portraits/YouhuPortrait.png"
+
+        
+    },
+
+    {
+        "id": 34,
+        "name": "Zani",
+        "element": "Spectro",
+        "weaponType": "Gauntlets",
+        "star": 5,
+        "portraitURL": "/portraits/ZaniPortrait.png"
+
+        
+    },
+
+    {
+        "id": 35,
+        "name": "Zhezhi",
+        "element": "Glacio",
+        "weaponType": "Rectifier",
+        "star": 5,
+        "portraitURL": "/portraits/ZhezhiPortrait.png"
+
+        
     }
 
 ]

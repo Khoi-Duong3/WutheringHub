@@ -8,39 +8,39 @@ interface Props {
     elements: string[];
     weapons: string[];
 
-    selectedElements: string[]
-    onToggleElement: (element: string) => void;
+    selectedElement: string | null;
+    onToggleElement: (element: string | null) => void
 
-    selectedWeapons: string[]
-    onToggleWeapon: (element: string) => void;
+    selectedWeapon: string | null;
+    onToggleWeapon: (weapon: string | null) => void
 
-    selectedStars: number[];
-    onToggleStar: (star: number) => void
+    selectedStar: number | null;
+    onToggleStar: (star: number | null) => void
 
     onReset: () => void
 }
 
-export default function ResonatorFilterBar({elements, weapons, selectedElements, selectedWeapons, selectedStars, onToggleElement, onToggleWeapon, onToggleStar, onReset}: Props){
-    const isActive = (arr: any[], v: any) => arr.includes(v)
+export default function ResonatorFilterBar({elements, weapons, selectedElement, selectedWeapon, selectedStar, onToggleElement, onToggleWeapon, onToggleStar, onReset}: Props){
+    const isActive = (selection: any, v: any) => selection === v
     return (
         <div className="flex flex-wrap items-center gap-2 bg-gray-800 p-2 rounded-md">
             {[4,5].map((star) => (
-                <button key={star} onClick={() => onToggleStar(star as number)} className={`px-3 py-1 rounded ${isActive(selectedStars, star)? "bg-blue-500 text-gray-300": "bg-gray-700 text-gray-300"}`}>
+                <button key={star} onClick={() => onToggleStar(isActive(selectedStar, star) ? null : star)} className={`px-3 py-1 rounded ${isActive(selectedStar, star)? "bg-blue-500 text-gray-300": "bg-gray-700 text-gray-300"}`}>
                     {star}★
                 </button>
             ))}
 
             <div className="h-6 border-l border-gray-600 mx-2" />
             {elements.map((ele) => (
-                <button key={ele} onClick={() => onToggleElement(ele)} className={`px-3 py-1 rounded ${isActive(selectedElements, ele)? "bg-blue-500 text-black": "bg-gray-700 text-gray-300"}`}>
-                    <Image src={`/elements/${ele}.png`} alt={ele} width={40} height={40} className={isActive(selectedElements, ele) ? "" : "opacity-100"}/>
+                <button key={ele} onClick={() => onToggleElement(isActive(selectedElement, ele) ? null : ele)} className={`px-3 py-1 rounded ${isActive(selectedElement, ele)? "bg-blue-500 text-black": "bg-gray-700 text-gray-300"}`}>
+                    <Image src={`/elements/${ele}.png`} alt={ele} width={40} height={40} className={isActive(selectedElement, ele) ? "" : "opacity-100"}/>
                 </button>
             ))}
 
             <div className="h-6 border-l border-gray-600 mx-2" />
             {weapons.map((wep) => (
-                <button key={wep} onClick={() => onToggleWeapon(wep)} className={`px-3 py-1 rounded ${isActive(selectedWeapons, wep)? "bg-blue-500 text-black": "bg-gray-700 text-gray-300"}`}>
-                    <Image src={`/weapontype/${wep}.png`} alt={wep} width={40} height={40} className={isActive(selectedWeapons, wep) ? "" : "opacity-100"}/>
+                <button key={wep} onClick={() => onToggleWeapon(isActive(selectedWeapon, wep) ? null : wep)} className={`px-3 py-1 rounded ${isActive(selectedWeapon, wep)? "bg-blue-500 text-black": "bg-gray-700 text-gray-300"}`}>
+                    <Image src={`/weapontype/${wep}.png`} alt={wep} width={40} height={40} className={isActive(selectedWeapon, wep) ? "" : "opacity-100"}/>
                 </button>
             ))}
 

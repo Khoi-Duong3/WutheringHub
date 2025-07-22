@@ -39,12 +39,13 @@ export default function CountDown({ start, end }: CountDownProps){
         return "Event Ended"
     }
     
-    const [timeLeft, setTimeLeft] = useState(calc)
+    const [timeLeft, setTimeLeft] = useState("")
     
     useEffect(() => {
+        setTimeLeft(calc())
         const tick = setInterval(() => setTimeLeft(calc()), 1000)
         return () => clearInterval(tick)
-    }, [start, end])
+    }, [startTime, endTime])
 
     return <span>{timeLeft}</span>
 }

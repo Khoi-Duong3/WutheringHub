@@ -12,18 +12,27 @@ export default function Resonators(){
     const weapons = useMemo(() => Array.from(new Set(allResonators.map((r) => r.weaponType))), [allResonators]);
 
     const [query, setQuery] = useState("");
-    const [selectedStars, setSelectedStars] = useState<number[]>([])
-    const [selectedElements, setSelectedElements] = useState<string[]>([])
-    const [selectedWeapons, setSelectedWeapons] = useState<string[]>([])
+    const [selectedElement, setSelectedElement] = useState<string | null>(null)
+    const [selectedWeapon,  setSelectedWeapon]  = useState<string | null>(null)
+    const [selectedStar,    setSelectedStar]    = useState<number | null>(null) 
 
-    const toggleStar = (s: number) => setSelectedStars(prev => prev.includes(s) ? prev.filter(x => x !== s) : [...prev,s])
-    const toggleElement = (ele: string) => setSelectedElements((prev) => (prev.includes(ele) ? prev.filter((x) => x !== ele) : [...prev,ele]))
-    const toggleWeapon = (wep: string) => setSelectedWeapons((prev) => (prev.includes(wep) ? prev.filter((x) => x !== wep) : [...prev,wep]))
+    const toggleStar = (s: number | null) => {
+        setSelectedStar(current => (current === s ? null : s))
+    };
+
+    const toggleElement = (ele: string | null) => {
+        setSelectedElement(current => (current === ele ? null : ele))
+    };
+
+    const toggleWeapon = (wep: string | null) => {
+        setSelectedWeapon(current => (current === wep ? null : wep))
+    };
+
     const resetFilters = () => {
-        setSelectedStars([])
-        setSelectedElements([])
-        setSelectedWeapons([])
-        setQuery("")
+        setSelectedStar(null);
+        setSelectedElement(null);
+        setSelectedWeapon(null);
+        setQuery("");
     }
 
 
@@ -32,18 +41,18 @@ export default function Resonators(){
             if (query && !r.name.toLowerCase().includes(query.toLowerCase())) {
                 return false
             }
-            if (selectedElements.length && !selectedElements.includes(r.element)) {
+            if (selectedElement && r.element !== selectedElement){
                 return false
             }
-            if (selectedWeapons.length && !selectedWeapons.includes(r.weaponType)) {
+            if (selectedWeapon && r.weaponType !== selectedWeapon){
                 return false
             }
-            if (selectedStars.length > 0 && !selectedStars.includes(r.star)){
+            if (selectedStar && r.star !== selectedStar){
                 return false
             }
             return true
         })    
-    }, [allResonators, query, selectedElements, selectedStars, selectedWeapons])
+    }, [allResonators, query, selectedElement, selectedStar, selectedWeapon])
 
     return(
         <main className="max-w-6xl mx-auto p-4 space-y-4">
@@ -51,7 +60,7 @@ export default function Resonators(){
                 <ResonatorSearchBar value={query} onChange={setQuery} placeholder="Search..." className="max-w-md"/>
             </div>
             <div className="mb-10 flex items-center justify-center">
-                <ResonatorFilterBar elements={elements} weapons={weapons} selectedElements={selectedElements} onToggleElement={toggleElement} selectedWeapons={selectedWeapons} onToggleWeapon={toggleWeapon} selectedStars={selectedStars} onToggleStar={toggleStar} onReset={resetFilters}/>
+                <ResonatorFilterBar elements={elements} weapons={weapons} selectedElement={selectedElement} onToggleElement={toggleElement} selectedWeapon={selectedWeapon} onToggleWeapon={toggleWeapon} selectedStar={selectedStar} onToggleStar={toggleStar} onReset={resetFilters}/>
             </div>
             <h1 className="text-2xl font-bold mb-6">Resonators</h1>
             <ResonatorGrid resonators={filtered} />

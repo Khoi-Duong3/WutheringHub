@@ -53,7 +53,7 @@ export default async function Home() {
           Latest Patch Notes
         </h2>
         <div>
-          <PatchNotes src="https://wutheringwaves.kurogames.com/en/main/news/detail/2699" height="80vh" title="Version 2.4 Patch Notes"/>
+          <PatchNotes src="https://wutheringwaves.kurogames.com/en/main/news/detail/2901" height="80vh" title="Version 2.4 Patch Notes"/>
         </div>
 
       </section>
