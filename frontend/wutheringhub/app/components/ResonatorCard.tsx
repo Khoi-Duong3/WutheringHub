@@ -19,10 +19,10 @@ interface Props {
 export default function ResonatorCard({ resonator }: Props) {
   const bg =
     resonator.star === 5
-      ? "bg-yellow-400 hover:bg-yellow-300"
-      : resonator.star === 4
-      ? "bg-violet-700 hover:bg-violet-600"
-      : "bg-gray-100 hover:bg-gray-200"
+		? "bg-yellow-400 hover:bg-yellow-300"
+      	: resonator.star === 4
+      	? "bg-violet-700 hover:bg-violet-600"
+      	: "bg-gray-100 hover:bg-gray-200"
 
   return (
     <Link

@@ -22,7 +22,7 @@ export default function WeaponCard({ weapon }: Props) {
       : weapon.star === 4
       ? "bg-violet-700 hover:bg-violet-600"
       : weapon.star === 3
-      ? "bg-sky-500 hover:bg-sky-400"
+      ? "bg-sky-600 hover:bg-sky-500"
       : weapon.star === 2
       ? "bg-green-700 hover:bg-green-600"
       : weapon.star === 1

@@ -1,0 +1,1775 @@
+[
+    {
+        "id": 0,
+        "name": "Hooscamp",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Lingering Tunes",
+            "Sierra Gale"
+        ],
+        "portraitURL": "/echoes/Hooscamp.webp",
+        "setURL": [
+            "/sets/LingeringTunes.webp",
+            "/sets/SierraGale.webp"
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Diamondclaw",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Lingering Tunes",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/Diamondclaw.webp",
+        "setURL": [
+            "/sets/LingeringTunes.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Chirpuff",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Sun-sinking Eclipse",
+            "Sierra Gale"
+        ],
+        "portraitURL": "/echoes/Chirpuff.webp",
+        "setURL": [
+            "/sets/Sun-sinkingEclipse.webp",
+            "/sets/SierraGale.webp"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Traffic Illuminator",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Molten Rift",
+            "Sierra Gale",
+            "Void Thunder"
+        ],
+        "portraitURL": "/echoes/TrafficIlluminator.webp",
+        "setURL": [
+            "/sets/MoltenRift.webp",
+            "/sets/SierraGale.webp",
+            "/sets/VoidThunder.webp"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Clang Bang",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Freezing Frost",
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/ClangBang.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Lava Larva",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Lingering Tunes",
+            "Molten Rift"
+        ],
+        "portraitURL": "/echoes/LavaLarva.webp",
+        "setURL": [
+            "/sets/LingeringTunes.webp",
+            "/sets/MoltenRift.webp"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Dwarf Cassowary",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Sierra Gale",
+            "Rejuvenating Glow"
+        ],
+        "portraitURL": "/echoes/DwarfCassowary.webp",
+        "setURL": [
+            "/sets/SierraGale.webp",
+            "/sets/RejuvenatingGlow.webp"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Galescourge Stalker",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Frosty Resolve",
+            "Empyrean Anthem"
+        ],
+        "portraitURL": "/echoes/GalescourgeStalker.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/EmpyreanAnthem.webp"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Voltscourge Stalker",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Empyrean Anthem",
+            "Midnight Veil"
+        ],
+        "portraitURL": "/echoes/VoltscourgeStalker.webp",
+        "setURL": [
+            "/sets/EmpyreanAnthem.webp",
+            "/sets/MidnightVeil.webp"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Frostscourge Stalker",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Eternal Radiance",
+            "Midnight Veil"
+        ],
+        "portraitURL": "/echoes/FrostscourgeStalker.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp",
+            "/sets/MidnightVeil.webp"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Chop Chop: Headless",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Eternal Radiance",
+            "Tidebreaking Courage"
+        ],
+        "portraitURL": "/echoes/ChopChopHeadless.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp",
+            "/sets/TidebreakingCourage.webp"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Chop Chop: Leftless",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Frosty Resolve",
+            "Tidebreaking Courage"
+        ],
+        "portraitURL": "/echoes/ChopChopLeftless.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/TidebreakingCourage.webp"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Chop Chop: Rightless",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Frosty Resolve",
+            "Tidebreaking Courage"
+        ],
+        "portraitURL": "/echoes/ChopChopRightless.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/TidebreakingCourage.webp"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Fae Ignis",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Eternal Radiance",
+            "Midnight Veil",
+            "Dream of the Lost"
+        ],
+        "portraitURL": "/echoes/FaeIgnis.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp",
+            "/sets/MidnightVeil.webp",
+            "/sets/DreamoftheLost.webp"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Nimbus Wraith",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Midnight Veil",
+            "Empyrean Anthem"
+        ],
+        "portraitURL": "/echoes/NimbusWraith.webp",
+        "setURL": [
+            "/sets/MidnightVeil.webp",
+            "/sets/EmpyreanAnthem.webp"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Hocus Pocus",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Frosty Resolve",
+            "Empyrean Anthem"
+        ],
+        "portraitURL": "/echoes/HocusPocus.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/EmpyreanAnthem.webp"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Lottie Lost",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Frosty Resolve",
+            "Tidebreaking Courage"
+        ],
+        "portraitURL": "/echoes/LottieLost.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/TidebreakingCourage.webp"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Diggy Duggy",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Eternal Radiance",
+            "Tidebreaking Courage"
+        ],
+        "portraitURL": "/echoes/DiggyDuggy.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp",
+            "/sets/TidebreakingCourage.webp"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Chest Mimic",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Frosty Resolve",
+            "Midnight Veil",
+            "Empyrean Anthem"
+        ],
+        "portraitURL": "/echoes/ChestMimic.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/MidnightVeil.webp",
+            "/sets/EmpyreanAnthem.webp"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Golden Junrock",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Frosty Resolve",
+            "Eternal Radiance"
+        ],
+        "portraitURL": "/echoes/GoldenJunrock.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/EternalRadiance.webp"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Calcified Junrock",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Empyrean Anthem",
+            "Tidebreaking Courage"
+        ],
+        "portraitURL": "/echoes/CalcifiedJunrock.webp",
+        "setURL": [
+            "/sets/EmpyreanAnthem.webp",
+            "/sets/TidebreakingCourage.webp"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Aero Prism",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Eternal Radiance",
+            "Tidebreaking Courage"
+        ],
+        "portraitURL": "/echoes/AeroPrism.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp",
+            "/sets/TidebreakingCourage.webp"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "La Guardia",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Midnight Veil",
+            "Flamming Clawprint",
+            "Gusts of Welkin"
+        ],
+        "portraitURL": "/echoes/LaGuardia.webp",
+        "setURL": [
+            "/sets/MidnightVeil.webp",
+            "/sets/FlammingClawprint.webp",
+            "/sets/GustsofWelkin.webp"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Sagittario",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Eternal Radiance",
+            "Gusts of Welkin",
+            "Flamming Clawprint"
+        ],
+        "portraitURL": "/echoes/Sagittario.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp",
+            "/sets/GustsofWelkin.webp",
+            "/sets/FlammingClawprint.webp"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Sacerdos",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Gusts of Welkin",
+            "Windward Pilgrimage"
+        ],
+        "portraitURL": "/echoes/Sacerdos.webp",
+        "setURL": [
+            "/sets/GustsofWelkin.webp",
+            "/sets/WindwardPilgrimage.webp"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Aero Drake",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Tidebreaking Courage",
+            "Gusts of Welkin",
+            "Flamming Clawprint"
+        ],
+        "portraitURL": "/echoes/AeroDrake.webp",
+        "setURL": [
+            "/sets/TidebreakingCourage.webp",
+            "/sets/GustsofWelkin.webp",
+            "/sets/FlammingClawprint.webp"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Glacio Drake",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Gusts of Welkin",
+            "Windward Pilgrimage"
+        ],
+        "portraitURL": "/echoes/GlacioDrake.webp",
+        "setURL": [
+            "/sets/GustsofWelkin.webp",
+            "/sets/WindwardPilgrimage.webp"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Fusion Drake",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Windward Pilgrimage",
+            "Flamming Clawprint"
+        ],
+        "portraitURL": "/echoes/FusionDrake.webp",
+        "setURL": [
+            "/sets/WindwardPilgrimage.webp",
+            "/sets/FlammingClawprint.webp"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Spectro Drake",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Windward Pilgrimage",
+            "Flamming Clawprint"
+        ],
+        "portraitURL": "/echoes/SpectroDrake.webp",
+        "setURL": [
+            "/sets/WindwardPilgrimage.webp",
+            "/sets/FlammingClawprint.webp"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Havoc Drake",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Windward Pilgrimage",
+            "Flamming Clawprint"
+        ],
+        "portraitURL": "/echoes/HavocDrake.webp",
+        "setURL": [
+            "/sets/WindwardPilgrimage.webp",
+            "/sets/FlammingClawprint.webp"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Devotee's Flesh",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Windward Pilgrimage",
+            "Gusts of Welkin",
+            "Flamming Clawprint"
+        ],
+        "portraitURL": "/echoes/DevoteesFlesh.webp",
+        "setURL": [
+            "/sets/WindwardPilgrimage.webp",
+            "/sets/GustsofWelkin.webp",
+            "/sets/FlammingClawprint.webp"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Nightmare: Havoc Warrior",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Dream of the Lost"
+        ],
+        "portraitURL": "/echoes/NightmareHavocWarrior.webp",
+        "setURL": [
+            "/sets/DreamoftheLost.webp"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Nightmare: Glacio Predator",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Dream of the Lost"
+        ],
+        "portraitURL": "/echoes/NightmareGlacioPredator.webp",
+        "setURL": [
+            "/sets/DreamoftheLost.webp"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Vanguard Junrock",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Lingering Tunes",
+            "Void Thunder",
+            "Rejuvenating Glow"
+        ],
+        "portraitURL": "/echoes/VanguardJunrock.webp",
+        "setURL": [
+            "/sets/LingeringTunes.webp",
+            "/sets/VoidThunder.webp",
+            "/sets/RejuvenatingGlow.webp"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Fission Junrock",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Void Thunder",
+            "Rejuvenating Glow",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/FissionJunrock.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp",
+            "/sets/RejuvenatingGlow.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Electro Predator",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Void Thunder",
+            "Molten Rift"
+        ],
+        "portraitURL": "/echoes/ElectroPredator.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp",
+            "/sets/MoltenRift.webp"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Fusion Warrior",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Molten Rift",
+            "Sierra Gale",
+            "Void Thunder"
+        ],
+        "portraitURL": "/echoes/FusionWarrior.webp",
+        "setURL": [
+            "/sets/MoltenRift.webp",
+            "/sets/SierraGale.webp",
+            "/sets/VoidThunder.webp"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Havoc Warrior",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Sun-sinking Eclipse",
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/HavocWarrior.webp",
+        "setURL": [
+            "/sets/Sun-sinkingEclipse.webp",
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Snip Snap",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Lingering Tunes",
+            "Molten Rift",
+            "Rejuvenating Glow"
+        ],
+        "portraitURL": "/echoes/SnipSnap.webp",
+        "setURL": [
+            "/sets/LingeringTunes.webp",
+            "/sets/MoltenRift.webp",
+            "/sets/RejuvenatingGlow.webp"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Zig Zag",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Lingering Tunes",
+            "Moonlit Clouds",
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/ZigZag.webp",
+        "setURL": [
+            "/sets/LingeringTunes.webp",
+            "/sets/MoonlitClouds.webp",
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Whiff Whaff",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Rejuvenating Glow",
+            "Sierra Gale",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/WhiffWhaff.webp",
+        "setURL": [
+            "/sets/RejuvenatingGlow.webp",
+            "/sets/SierraGale.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Tick Tack",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Sun-sinking Eclipse",
+            "Rejuvenating Glow",
+            "Lingering Tunes"
+        ],
+        "portraitURL": "/echoes/TickTack.webp",
+        "setURL": [
+            "/sets/Sun-sinkingEclipse.webp",
+            "/sets/RejuvenatingGlow.webp",
+            "/sets/LingeringTunes.webp"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Glacio Predator",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Freezing Frost",
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/GlacioPredator.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Aero Predator",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Void Thunder",
+            "Sierra Gale"
+        ],
+        "portraitURL": "/echoes/AeroPredator.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp",
+            "/sets/SierraGale.webp"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Cruisewing",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Celestial Light",
+            "Rejuvenating Glow",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/Cruisewing.webp",
+        "setURL": [
+            "/sets/CelestialLight.webp",
+            "/sets/RejuvenatingGlow.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Sabyr Boar",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Freezing Frost",
+            "Sierra Gale",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/SabyrBoar.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/SierraGale.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Gulpuff",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Freezing Frost",
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/Gulpuff.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Excarat",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse"
+        ],
+        "portraitURL": "/echoes/Excarat.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/Sun-sinkingEclipse.webp"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Baby Viridblaze Saurian",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Molten Rift",
+            "Void Thunder",
+            "Lingering Tunes"
+        ],
+        "portraitURL": "/echoes/BabyViridblazeSaurian.webp",
+        "setURL": [
+            "/sets/MoltenRift.webp",
+            "/sets/VoidThunder.webp",
+            "/sets/LingeringTunes.webp"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Young Roseshroom",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Sun-sinking Eclipse",
+            "Sierra Gale"
+        ],
+        "portraitURL": "/echoes/YoungRoseshroom.webp",
+        "setURL": [
+            "/sets/Sun-sinkingEclipse.webp",
+            "/sets/SierraGale.webp"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Fusion Dreadmane",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Molten Rift",
+            "Rejuvenating Glow"
+        ],
+        "portraitURL": "/echoes/FusionDreadmane.webp",
+        "setURL": [
+            "/sets/MoltenRift.webp",
+            "/sets/RejuvenatingGlow.webp"
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Hoartoise",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Freezing Frost",
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/Hoartoise.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Fusion Prism",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Freezing Frost",
+            "Molten Rift",
+            "Lingering Tunes"
+        ],
+        "portraitURL": "/echoes/FusionPrism.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/MoltenRift.webp",
+            "/sets/LingeringTunes.webp"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Glacio Prism",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/GlacioPrism.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/Sun-sinkingEclipse.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Spectro Prism",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Void Thunder",
+            "Molten Rift",
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/SpectroPrism.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp",
+            "/sets/MoltenRift.webp",
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Havoc Prism",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Void Thunder",
+            "Celestial Light",
+            "Sun-sinking Eclipse"
+        ],
+        "portraitURL": "/echoes/HavocPrism.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp",
+            "/sets/CelestialLight.webp",
+            "/sets/Sun-sinkingEclipse.webp"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Electro Drake",
+        "cost": 1,
+        "class": "Common",
+        "sets": [
+            "Midnight Veil",
+            "Gusts of Welkin",
+            "Flamming Clawprint"
+        ],
+        "portraitURL": "/echoes/ElectroDrake.webp",
+        "setURL": [
+            "/sets/MidnightVeil.webp",
+            "/sets/GustsofWelkin.webp",
+            "/sets/FlammingClawprint.webp"
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Hoochief",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Sierra Gale",
+            "Rejuvenating Glow"
+        ],
+        "portraitURL": "/echoes/Hoochief.webp",
+        "setURL": [
+            "/sets/SierraGale.webp",
+            "/sets/RejuvenatingGlow.webp"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Carapace",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Sierra Gale",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/Carapace.webp",
+        "setURL": [
+            "/sets/SierraGale.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Autopuppet Scout",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Freezing Frost",
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/AutopuppetScout.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Glacio Dreadmane",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Freezing Frost",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/GlacioDreadmane.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Lumiscale Construct",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Freezing Frost",
+            "Void Thunder"
+        ],
+        "portraitURL": "/echoes/LumiscaleConstruct.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/VoidThunder.webp"
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Lightcrusher",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/Lightcrusher.webp",
+        "setURL": [
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Questless Knight",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Frosty Resolve",
+            "Midnight Veil"
+        ],
+        "portraitURL": "/echoes/QuestlessKnight.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/MidnightVeil.webp"
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Diurnus Knight",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Eternal Radiance",
+            "Tidebreaking Courage"
+        ],
+        "portraitURL": "/echoes/DiurnusKnight.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp",
+            "/sets/TidebreakingCourage.webp"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Nocturnus Knight",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Midnight Veil",
+            "Empyrean Anthem"
+        ],
+        "portraitURL": "/echoes/NocturnusKnight.webp",
+        "setURL": [
+            "/sets/MidnightVeil.webp",
+            "/sets/EmpyreanAnthem.webp"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Abyssal Patricius",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Frosty Resolve",
+            "Empyrean Anthem"
+        ],
+        "portraitURL": "/echoes/AbyssalPatricius.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/EmpyreanAnthem.webp"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Abyssal Gladius",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Midnight Veil",
+            "Tidebreaking Courage"
+        ],
+        "portraitURL": "/echoes/AbyssalGladius.webp",
+        "setURL": [
+            "/sets/MidnightVeil.webp",
+            "/sets/TidebreakingCourage.webp"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Abyssal Mercator",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Frosty Resolve",
+            "Eternal Radiance"
+        ],
+        "portraitURL": "/echoes/AbyssalMercator.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/EternalRadiance.webp"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Chop Chop",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Empyrean Anthem",
+            "Tidebreaking Courage",
+            "Dream of the Lost"
+        ],
+        "portraitURL": "/echoes/ChopChop.webp",
+        "setURL": [
+            "/sets/EmpyreanAnthem.webp",
+            "/sets/TidebreakingCourage.webp",
+            "/sets/DreamoftheLost.webp"
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Vitreum Dancer",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Eternal Radiance",
+            "Empyrean Anthem"
+        ],
+        "portraitURL": "/echoes/VitreumDancer.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp",
+            "/sets/EmpyreanAnthem.webp"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Cuddle Wuddle",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Frosty Resolve",
+            "Midnight Veil"
+        ],
+        "portraitURL": "/echoes/CuddleWuddle.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp",
+            "/sets/MidnightVeil.webp"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Rage Against the Statue",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Eternal Radiance",
+            "Gusts of Welkin"
+        ],
+        "portraitURL": "/echoes/RageAgainsttheStatue.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp",
+            "/sets/GustsofWelkin.webp"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Hurriclaw",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Tidebreaking Courage",
+            "Gusts of Welkin"
+        ],
+        "portraitURL": "/echoes/Hurriclaw.webp",
+        "setURL": [
+            "/sets/TidebreakingCourage.webp",
+            "/sets/GustsofWelkin.webp"
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Capitaneus",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Eternal Radiance",
+            "Gusts of Welkin",
+            "Windward Pilgrimage"
+        ],
+        "portraitURL": "/echoes/Capitaneus.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp",
+            "/sets/GustsofWelkin.webp",
+            "/sets/WindwardPilgrimage.webp"
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Pilgrim's Shell",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Windward Pilgrimage",
+            "Flamming Clawprint"
+        ],
+        "portraitURL": "/echoes/PilgrimsShell.webp",
+        "setURL": [
+            "/sets/WindwardPilgrimage.webp",
+            "/sets/FlammingClawprint.webp"
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Kerasaur",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Windward Pilgrimage",
+            "Flamming Clawprint"
+        ],
+        "portraitURL": "/echoes/Kerasaur.webp",
+        "setURL": [
+            "/sets/WindwardPilgrimage.webp",
+            "/sets/FlammingClawprint.webp"
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Nightmare: Tamborinist",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Dream of the Lost"
+        ],
+        "portraitURL": "/echoes/NightmareTamborinist.webp",
+        "setURL": [
+            "/sets/DreamoftheLost.webp"
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Violet-Feathered Heron",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Void Thunder",
+            "Molten Rift"
+        ],
+        "portraitURL": "/echoes/Violet-FeatheredHeron.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp",
+            "/sets/MoltenRift.webp"
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Cyan-Feathered Heron",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Sierra Gale",
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/Cyan-FeatheredHeron.webp",
+        "setURL": [
+            "/sets/SierraGale.webp",
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Stonewall Bracer",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Rejuvenating Glow",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/StonewallBracer.webp",
+        "setURL": [
+            "/sets/RejuvenatingGlow.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Flautist",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Void Thunder",
+            "Lingering Tunes"
+        ],
+        "portraitURL": "/echoes/Flautist.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp",
+            "/sets/LingeringTunes.webp"
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Tambourinist",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse"
+        ],
+        "portraitURL": "/echoes/Tambourinist.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/Sun-sinkingEclipse.webp"
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Rocksteady Guardian",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Celestial Light",
+            "Rejuvenating Glow"
+        ],
+        "portraitURL": "/echoes/RocksteadyGuardian.webp",
+        "setURL": [
+            "/sets/CelestialLight.webp",
+            "/sets/RejuvenatingGlow.webp"
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Chasm Guardian",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Lingering Tunes",
+            "Rejuvenating Glow"
+        ],
+        "portraitURL": "/echoes/ChasmGuardian.webp",
+        "setURL": [
+            "/sets/LingeringTunes.webp",
+            "/sets/RejuvenatingGlow.webp"
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Viridblaze Saurian",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Molten Rift",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/ViridblazeSaurian.webp",
+        "setURL": [
+            "/sets/MoltenRift.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Roseshroom",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Freezing Frost",
+            "Sun-sinking Eclipse"
+        ],
+        "portraitURL": "/echoes/Roseshroom.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/Sun-sinkingEclipse.webp"
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Havoc Dreadmane",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Molten Rift",
+            "Sun-sinking Eclipse"
+        ],
+        "portraitURL": "/echoes/HavocDreadmane.webp",
+        "setURL": [
+            "/sets/MoltenRift.webp",
+            "/sets/Sun-sinkingEclipse.webp"
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Spearback",
+        "cost": 3,
+        "class": "Elite",
+        "sets": [
+            "Lingering Tunes",
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/Spearback.webp",
+        "setURL": [
+            "/sets/LingeringTunes.webp",
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Tempest Mephis",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Void Thunder"
+        ],
+        "portraitURL": "/echoes/TempestMephis.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp"
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Crownless",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Sun-sinking Eclipse"
+        ],
+        "portraitURL": "/echoes/Crownless.webp",
+        "setURL": [
+            "/sets/Sun-sinkingEclipse.webp"
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Feilian Beringal",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Sierra Gale"
+        ],
+        "portraitURL": "/echoes/FeilianBeringal.webp",
+        "setURL": [
+            "/sets/SierraGale.webp"
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Lampylumen Myriad",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Freezing Frost"
+        ],
+        "portraitURL": "/echoes/LampylumenMyriad.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp"
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Mourning Aix",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/MourningAix.webp",
+        "setURL": [
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Mech Abomination",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Lingering Tunes"
+        ],
+        "portraitURL": "/echoes/MechAbomination.webp",
+        "setURL": [
+            "/sets/LingeringTunes.webp"
+        ]
+    },
+    {
+        "id": 95,
+        "name": "Impermanance Heron",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Moonlit Clouds"
+        ],
+        "portraitURL": "/echoes/ImpermananceHeron.webp",
+        "setURL": [
+            "/sets/MoonlitClouds.webp"
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Fallacy of No Return",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Rejuvenating Glow"
+        ],
+        "portraitURL": "/echoes/FallacyofNoReturn.webp",
+        "setURL": [
+            "/sets/RejuvenatingGlow.webp"
+        ]
+    },
+    {
+        "id": 97,
+        "name": "Lorelei",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Midnight Veil"
+        ],
+        "portraitURL": "/echoes/Lorelei.webp",
+        "setURL": [
+            "/sets/MidnightVeil.webp"
+        ]
+    },
+    {
+        "id": 98,
+        "name": "Sentry Construct",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Frosty Resolve"
+        ],
+        "portraitURL": "/echoes/SentryConstruct.webp",
+        "setURL": [
+            "/sets/FrostyResolve.webp"
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Dragon of Dirge",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Tidebreaking Courage"
+        ],
+        "portraitURL": "/echoes/DragonofDirge.webp",
+        "setURL": [
+            "/sets/TidebreakingCourage.webp"
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Nightmare: Feilian Beringal",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Sierra Gale"
+        ],
+        "portraitURL": "/echoes/NightmareFeilianBeringal.webp",
+        "setURL": [
+            "/sets/SierraGale.webp"
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Nightmare: Impermanance Heron",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Midnight Veil"
+        ],
+        "portraitURL": "/echoes/NightmareImpermananceHeron.webp",
+        "setURL": [
+            "/sets/MidnightVeil.webp"
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Nightmare: Thundering Mephis",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Void Thunder"
+        ],
+        "portraitURL": "/echoes/NightmareThunderingMephis.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp"
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Nightmare Tempest Mephis",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Void Thunder",
+            "Empyrean Anthem"
+        ],
+        "portraitURL": "/echoes/NightmareTempestMephis.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp",
+            "/sets/EmpyreanAnthem.webp"
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Nightmare: Crownless",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Sun-sinking Eclipse"
+        ],
+        "portraitURL": "/echoes/NightmareCrownless.webp",
+        "setURL": [
+            "/sets/Sun-sinkingEclipse.webp"
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Nightmare: Inferno Rider",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Molten Rift"
+        ],
+        "portraitURL": "/echoes/NightmareInfernoRider.webp",
+        "setURL": [
+            "/sets/MoltenRift.webp"
+        ]
+    },
+    {
+        "id": 106,
+        "name": "Nightmare Mourning Aix",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Eternal Radiance"
+        ],
+        "portraitURL": "/echoes/NightmareMourningAix.webp",
+        "setURL": [
+            "/sets/EternalRadiance.webp"
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Nightmare: Lampylumen Myriad",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Freezing Frost",
+            "Empyrean Anthem"
+        ],
+        "portraitURL": "/echoes/NightmareLampylumenMyriad.webp",
+        "setURL": [
+            "/sets/FreezingFrost.webp",
+            "/sets/EmpyreanAnthem.webp"
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Nightmare Kelpie",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Windward Pilgrimage",
+            "Gusts of Welkin"
+        ],
+        "portraitURL": "/echoes/NightmareKelpie.webp",
+        "setURL": [
+            "/sets/WindwardPilgrimage.webp",
+            "/sets/GustsofWelkin.webp"
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Lioness of Glory",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Flamming Clawprint"
+        ],
+        "portraitURL": "/echoes/LionessofGlory.webp",
+        "setURL": [
+            "/sets/FlammingClawprint.webp"
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Reminiscence: Fenrico",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Dream of the Lost"
+        ],
+        "portraitURL": "/echoes/ReminiscenceFenrico.webp",
+        "setURL": [
+            "/sets/DreamoftheLost.webp"
+        ]
+    },
+    {
+        "id": 111,
+        "name": "Thundering Mephis",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Void Thunder"
+        ],
+        "portraitURL": "/echoes/ThunderingMephis.webp",
+        "setURL": [
+            "/sets/VoidThunder.webp"
+        ]
+    },
+    {
+        "id": 112,
+        "name": "Inferno Rider",
+        "cost": 4,
+        "class": "Overlord",
+        "sets": [
+            "Molten Rift"
+        ],
+        "portraitURL": "/echoes/InfernoRider.webp",
+        "setURL": [
+            "/sets/MoltenRift.webp"
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Dreamless",
+        "cost": 4,
+        "class": "Calamity",
+        "sets": [
+            "Sun-sinking Eclipse"
+        ],
+        "portraitURL": "/echoes/Dreamless.webp",
+        "setURL": [
+            "/sets/Sun-sinkingEclipse.webp"
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Jue",
+        "cost": 4,
+        "class": "Calamity",
+        "sets": [
+            "Celestial Light"
+        ],
+        "portraitURL": "/echoes/Jue.webp",
+        "setURL": [
+            "/sets/CelestialLight.webp"
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Hecate",
+        "cost": 4,
+        "class": "Calamity",
+        "sets": [
+            "Empyrean Anthem"
+        ],
+        "portraitURL": "/echoes/Hecate.webp",
+        "setURL": [
+            "/sets/EmpyreanAnthem.webp"
+        ]
+    },
+    {
+        "id": 116,
+        "name": "Reminiscence: Fleurdelys",
+        "cost": 4,
+        "class": "Calamity",
+        "sets": [
+            "Windward Pilgrimage",
+            "Gusts of Welkin"
+        ],
+        "portraitURL": "/echoes/ReminiscenceFleurdelys.webp",
+        "setURL": [
+            "/sets/WindwardPilgrimage.webp",
+            "/sets/GustsofWelkin.webp"
+        ]
+    },
+    {
+        "id": 117,
+        "name": "Nightmare Hecate",
+        "cost": 4,
+        "class": "Calamity",
+        "sets": [
+            "Dream of the Lost"
+        ],
+        "portraitURL": "/echoes/NightmareHecate.webp",
+        "setURL": [
+            "/sets/DreamoftheLost.webp"
+        ]
+    },
+    {
+        "id": 118,
+        "name": "Bell-Borne Geochelone",
+        "cost": 4,
+        "class": "Calamity",
+        "sets": [
+            "Rejuvenating Glow"
+        ],
+        "portraitURL": "/echoes/Bell-BorneGeochelone.webp",
+        "setURL": [
+            "/sets/RejuvenatingGlow.webp"
+        ]
+    }
+]

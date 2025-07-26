@@ -4,650 +4,650 @@
         "name": "Training Broadblade",
         "weaponType": "Broadblade",
         "star": 1,
-        "portraitURL": "/weaponType/Broadblade/TrainingBroadblade.webp"
+        "portraitURL": "/weaponPortrait/TrainingBroadblade.webp"
     },
     {
         "id": 1,
         "name": "Tyro Broadblade",
         "weaponType": "Broadblade",
         "star": 2,
-        "portraitURL": "/weaponType/Broadblade/TyroBroadblade.webp"
+        "portraitURL": "/weaponPortrait/TyroBroadblade.webp"
     },
     {
         "id": 2,
         "name": "Beguiling Melody",
         "weaponType": "Broadblade",
         "star": 3,
-        "portraitURL": "/weaponType/Broadblade/BeguilingMelody.webp"
+        "portraitURL": "/weaponPortrait/BeguilingMelody.webp"
     },
     {
         "id": 3,
         "name": "Broadblade of Night",
         "weaponType": "Broadblade",
         "star": 3,
-        "portraitURL": "/weaponType/Broadblade/BroadbladeofNight.webp"
+        "portraitURL": "/weaponPortrait/BroadbladeofNight.webp"
     },
     {
         "id": 4,
         "name": "Broadblade of Voyager",
         "weaponType": "Broadblade",
         "star": 3,
-        "portraitURL": "/weaponType/Broadblade/BroadbladeofVoyager.webp"
+        "portraitURL": "/weaponPortrait/BroadbladeofVoyager.webp"
     },
     {
         "id": 5,
         "name": "Guardian Broadblade",
         "weaponType": "Broadblade",
         "star": 3,
-        "portraitURL": "/weaponType/Broadblade/GuardianBroadblade.webp"
+        "portraitURL": "/weaponPortrait/GuardianBroadblade.webp"
     },
     {
         "id": 6,
         "name": "Originite Type I",
         "weaponType": "Broadblade",
         "star": 3,
-        "portraitURL": "/weaponType/Broadblade/OriginiteTypeI.webp"
+        "portraitURL": "/weaponPortrait/OriginiteTypeI.webp"
     },
     {
         "id": 7,
         "name": "Autumntrace",
         "weaponType": "Broadblade",
         "star": 4,
-        "portraitURL": "/weaponType/Broadblade/Autumntrace.webp"
+        "portraitURL": "/weaponPortrait/Autumntrace.webp"
     },
     {
         "id": 8,
         "name": "Broadblade#4",
         "weaponType": "Broadblade",
         "star": 4,
-        "portraitURL": "/weaponType/Broadblade/Broadblade#4.webp"
+        "portraitURL": "/weaponPortrait/Broadblade4.webp"
     },
     {
         "id": 9,
         "name": "Discord",
         "weaponType": "Broadblade",
         "star": 4,
-        "portraitURL": "/weaponType/Broadblade/Discord.webp"
+        "portraitURL": "/weaponPortrait/Discord.webp"
     },
     {
         "id": 10,
         "name": "Dauntless Evernight",
         "weaponType": "Broadblade",
         "star": 4,
-        "portraitURL": "/weaponType/Broadblade/DauntlessEvernight.webp"
+        "portraitURL": "/weaponPortrait/DauntlessEvernight.webp"
     },
     {
         "id": 11,
         "name": "Helios Cleaver",
         "weaponType": "Broadblade",
         "star": 4,
-        "portraitURL": "/weaponType/Broadblade/HeliosCleaver.webp"
+        "portraitURL": "/weaponPortrait/HeliosCleaver.webp"
     },
     {
         "id": 12,
         "name": "Meditations on Mercy",
         "weaponType": "Broadblade",
         "star": 4,
-        "portraitURL": "/weaponType/Broadblade/MeditationsonMercy.webp"
+        "portraitURL": "/weaponPortrait/MeditationsonMercy.webp"
     },
     {
         "id": 13,
         "name": "Waning Redshift",
         "weaponType": "Broadblade",
         "star": 4,
-        "portraitURL": "/weaponType/Broadblade/WaningRedshift.webp"
+        "portraitURL": "/weaponPortrait/WaningRedshift.webp"
     },
     {
         "id": 14,
         "name": "Ages of Harvest",
         "weaponType": "Broadblade",
         "star": 5,
-        "portraitURL": "/weaponType/Broadblade/AgesofHarvest.webp"
+        "portraitURL": "/weaponPortrait/AgesofHarvest.webp"
     },
     {
         "id": 15,
         "name": "Lustrous Razor",
         "weaponType": "Broadblade",
         "star": 5,
-        "portraitURL": "/weaponType/Broadblade/LustrousRazor.webp"
+        "portraitURL": "/weaponPortrait/LustrousRazor.webp"
     },
     {
         "id": 16,
         "name": "Verdant Summit",
         "weaponType": "Broadblade",
         "star": 5,
-        "portraitURL": "/weaponType/Broadblade/VerdantSummit.webp"
+        "portraitURL": "/weaponPortrait/VerdantSummit.webp"
     },
     {
         "id": 17,
         "name": "Wildfire Mark",
         "weaponType": "Broadblade",
         "star": 5,
-        "portraitURL": "/weaponType/Broadblade/WildfireMark.webp"
+        "portraitURL": "/weaponPortrait/WildfireMark.webp"
     },
     {
         "id": 18,
         "name": "Training Sword",
         "weaponType": "Sword",
         "star": 1,
-        "portraitURL": "/weaponType/Sword/TrainingSword.webp"
+        "portraitURL": "/weaponPortrait/TrainingSword.webp"
     },
     {
         "id": 19,
         "name": "Tyro Sword",
         "weaponType": "Sword",
         "star": 2,
-        "portraitURL": "/weaponType/Sword/TyroSword.webp"
+        "portraitURL": "/weaponPortrait/TyroSword.webp"
     },
     {
         "id": 20,
         "name": "Guardian Sword",
         "weaponType": "Sword",
         "star": 3,
-        "portraitURL": "/weaponType/Sword/GuardianSword.webp"
+        "portraitURL": "/weaponPortrait/GuardianSword.webp"
     },
     {
         "id": 21,
         "name": "Originite Type II",
         "weaponType": "Sword",
         "star": 3,
-        "portraitURL": "/weaponType/Sword/OriginiteTypeII.webp"
+        "portraitURL": "/weaponPortrait/OriginiteTypeII.webp"
     },
     {
         "id": 22,
         "name": "Sword of Night",
         "weaponType": "Sword",
         "star": 3,
-        "portraitURL": "/weaponType/Sword/SwordofNight.webp"
+        "portraitURL": "/weaponPortrait/SwordofNight.webp"
     },
     {
         "id": 23,
         "name": "Sword of Voyager",
         "weaponType": "Sword",
         "star": 3,
-        "portraitURL": "/weaponType/Sword/SwordofVoyager.webp"
+        "portraitURL": "/weaponPortrait/SwordofVoyager.webp"
     },
     {
         "id": 24,
         "name": "Commando of Conviction",
         "weaponType": "Sword",
         "star": 4,
-        "portraitURL": "/weaponType/Sword/CommandoofConviction.webp"
+        "portraitURL": "/weaponPortrait/CommandoofConviction.webp"
     },
     {
         "id": 25,
         "name": "Endless Collapse",
         "weaponType": "Sword",
         "star": 4,
-        "portraitURL": "/weaponType/Sword/EndlessCollapse.webp"
+        "portraitURL": "/weaponPortrait/EndlessCollapse.webp"
     },
     {
         "id": 26,
         "name": "Fables of Wisdom",
         "weaponType": "Sword",
         "star": 4,
-        "portraitURL": "/weaponType/Sword/FablesofWisdom.webp"
+        "portraitURL": "/weaponPortrait/FablesofWisdom.webp"
     },
     {
         "id": 27,
-        "name": "Lumigloss",
+        "name": "Lumingloss",
         "weaponType": "Sword",
         "star": 4,
-        "portraitURL": "/weaponType/Sword/Lumigloss.webp"
+        "portraitURL": "/weaponPortrait/Lumingloss.webp"
     },
     {
         "id": 28,
         "name": "Lunar Cutter",
         "weaponType": "Sword",
         "star": 4,
-        "portraitURL": "/weaponType/Sword/LunarCutter.webp"
+        "portraitURL": "/weaponPortrait/LunarCutter.webp"
     },
     {
         "id": 29,
         "name": "Overture",
         "weaponType": "Sword",
         "star": 4,
-        "portraitURL": "/weaponType/Sword/Overture.webp"
+        "portraitURL": "/weaponPortrait/Overture.webp"
     },
     {
         "id": 30,
         "name": "Somnoire Anchor",
         "weaponType": "Sword",
         "star": 4,
-        "portraitURL": "/weaponType/Sword/SomnoireAnchor.webp"
+        "portraitURL": "/weaponPortrait/SomnoireAnchor.webp"
     },
     {
         "id": 31,
         "name": "Sword#18",
         "weaponType": "Sword",
         "star": 4,
-        "portraitURL": "/weaponType/Sword/Sword#18.webp"
+        "portraitURL": "/weaponPortrait/Sword18.webp"
     },
     {
         "id": 32,
         "name": "Blazing Brilliance",
         "weaponType": "Sword",
         "star": 5,
-        "portraitURL": "/weaponType/Sword/BlazingBrilliance.webp"
+        "portraitURL": "/weaponPortrait/BlazingBrilliance.webp"
     },
     {
         "id": 33,
         "name": "Bloodpact's Pledge",
         "weaponType": "Sword",
         "star": 5,
-        "portraitURL": "/weaponType/Sword/Bloodpact'sPledge.webp"
+        "portraitURL": "/weaponPortrait/BloodpactPledge.webp"
     },
     {
         "id": 34,
         "name": "Defier's Thorn",
         "weaponType": "Sword",
         "star": 5,
-        "portraitURL": "/weaponType/Sword/Defier'sThorn.webp"
+        "portraitURL": "/weaponPortrait/DefierThorn.webp"
     },
     {
         "id": 35,
         "name": "Emerald of Genesis",
         "weaponType": "Sword",
         "star": 5,
-        "portraitURL": "/weaponType/Sword/EmeraldofGenesis.webp"
+        "portraitURL": "/weaponPortrait/EmeraldofGenesis.webp"
     },
     {
         "id": 36,
         "name": "Red Spring",
         "weaponType": "Sword",
         "star": 5,
-        "portraitURL": "/weaponType/Sword/RedSpring.webp"
+        "portraitURL": "/weaponPortrait/RedSpring.webp"
     },
     {
         "id": 37,
         "name": "Unflickering Valor",
         "weaponType": "Sword",
         "star": 5,
-        "portraitURL": "/weaponType/Sword/UnflickeringValor.webp"
+        "portraitURL": "/weaponPortrait/UnflickeringValor.webp"
     },
     {
         "id": 38,
         "name": "Training Pistols",
         "weaponType": "Pistols",
         "star": 1,
-        "portraitURL": "/weaponType/Pistols/TrainingPistols.webp"
+        "portraitURL": "/weaponPortrait/TrainingPistols.webp"
     },
     {
         "id": 39,
         "name": "Tyro Pistols",
         "weaponType": "Pistols",
         "star": 2,
-        "portraitURL": "/weaponType/Pistols/TyroPistols.webp"
+        "portraitURL": "/weaponPortrait/TyroPistols.webp"
     },
     {
         "id": 40,
         "name": "Guardian Pistols",
         "weaponType": "Pistols",
         "star": 3,
-        "portraitURL": "/weaponType/Pistols/GuardianPistols.webp"
+        "portraitURL": "/weaponPortrait/GuardianPistols.webp"
     },
     {
         "id": 41,
         "name": "Originite Type III",
         "weaponType": "Pistols",
         "star": 3,
-        "portraitURL": "/weaponType/Pistols/OriginiteTypeIII.webp"
+        "portraitURL": "/weaponPortrait/OriginiteTypeIII.webp"
     },
     {
         "id": 42,
         "name": "Pistols of Night",
         "weaponType": "Pistols",
         "star": 3,
-        "portraitURL": "/weaponType/Pistols/PistolsofNight.webp"
+        "portraitURL": "/weaponPortrait/PistolsofNight.webp"
     },
     {
         "id": 43,
         "name": "Pistols of Voyager",
         "weaponType": "Pistols",
         "star": 3,
-        "portraitURL": "/weaponType/Pistols/PistolsofVoyager.webp"
+        "portraitURL": "/weaponPortrait/PistolsofVoyager.webp"
     },
     {
         "id": 44,
         "name": "Cadenza",
         "weaponType": "Pistols",
         "star": 4,
-        "portraitURL": "/weaponType/Pistols/Cadenza.webp"
+        "portraitURL": "/weaponPortrait/Cadenza.webp"
     },
     {
         "id": 45,
         "name": "Novaburst",
         "weaponType": "Pistols",
         "star": 4,
-        "portraitURL": "/weaponType/Pistols/Novaburst.webp"
+        "portraitURL": "/weaponPortrait/Novaburst.webp"
     },
     {
         "id": 46,
         "name": "Pistols#26",
         "weaponType": "Pistols",
         "star": 4,
-        "portraitURL": "/weaponType/Pistols/Pistols#26.webp"
+        "portraitURL": "/weaponPortrait/Pistols26.webp"
     },
     {
         "id": 47,
         "name": "Relativistic Jet",
         "weaponType": "Pistols",
         "star": 4,
-        "portraitURL": "/weaponType/Pistols/RelativisticJet.webp"
+        "portraitURL": "/weaponPortrait/RelativisticJet.webp"
     },
     {
         "id": 48,
         "name": "Romance in Farewell",
         "weaponType": "Pistols",
         "star": 4,
-        "portraitURL": "/weaponType/Pistols/RomanceinFarewell.webp"
+        "portraitURL": "/weaponPortrait/RomanceinFarewell.webp"
     },
     {
         "id": 49,
         "name": "Thunderbolt",
         "weaponType": "Pistols",
         "star": 4,
-        "portraitURL": "/weaponType/Pistols/Thunderbolt.webp"
+        "portraitURL": "/weaponPortrait/Thunderbolt.webp"
     },
     {
         "id": 50,
         "name": "Undying Flame",
         "weaponType": "Pistols",
         "star": 4,
-        "portraitURL": "/weaponType/Pistols/UndyingFlame.webp"
+        "portraitURL": "/weaponPortrait/UndyingFlame.webp"
     },
     {
         "id": 51,
         "name": "Static Mist",
         "weaponType": "Pistols",
         "star": 5,
-        "portraitURL": "/weaponType/Pistols/StaticMist.webp"
+        "portraitURL": "/weaponPortrait/StaticMist.webp"
     },
     {
         "id": 52,
         "name": "The Last Dance",
         "weaponType": "Pistols",
         "star": 5,
-        "portraitURL": "/weaponType/Pistols/TheLastDance.webp"
+        "portraitURL": "/weaponPortrait/TheLastDance.webp"
     },
     {
         "id": 53,
         "name": "Woodland Aria",
         "weaponType": "Pistols",
         "star": 5,
-        "portraitURL": "/weaponType/Pistols/WoodlandAria.webp"
+        "portraitURL": "/weaponPortrait/WoodlandAria.webp"
     },
     {
         "id": 54,
         "name": "Training Gauntlets",
         "weaponType": "Gauntlets",
         "star": 1,
-        "portraitURL": "/weaponType/Gauntlets/TrainingGauntlets.webp"
+        "portraitURL": "/weaponPortrait/TrainingGauntlets.webp"
     },
     {
         "id": 55,
         "name": "Tyro Gauntlets",
         "weaponType": "Gauntlets",
         "star": 2,
-        "portraitURL": "/weaponType/Gauntlets/TyroGauntlets.webp"
+        "portraitURL": "/weaponPortrait/TyroGauntlets.webp"
     },
     {
         "id": 56,
         "name": "Guardian Gauntlets",
         "weaponType": "Gauntlets",
         "star": 3,
-        "portraitURL": "/weaponType/Gauntlets/GuardianGauntlets.webp"
+        "portraitURL": "/weaponPortrait/GuardianGauntlets.webp"
     },
     {
         "id": 57,
         "name": "Gauntlets of Night",
         "weaponType": "Gauntlets",
         "star": 3,
-        "portraitURL": "/weaponType/Gauntlets/GauntletsofNight.webp"
+        "portraitURL": "/weaponPortrait/GauntletsofNight.webp"
     },
     {
         "id": 58,
         "name": "Gauntlets of Voyager",
         "weaponType": "Gauntlets",
         "star": 3,
-        "portraitURL": "/weaponType/Gauntlets/GauntletsofVoyager.webp"
+        "portraitURL": "/weaponPortrait/GauntletsofVoyager.webp"
     },
     {
         "id": 59,
         "name": "Originite Type IV",
         "weaponType": "Gauntlets",
         "star": 3,
-        "portraitURL": "/weaponType/Gauntlets/OriginiteTypeIV.webp"
+        "portraitURL": "/weaponPortrait/OriginiteTypeIV.webp"
     },
     {
         "id": 60,
         "name": "Amity Accord",
         "weaponType": "Gauntlets",
         "star": 4,
-        "portraitURL": "/weaponType/Gauntlets/AmityAccord.webp"
+        "portraitURL": "/weaponPortrait/AmityAccord.webp"
     },
     {
         "id": 61,
         "name": "Celestial Spiral",
         "weaponType": "Gauntlets",
         "star": 4,
-        "portraitURL": "/weaponType/Gauntlets/CelestialSpiral.webp"
+        "portraitURL": "/weaponPortrait/CelestialSpiral.webp"
     },
     {
         "id": 62,
         "name": "Gauntlets#21D",
         "weaponType": "Gauntlets",
         "star": 4,
-        "portraitURL": "/weaponType/Gauntlets/Gauntlets#21D.webp"
+        "portraitURL": "/weaponPortrait/Gauntlets21D.webp"
     },
     {
         "id": 63,
         "name": "Hollow Mirage",
         "weaponType": "Gauntlets",
         "star": 4,
-        "portraitURL": "/weaponType/Gauntlets/HollowMirage.webp"
+        "portraitURL": "/weaponPortrait/HollowMirage.webp"
     },
     {
         "id": 64,
         "name": "Legend of Drunken Hero",
         "weaponType": "Gauntlets",
         "star": 4,
-        "portraitURL": "/weaponType/Gauntlets/LegendofDrunkenHero.webp"
+        "portraitURL": "/weaponPortrait/LegendofDrunkenHero.webp"
     },
     {
         "id": 65,
         "name": "Marcato",
         "weaponType": "Gauntlets",
         "star": 4,
-        "portraitURL": "/weaponType/Gauntlets/Marcato.webp"
+        "portraitURL": "/weaponPortrait/Marcato.webp"
     },
     {
         "id": 66,
         "name": "Stonard",
         "weaponType": "Gauntlets",
         "star": 4,
-        "portraitURL": "/weaponType/Gauntlets/Stonard.webp"
+        "portraitURL": "/weaponPortrait/Stonard.webp"
     },
     {
         "id": 67,
         "name": "Abyss Surges",
         "weaponType": "Gauntlets",
         "star": 5,
-        "portraitURL": "/weaponType/Gauntlets/AbyssSurges.webp"
+        "portraitURL": "/weaponPortrait/AbyssSurges.webp"
     },
     {
         "id": 68,
         "name": "Blazing Justice",
         "weaponType": "Gauntlets",
         "star": 5,
-        "portraitURL": "/weaponType/Gauntlets/BlazingJustice.webp"
+        "portraitURL": "/weaponPortrait/BlazingJustice.webp"
     },
     {
         "id": 69,
         "name": "Tragicomedy",
         "weaponType": "Gauntlets",
         "star": 5,
-        "portraitURL": "/weaponType/Gauntlets/Tragicomedy.webp"
+        "portraitURL": "/weaponPortrait/Tragicomedy.webp"
     },
     {
         "id": 70,
         "name": "Verity's Handle",
         "weaponType": "Gauntlets",
         "star": 5,
-        "portraitURL": "/weaponType/Gauntlets/Verity'sHandle.webp"
+        "portraitURL": "/weaponPortrait/VerityHandle.webp"
     },
     {
         "id": 71,
         "name": "Training Rectifier",
         "weaponType": "Rectifier",
         "star": 1,
-        "portraitURL": "/weaponType/Rectifier/TrainingRectifier.webp"
+        "portraitURL": "/weaponPortrait/TrainingRectifier.webp"
     },
     {
         "id": 72,
         "name": "Tyro Rectifier",
         "weaponType": "Rectifier",
         "star": 2,
-        "portraitURL": "/weaponType/Rectifier/TyroRectifier.webp"
+        "portraitURL": "/weaponPortrait/TyroRectifier.webp"
     },
     {
         "id": 73,
         "name": "Guardian Rectifier",
         "weaponType": "Rectifier",
         "star": 3,
-        "portraitURL": "/weaponType/Rectifier/GuardianRectifier.webp"
+        "portraitURL": "/weaponPortrait/GuardianRectifier.webp"
     },
     {
         "id": 74,
         "name": "Originite Type V",
         "weaponType": "Rectifier",
         "star": 3,
-        "portraitURL": "/weaponType/Rectifier/OriginiteTypeV.webp"
+        "portraitURL": "/weaponPortrait/OriginiteTypeV.webp"
     },
     {
         "id": 75,
         "name": "Rectifier of Night",
         "weaponType": "Rectifier",
         "star": 3,
-        "portraitURL": "/weaponType/Rectifier/RectifierofNight.webp"
+        "portraitURL": "/weaponPortrait/RectifierofNight.webp"
     },
     {
         "id": 76,
         "name": "Rectifier of Voyager",
         "weaponType": "Rectifier",
         "star": 3,
-        "portraitURL": "/weaponType/Rectifier/RectifierofVoyager.webp"
+        "portraitURL": "/weaponPortrait/RectifierofVoyager.webp"
     },
     {
         "id": 77,
         "name": "Augment",
         "weaponType": "Rectifier",
         "star": 4,
-        "portraitURL": "/weaponType/Rectifier/Augment.webp"
+        "portraitURL": "/weaponPortrait/Augment.webp"
     },
     {
         "id": 78,
         "name": "Call of the Abyss",
         "weaponType": "Rectifier",
         "star": 4,
-        "portraitURL": "/weaponType/Rectifier/CalloftheAbyss.webp"
+        "portraitURL": "/weaponPortrait/CalloftheAbyss.webp"
     },
     {
         "id": 79,
         "name": "Comet Flare",
         "weaponType": "Rectifier",
         "star": 4,
-        "portraitURL": "/weaponType/Rectifier/CometFlare.webp"
+        "portraitURL": "/weaponPortrait/CometFlare.webp"
     },
     {
         "id": 80,
         "name": "Fusion Accretion",
         "weaponType": "Rectifier",
         "star": 4,
-        "portraitURL": "/weaponType/Rectifier/FusionAccretion.webp"
+        "portraitURL": "/weaponPortrait/FusionAccretion.webp"
     },
     {
         "id": 81,
         "name": "Jinzhou Keeper",
         "weaponType": "Rectifier",
         "star": 4,
-        "portraitURL": "/weaponType/Rectifier/JinzhouKeeper.webp"
+        "portraitURL": "/weaponPortrait/JinzhouKeeper.webp"
     },
     {
         "id": 82,
         "name": "Ocean's Gift",
         "weaponType": "Rectifier",
         "star": 4,
-        "portraitURL": "/weaponType/Rectifier/Ocean'sGift.webp"
+        "portraitURL": "/weaponPortrait/OceanGift.webp"
     },
     {
         "id": 83,
         "name": "Rectifer#25",
         "weaponType": "Rectifier",
         "star": 4,
-        "portraitURL": "/weaponType/Rectifier/Rectifer#25.webp"
+        "portraitURL": "/weaponPortrait/Rectifier25.webp"
     },
     {
         "id": 84,
         "name": "Variation",
         "weaponType": "Rectifier",
         "star": 4,
-        "portraitURL": "/weaponType/Rectifier/Variation.webp"
+        "portraitURL": "/weaponPortrait/Variation.webp"
     },
     {
         "id": 85,
         "name": "Waltz in Masquerade",
         "weaponType": "Rectifier",
         "star": 4,
-        "portraitURL": "/weaponType/Rectifier/WaltzinMasquerade.webp"
+        "portraitURL": "/weaponPortrait/WaltzinMasquerade.webp"
     },
     {
         "id": 86,
         "name": "Cosmic Ripples",
         "weaponType": "Rectifier",
         "star": 5,
-        "portraitURL": "/weaponType/Rectifier/CosmicRipples.webp"
+        "portraitURL": "/weaponPortrait/CosmicRipples.webp"
     },
     {
         "id": 87,
         "name": "Lethean Elegy",
         "weaponType": "Rectifier",
         "star": 5,
-        "portraitURL": "/weaponType/Rectifier/LetheanElegy.webp"
+        "portraitURL": "/weaponPortrait/LetheanElegy.webp"
     },
     {
         "id": 88,
         "name": "Luminous Hymn",
         "weaponType": "Rectifier",
         "star": 5,
-        "portraitURL": "/weaponType/Rectifier/LuminousHymn.webp"
+        "portraitURL": "/weaponPortrait/LuminousHymn.webp"
     },
     {
         "id": 89,
         "name": "Rime-Draped Sprouts",
         "weaponType": "Rectifier",
         "star": 5,
-        "portraitURL": "/weaponType/Rectifier/Rime-DrapedSprouts.webp"
+        "portraitURL": "/weaponPortrait/RimeDrapedSprouts.webp"
     },
     {
         "id": 90,
         "name": "Stellar Symphony",
         "weaponType": "Rectifier",
         "star": 5,
-        "portraitURL": "/weaponType/Rectifier/StellarSymphony.webp"
+        "portraitURL": "/weaponPortrait/StellarSymphony.webp"
     },
     {
         "id": 91,
         "name": "String Master",
         "weaponType": "Rectifier",
         "star": 5,
-        "portraitURL": "/weaponType/Rectifier/StringMaster.webp"
+        "portraitURL": "/weaponPortrait/StringMaster.webp"
     },
     {
         "id": 92,
         "name": "Whispers of Sirens",
         "weaponType": "Rectifier",
         "star": 5,
-        "portraitURL": "/weaponType/Rectifier/WhispersofSirens.webp"
+        "portraitURL": "/weaponPortrait/WhispersofSirens.webp"
     }
 ]

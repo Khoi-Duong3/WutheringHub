@@ -17,11 +17,11 @@ interface Props {
     onReset: () => void
 }
 
-export default function ResonatorFilterBar({ weapons,  selectedWeapon, selectedStar,  onToggleWeapon, onToggleStar, onReset}: Props){
+export default function ResonatorFilterBar({ weapons, selectedWeapon, selectedStar,  onToggleWeapon, onToggleStar, onReset}: Props){
     const isActive = (selection: any, v: any) => selection === v
     return (
         <div className="flex flex-wrap items-center gap-2 bg-gray-800 p-2 rounded-md">
-            {[4,5].map((star) => (
+            {[1,2,3,4,5].map((star) => (
                 <button key={star} onClick={() => onToggleStar(isActive(selectedStar, star) ? null : star)} className={`px-3 py-1 rounded ${isActive(selectedStar, star)? "bg-blue-500 text-gray-300": "bg-gray-700 text-gray-300"}`}>
                     {star}★
                 </button>
