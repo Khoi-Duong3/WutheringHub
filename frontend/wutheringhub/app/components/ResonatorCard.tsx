@@ -57,8 +57,8 @@ export default function ResonatorCard({ resonator }: Props) {
         </div>
       </div>
 
-      <div className="bg-gray-800 px-3 py-2 text-center">
-        <p className="font-semibold text-white">{resonator.name}</p>
+      <div className="bg-gray-800 px-3 py-2 text-center h-14 flex items-center justify-center overflow-hidden">
+        <p className="font-semibold text-white leading-snug line-clamp-2">{resonator.name}</p>
       </div>
     </Link>
   )

@@ -3,7 +3,6 @@
 import { useState, useMemo } from "react"
 import WeaponGrid, { Weapon } from "../components/WeaponGrid"
 import ResonatorSearchBar from "../components/ResonatorSearchBar"
-import WeaponCard from "../components/WeaponCard"
 import WeaponsFilterBar from "../components/WeaponsFilterBar"
 import weapons from '@/data/weapons.json'
 
@@ -52,7 +51,7 @@ export default function Weapons(){
                 <div className="mb-10 flex items-center justify-center">
                     <WeaponsFilterBar  weapons={weaponType}  selectedWeapon={selectedWeapon} onToggleWeapon={toggleWeapon} selectedStar={selectedStar} onToggleStar={toggleStar} onReset={resetFilters}/>
                 </div>
-                <h1 className="text-2xl font-bold mb-6">Resonators</h1>
+                <h1 className="text-2xl font-bold mb-6">Weapons</h1>
                 <WeaponGrid weapons={filtered} />
             </main>
         )

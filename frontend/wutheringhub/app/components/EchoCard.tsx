@@ -8,7 +8,9 @@ export type Echo = {
   name: string
   cost: number
   class: string
-  set: string[] 
+  sets: string[]
+  portraitURL: string
+  setURL: string[] 
 }
 
 interface Props {
@@ -25,22 +27,22 @@ export default function ResonatorCard({ echo }: Props) {
       <div className="relative w-full aspect-square overflow-hidden">
         <div className={`bg-gray-500 absolute inset-0`}>
           <Image
-            src={`/echoes/${echo.name}.webp`}
+            src={echo.portraitURL}
             alt={echo.name}
             fill
             className="object-cover"
           />
         </div>
 
-        <div className="absolute top-0 left-0 flex flex-col gap-1">
-            {echo.set.map((setName) => (
-                <Image key={setName} src={`/sets/${setName}.webp`} alt={setName} width={12} height={12}/>
+        <div className="absolute top-1 left-1 flex flex-col gap-1">
+            {echo.setURL.map((setName) => (
+                <Image key={setName} src={setName} alt={setName} width={28} height={28}/>
             ))}
         </div>
 
-        <div className="absolute top-0 right-0 w-12 h-12">
+        <div className="absolute top-1 right-1 w-6 h-6">
           <Image
-            src={`/cost/${echo.cost}.webp`}
+            src={`/cost/${echo.cost}.png`}
             alt={`${echo.cost}`}
             fill
             className="object-contain drop-shadow-black"
@@ -48,8 +50,8 @@ export default function ResonatorCard({ echo }: Props) {
         </div>
       </div>
 
-      <div className="bg-gray-800 px-3 py-2 text-center">
-        <p className="font-semibold text-white">{echo.name}</p>
+      <div className="bg-gray-800 px-3 py-2 text-center h-14 flex items-center justify-center overflow-hidden">
+        <p className="font-semibold text-white leading-snug line-clamp-2">{echo.name}</p>
       </div>
     </Link>
   )

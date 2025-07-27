@@ -47,7 +47,12 @@ export default async function Home() {
           <HomePageButton/>
         </div>
       </section>
-
+      <section>
+        <h2 className='text-3xl font-bold text-center text-white mb-8'>
+          Current & Upcoming Events
+        </h2>
+        <EventList events={events}/>
+      </section>
       <section className='mb-20'>
         <h2 className='text-3xl font-bold text-center text-white mb-12'>
           Latest Patch Notes
@@ -57,10 +62,6 @@ export default async function Home() {
         </div>
 
       </section>
-        <h2 className='text-3xl font-bold text-center text-white mb-8'>
-          Current & Upcoming Events
-        </h2>
-        <EventList events={events}/>
 
       <section>
         <h2 className="text-3xl font-bold text-center text-white mb-12">

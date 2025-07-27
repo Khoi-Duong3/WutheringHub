@@ -54,8 +54,8 @@ export default function WeaponCard({ weapon }: Props) {
         </div>
       </div>
 
-      <div className="bg-gray-800 px-3 py-2 text-center">
-        <p className="font-semibold text-white">{weapon.name}</p>
+      <div className="bg-gray-800 px-3 py-2 text-center h-14 flex items-center justify-center overflow-hidden">
+        <p className="font-semibold text-white leading-snug line-clamp-2">{weapon.name}</p>
       </div>
     </Link>
   )

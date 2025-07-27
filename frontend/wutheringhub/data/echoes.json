@@ -342,13 +342,13 @@
         "class": "Common",
         "sets": [
             "Midnight Veil",
-            "Flamming Clawprint",
+            "Flaming Clawprint",
             "Gusts of Welkin"
         ],
         "portraitURL": "/echoes/LaGuardia.webp",
         "setURL": [
             "/sets/MidnightVeil.webp",
-            "/sets/FlammingClawprint.webp",
+            "/sets/Flamingclawprint.webp",
             "/sets/GustsofWelkin.webp"
         ]
     },
@@ -360,13 +360,13 @@
         "sets": [
             "Eternal Radiance",
             "Gusts of Welkin",
-            "Flamming Clawprint"
+            "Flaming Clawprint"
         ],
         "portraitURL": "/echoes/Sagittario.webp",
         "setURL": [
             "/sets/EternalRadiance.webp",
             "/sets/GustsofWelkin.webp",
-            "/sets/FlammingClawprint.webp"
+            "/sets/Flamingclawprint.webp"
         ]
     },
     {
@@ -392,13 +392,13 @@
         "sets": [
             "Tidebreaking Courage",
             "Gusts of Welkin",
-            "Flamming Clawprint"
+            "Flaming Clawprint"
         ],
         "portraitURL": "/echoes/AeroDrake.webp",
         "setURL": [
             "/sets/TidebreakingCourage.webp",
             "/sets/GustsofWelkin.webp",
-            "/sets/FlammingClawprint.webp"
+            "/sets/Flamingclawprint.webp"
         ]
     },
     {
@@ -423,12 +423,12 @@
         "class": "Common",
         "sets": [
             "Windward Pilgrimage",
-            "Flamming Clawprint"
+            "Flaming Clawprint"
         ],
         "portraitURL": "/echoes/FusionDrake.webp",
         "setURL": [
             "/sets/WindwardPilgrimage.webp",
-            "/sets/FlammingClawprint.webp"
+            "/sets/Flamingclawprint.webp"
         ]
     },
     {
@@ -438,12 +438,12 @@
         "class": "Common",
         "sets": [
             "Windward Pilgrimage",
-            "Flamming Clawprint"
+            "Flaming Clawprint"
         ],
         "portraitURL": "/echoes/SpectroDrake.webp",
         "setURL": [
             "/sets/WindwardPilgrimage.webp",
-            "/sets/FlammingClawprint.webp"
+            "/sets/Flamingclawprint.webp"
         ]
     },
     {
@@ -453,12 +453,12 @@
         "class": "Common",
         "sets": [
             "Windward Pilgrimage",
-            "Flamming Clawprint"
+            "Flaming Clawprint"
         ],
         "portraitURL": "/echoes/HavocDrake.webp",
         "setURL": [
             "/sets/WindwardPilgrimage.webp",
-            "/sets/FlammingClawprint.webp"
+            "/sets/Flamingclawprint.webp"
         ]
     },
     {
@@ -469,13 +469,13 @@
         "sets": [
             "Windward Pilgrimage",
             "Gusts of Welkin",
-            "Flamming Clawprint"
+            "Flaming Clawprint"
         ],
         "portraitURL": "/echoes/DevoteesFlesh.webp",
         "setURL": [
             "/sets/WindwardPilgrimage.webp",
             "/sets/GustsofWelkin.webp",
-            "/sets/FlammingClawprint.webp"
+            "/sets/Flamingclawprint.webp"
         ]
     },
     {
@@ -885,13 +885,13 @@
         "sets": [
             "Midnight Veil",
             "Gusts of Welkin",
-            "Flamming Clawprint"
+            "Flaming Clawprint"
         ],
         "portraitURL": "/echoes/ElectroDrake.webp",
         "setURL": [
             "/sets/MidnightVeil.webp",
             "/sets/GustsofWelkin.webp",
-            "/sets/FlammingClawprint.webp"
+            "/sets/Flamingclawprint.webp"
         ]
     },
     {
@@ -1173,12 +1173,12 @@
         "class": "Elite",
         "sets": [
             "Windward Pilgrimage",
-            "Flamming Clawprint"
+            "Flaming Clawprint"
         ],
         "portraitURL": "/echoes/PilgrimsShell.webp",
         "setURL": [
             "/sets/WindwardPilgrimage.webp",
-            "/sets/FlammingClawprint.webp"
+            "/sets/Flamingclawprint.webp"
         ]
     },
     {
@@ -1188,23 +1188,23 @@
         "class": "Elite",
         "sets": [
             "Windward Pilgrimage",
-            "Flamming Clawprint"
+            "Flaming Clawprint"
         ],
         "portraitURL": "/echoes/Kerasaur.webp",
         "setURL": [
             "/sets/WindwardPilgrimage.webp",
-            "/sets/FlammingClawprint.webp"
+            "/sets/Flamingclawprint.webp"
         ]
     },
     {
         "id": 77,
-        "name": "Nightmare: Tamborinist",
+        "name": "Nightmare: Tambourinist",
         "cost": 3,
         "class": "Elite",
         "sets": [
             "Dream of the Lost"
         ],
-        "portraitURL": "/echoes/NightmareTamborinist.webp",
+        "portraitURL": "/echoes/NightmareTambourinist.webp",
         "setURL": [
             "/sets/DreamoftheLost.webp"
         ]
@@ -1454,13 +1454,13 @@
     },
     {
         "id": 95,
-        "name": "Impermanance Heron",
+        "name": "Impermanence Heron",
         "cost": 4,
         "class": "Overlord",
         "sets": [
             "Moonlit Clouds"
         ],
-        "portraitURL": "/echoes/ImpermananceHeron.webp",
+        "portraitURL": "/echoes/ImpermanenceHeron.webp",
         "setURL": [
             "/sets/MoonlitClouds.webp"
         ]
@@ -1532,13 +1532,13 @@
     },
     {
         "id": 101,
-        "name": "Nightmare: Impermanance Heron",
+        "name": "Nightmare: Impermanence Heron",
         "cost": 4,
         "class": "Overlord",
         "sets": [
             "Midnight Veil"
         ],
-        "portraitURL": "/echoes/NightmareImpermananceHeron.webp",
+        "portraitURL": "/echoes/NightmareImpermanenceHeron.webp",
         "setURL": [
             "/sets/MidnightVeil.webp"
         ]
@@ -1646,11 +1646,11 @@
         "cost": 4,
         "class": "Overlord",
         "sets": [
-            "Flamming Clawprint"
+            "Flaming Clawprint"
         ],
         "portraitURL": "/echoes/LionessofGlory.webp",
         "setURL": [
-            "/sets/FlammingClawprint.webp"
+            "/sets/Flamingclawprint.webp"
         ]
     },
     {
