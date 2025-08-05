@@ -1,6 +1,6 @@
 import json
 import re
-import csv
+import csv 
 
 pct_re = re.compile(r'^([\d.]+)%(?:\*(\d+))?$')
 

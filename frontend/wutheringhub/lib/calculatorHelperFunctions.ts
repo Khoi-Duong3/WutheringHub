@@ -27,5 +27,30 @@ export function calculateTotalBonus(attackType: AttackType, elementType: Element
     const typeBonus = (echoStats[typeKey] ?? 0) / 100;
     const elementBonus = (echoStats[elementKey] ?? 0 ) / 100;
 
-    return 1 + typeBonus + elementBonus
+    return 1 + typeBonus + elementBonus;
+}
+
+export function calculateDefenseMultiplier(attackerLevel : number, receiverLevel: number, defIgnore: number) : number {
+    const attackerSide = 800 + (8 * attackerLevel);
+    const receiverSide = attackerSide + (792 + (8 * receiverLevel)) * (1 - defIgnore);
+    return attackerSide / receiverSide;
+}
+
+export function calculateAmplifyMultiplier(attackType : AttackType, elementType: ElementType, ampStats: Record<EchoStat, number>) : number {
+    const typeKey = `${attackType}DmgBonus` as EchoStat;
+    const elementKey = `${elementType}DmgBonus` as EchoStat;
+
+    const typeAmp = (ampStats[typeKey] ?? 0) / 100;
+    const elementAmp = (ampStats[elementKey] ?? 0 ) / 100;
+
+    return 1 + typeAmp + elementAmp;
+}
+
+export function calculateAverageCritMultiplier(critDmg: number, critRate: number) : number {
+    const normalisedCD = critDmg / 100;
+    const normalisedCR = critRate / 100;
+
+    const clampedCR = Math.min(normalisedCR, 1);
+
+    return 1 + (normalisedCD * clampedCR);
 }
