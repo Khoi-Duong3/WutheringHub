@@ -1,0 +1,32 @@
+tagId,tagName,tagDescription
+1,Support and Healer,Improves team survivability
+2,Main Damage Dealer,Powerful damage dealer
+3,Concerto Efficiency,Quick concerto energy regeneration
+4,Basic Attack DMG,Deals higher Basic Attack DMG
+5,Heavy Attack DMG,Deals higher Heavy Attack DMG
+6,Resonance Skill DMG,Deals higher Resonance Skill DMG
+7,Resonance Liberation Damage,Deals higher Resonance Liberation DMG
+8,Traction,Pulls targets within range towards a specific position
+9,Coordinated Attack,Excels at Coordinated Attacks
+10,Stagnation,Slows down targets within a certain range
+11,Resonance Liberation Regeneration,Restores the Resonance Energy of a specific Resonator in the team
+12,Vibration Strength Reduction,Reduces the Vibration Strength of targets more effectively
+13,DMG Amplification,Provides DMG Amplification for a specific Resonator in the team
+14,Havoc DMG Amplification,Provides Havoc DMG Amplification for a specific Resonator in the team
+15,Aero DMG Amplification,Provides Aero DMG Amplification for a specific Resonator in the team
+16,Electro DMG Amplification,Provides Electro DMG Amplification for a specific Resonator in the team
+17,Fusion DMG Amplification,Provides Fusion DMG Amplification for a specific Resonator in the team
+18,Glacio DMG Amplification,Provides Glacio DMG Amplification for a specific Resonator in the team
+19,Spectro DMG Amplification,Provides Spectro DMG Amplification for a specific Resonator in the team
+20,Basic Attack DMG Amplification,Provides Basic Attack DMG Amplification for a specific Resonator in the team
+21,Heavy Attack DMG Amplification,Provides Heavy Attack DMG Amplification for a specific Resonator in the team
+22,Resonance Skill DMG Amplification,Provides Resonance Skill DMG Amplification for a specific Resonator in the team
+23,Resonance Liberation DMG Amplification,Provides Resonance Liberation DMG Amplification for a specific Resonator in the team
+24,Aero Erosion,Utilizes Aero Erosion for combat advantage
+28,Spectro Frazzle,Utilizes Spectro Frazzle for combat advantage
+30,Interruption Resistance Boost,Boosts the interruption resistance of a specific Resonator in the team
+31,Coordinated Attack DMG Amplification,Provides Coordinated Attack DMG Amplification for a specific Resonator in the team
+32,Electro Flare, Utilizes Electro Flare for combat advantage
+33,Glacio Chafe,Utilizes Glacio Chafe for combat advantage
+34,Fusion Burst, Utilizes Fusion Burst for combat advantage
+35,Havoc Bane, Utilizes Havoc Bane for combat advantage

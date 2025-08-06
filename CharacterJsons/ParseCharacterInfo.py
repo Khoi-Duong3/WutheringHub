@@ -7,16 +7,21 @@ def process_single_json(json_path: Path) -> dict:
         data = json.load(f)
 
     characterInfo = {
-        "characterId": data.get("Id"),
         "name":        data.get("Name"),
         "rarity":      data.get("Rarity"),
         "element":     data.get("Element"),
         "weaponType":  data.get("Weapon"),
-        "Description": data.get("Desc")
+        "Description": data.get("Desc"),
+        "Birth": data["CharaInfo"].get("Birth"),
+        "Sex": data["CharaInfo"].get("Sex"),
+        "Country": data["CharaInfo"].get("Country"),
+        "Region": data["CharaInfo"].get("Influence"),
+        "CVNameCN": data["CharaInfo"].get("CVNameCn"),
+        "CVNameJP": data["CharaInfo"].get("CVNameJp"),
+        "CVNameKR": data["CharaInfo"].get("CVNameKo"),
+        "CVNameEN": data["CharaInfo"].get("CVNameEn")
         }
-    for key in data["CharaInfo"]:
-        characterInfo[key] = data["CharaInfo"][key]
-
+    
     return characterInfo
 
 def process_all_jsons(folder: str, resonators):
@@ -25,12 +30,15 @@ def process_all_jsons(folder: str, resonators):
         resonators.append(process_single_json(json_file))
 
 def write_csv(resonators, outpath):
-    all_keys = set()
+    base_fields = ["name", "rarity", "element", "weaponType", "Description"]
+
+    seen = set(base_fields)
+    other_fields = []
     for char in resonators:
-        all_keys.update(char.keys())
-    
-    base_fields = ["characterId", "name", "rarity", "element", "weaponType", "Description"]
-    other_fields = sorted(k for k in all_keys if k not in base_fields)
+        for k in char.keys():
+            if k not in seen:
+                seen.add(k)
+                other_fields.append(k)
 
     fieldnames = base_fields + other_fields
 
