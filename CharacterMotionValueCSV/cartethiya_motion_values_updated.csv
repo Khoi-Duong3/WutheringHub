@@ -1,0 +1,961 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,1,2.41%,0.0241,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,2,2.60%,0.026,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,3,2.80%,0.028,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,4,3.08%,0.0308,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,5,3.27%,0.0327,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,6,3.50%,0.035,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,7,3.82%,0.0382,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,8,4.13%,0.0413,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,9,4.45%,0.0445,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,10,4.78%,0.0478,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,11,5.18%,0.0518,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,12,5.57%,0.0557,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,13,5.96%,0.0596,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,14,6.36%,0.0636,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,15,6.75%,0.0675,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,16,7.15%,0.0715,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,17,7.54%,0.0754,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,18,7.93%,0.0793,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,19,8.33%,0.0833,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 1 DMG,20,8.72%,0.0872,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,1,1.98%+1.98%+2.64%,0.066,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,2,2.14%+2.14%+2.86%,0.0714,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,3,2.31%+2.31%+3.07%,0.0769,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,4,2.53%+2.53%+3.38%,0.0844,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,5,2.70%+2.70%+3.59%,0.0899,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,6,2.88%+2.88%+3.84%,0.096,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,7,3.14%+3.14%+4.19%,0.1047,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,8,3.40%+3.40%+4.53%,0.1133,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,9,3.66%+3.66%+4.88%,0.122,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,10,3.94%+3.94%+5.25%,0.1313,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,11,4.26%+4.26%+5.68%,0.142,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,12,4.58%+4.58%+6.11%,0.1527,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,13,4.91%+4.91%+6.54%,0.1636,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,14,5.23%+5.23%+6.97%,0.1743,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,15,5.56%+5.56%+7.41%,0.1853,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,16,5.88%+5.88%+7.84%,0.196,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,17,6.20%+6.20%+8.27%,0.2067,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,18,6.53%+6.53%+8.70%,0.2176,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,19,6.85%+6.85%+9.14%,0.2284,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 2 DMG,20,7.18%+7.18%+9.57%,0.2393,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,1,2.15%+2.15%+2.15%+2.15%,0.086,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,2,2.33%+2.33%+2.33%+2.33%,0.0932,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,3,2.51%+2.51%+2.51%+2.51%,0.1004,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,4,2.75%+2.75%+2.75%+2.75%,0.11,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,5,2.93%+2.93%+2.93%+2.93%,0.1172,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,6,3.13%+3.13%+3.13%+3.13%,0.1252,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,7,3.41%+3.41%+3.41%+3.41%,0.1364,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,8,3.70%+3.70%+3.70%+3.70%,0.148,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,9,3.98%+3.98%+3.98%+3.98%,0.1592,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,10,4.28%+4.28%+4.28%+4.28%,0.1712,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,11,4.63%+4.63%+4.63%+4.63%,0.1852,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,12,4.98%+4.98%+4.98%+4.98%,0.1992,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,13,5.34%+5.34%+5.34%+5.34%,0.2136,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,14,5.69%+5.69%+5.69%+5.69%,0.2276,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,15,6.04%+6.04%+6.04%+6.04%,0.2416,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,16,6.39%+6.39%+6.39%+6.39%,0.2556,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,17,6.75%+6.75%+6.75%+6.75%,0.27,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,18,7.10%+7.10%+7.10%+7.10%,0.284,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,19,7.45%+7.45%+7.45%+7.45%,0.298,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 3 DMG,20,7.80%+7.80%+7.80%+7.80%,0.312,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,1,1.27%*3+3.80%,0.0761,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,2,1.37%*3+4.11%,0.0822,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,3,1.48%*3+4.42%,0.0886,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,4,1.62%*3+4.85%,0.0971,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,5,1.73%*3+5.17%,0.1036,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,6,1.84%*3+5.52%,0.1104,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,7,2.01%*3+6.02%,0.1205,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,8,2.18%*3+6.52%,0.1306,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,9,2.34%*3+7.02%,0.1404,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,10,2.52%*3+7.54%,0.151,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,11,2.73%*3+8.17%,0.1636,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,12,2.93%*3+8.79%,0.1758,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,13,3.14%*3+9.41%,0.1883,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,14,3.35%*3+10.03%,0.2008,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,15,3.55%*3+10.65%,0.213,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,16,3.76%*3+11.28%,0.2256,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,17,3.97%*3+11.90%,0.2381,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,18,4.18%*3+12.52%,0.2506,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,19,4.38%*3+13.14%,0.2628,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Stage 4 DMG,20,4.59%*3+13.76%,0.2753,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,1,3.45%+3.45%+3.45%+3.45%,0.138,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,2,3.73%+3.73%+3.73%+3.73%,0.1492,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,3,4.01%+4.01%+4.01%+4.01%,0.1604,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,4,4.41%+4.41%+4.41%+4.41%,0.1764,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,5,4.69%+4.69%+4.69%+4.69%,0.1876,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,6,5.02%+5.02%+5.02%+5.02%,0.2008,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,7,5.47%+5.47%+5.47%+5.47%,0.2188,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,8,5.92%+5.92%+5.92%+5.92%,0.2368,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,9,6.37%+6.37%+6.37%+6.37%,0.2548,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,10,6.85%+6.85%+6.85%+6.85%,0.274,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,11,7.42%+7.42%+7.42%+7.42%,0.2968,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,12,7.98%+7.98%+7.98%+7.98%,0.3192,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,13,8.54%+8.54%+8.54%+8.54%,0.3416,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,14,9.11%+9.11%+9.11%+9.11%,0.3644,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,15,9.67%+9.67%+9.67%+9.67%,0.3868,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,16,10.24%+10.24%+10.24%+10.24%,0.4096,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,17,10.80%+10.80%+10.80%+10.80%,0.432,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,18,11.37%+11.37%+11.37%+11.37%,0.4548,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,19,11.93%+11.93%+11.93%+11.93%,0.4772,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Dodge Counter DMG,20,12.50%+12.50%+12.50%+12.50%,0.5,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,1,1.05%*3+3.14%,0.0629,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,2,1.14%*3+3.40%,0.0682,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,3,1.22%*3+3.65%,0.0731,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,4,1.34%*3+4.01%,0.0803,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,5,1.43%*3+4.27%,0.0856,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,6,1.53%*3+4.57%,0.0916,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,7,1.66%*3+4.98%,0.0996,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,8,1.80%*3+5.39%,0.1079,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,9,1.94%*3+5.80%,0.1162,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,10,2.08%*3+6.24%,0.1248,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,11,2.25%*3+6.75%,0.135,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,12,2.43%*3+7.27%,0.1456,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,13,2.60%*3+7.78%,0.1558,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,14,2.77%*3+8.29%,0.166,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,15,2.94%*3+8.81%,0.1763,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,16,3.11%*3+9.32%,0.1865,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,17,3.28%*3+9.84%,0.1968,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,18,3.45%*3+10.35%,0.207,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,19,3.62%*3+10.86%,0.2172,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack DMG,20,3.80%*3+11.38%,0.2278,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,1,2.84%,0.0284,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,2,3.08%,0.0308,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,3,3.31%,0.0331,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,4,3.64%,0.0364,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,5,3.87%,0.0387,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,6,4.14%,0.0414,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,7,4.51%,0.0451,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,8,4.88%,0.0488,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,9,5.25%,0.0525,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,10,5.65%,0.0565,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,11,6.11%,0.0611,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,12,6.58%,0.0658,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,13,7.05%,0.0705,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,14,7.51%,0.0751,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,15,7.98%,0.0798,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,16,8.44%,0.0844,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,17,8.91%,0.0891,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,18,9.37%,0.0937,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,19,9.84%,0.0984,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack,20,10.30%,0.103,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,1,2.84%,0.0284,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,2,3.08%,0.0308,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,3,3.31%,0.0331,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,4,3.64%,0.0364,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,5,3.87%,0.0387,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,6,4.14%,0.0414,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,7,4.51%,0.0451,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,8,4.88%,0.0488,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,9,5.25%,0.0525,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,10,5.65%,0.0565,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,11,6.11%,0.0611,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,12,6.58%,0.0658,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,13,7.05%,0.0705,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,14,7.51%,0.0751,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,15,7.98%,0.0798,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,16,8.44%,0.0844,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,17,8.91%,0.0891,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,18,9.37%,0.0937,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,19,9.84%,0.0984,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 1 Sword Shadow Recalled,20,10.30%,0.103,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,1,1.66%*3,0.0498,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,2,1.80%*3,0.054,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,3,1.93%*3,0.0579,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,4,2.12%*3,0.0636,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,5,2.26%*3,0.0678,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,6,2.41%*3,0.0723,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,7,2.63%*3,0.0789,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,8,2.85%*3,0.0855,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,9,3.07%*3,0.0921,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,10,3.30%*3,0.099,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,11,3.57%*3,0.1071,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,12,3.84%*3,0.1152,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,13,4.11%*3,0.1233,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,14,4.38%*3,0.1314,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,15,4.65%*3,0.1395,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,16,4.93%*3,0.1479,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,17,5.20%*3,0.156,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,18,5.47%*3,0.1641,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,19,5.74%*3,0.1722,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 2 Sword Shadows Recalled,20,6.01%*3,0.1803,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,1,5.68%*3,0.1704,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,2,6.15%*3,0.1845,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,3,6.61%*3,0.1983,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,4,7.27%*3,0.2181,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,5,7.73%*3,0.2319,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,6,8.27%*3,0.2481,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,7,9.01%*3,0.2703,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,8,9.76%*3,0.2928,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,9,10.50%*3,0.315,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,10,11.29%*3,0.3387,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,11,12.22%*3,0.3666,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,12,13.15%*3,0.3945,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,13,14.09%*3,0.4227,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,14,15.02%*3,0.4506,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,15,15.95%*3,0.4785,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,16,16.88%*3,0.5064,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,17,17.81%*3,0.5343,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,18,18.74%*3,0.5622,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,19,19.67%*3,0.5901,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack 3 Sword Shadows Recalled,20,20.60%*3,0.618,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,19,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Mid-air Attack STA Cost,20,30,0.0,
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,1,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,2,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,3,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,4,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,5,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,6,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,7,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,8,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,9,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,10,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,11,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,12,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,13,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,14,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,15,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,16,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,17,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,18,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,19,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Carve My Forms,Normal Attack,Heavy Attack STA Cost,20,20,0.0,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,1,3.47%*3+4.46%,0.1487,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,2,3.75%*3+4.83%,0.1608,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,3,4.04%*3+5.19%,0.1731,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,4,4.44%*3+5.70%,0.1902,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,5,4.72%*3+6.07%,0.2023,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,6,5.05%*3+6.49%,0.2164,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,7,5.50%*3+7.07%,0.2357,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,8,5.96%*3+7.66%,0.2554,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,9,6.41%*3+8.24%,0.2747,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,10,6.89%*3+8.86%,0.2953,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,11,7.46%*3+9.59%,0.3197,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,12,8.03%*3+10.32%,0.3441,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,13,8.60%*3+11.05%,0.3685,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,14,9.17%*3+11.78%,0.3929,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,15,9.74%*3+12.52%,0.4174,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,16,10.30%*3+13.25%,0.4415,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,17,10.87%*3+13.98%,0.4659,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,18,11.44%*3+14.71%,0.4903,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,19,12.01%*3+15.44%,0.5147,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Skill DMG,20,12.58%*3+16.17%,0.5391,"[""Basic Attack Damage""]"
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,1,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,2,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,3,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,4,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,5,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,6,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,7,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,8,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,9,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,10,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,11,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,12,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,13,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,14,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,15,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,16,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,17,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,18,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,19,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Concerto Regen,20,10,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,1,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,2,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,3,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,4,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,5,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,6,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,7,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,8,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,9,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,10,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,11,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,12,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,13,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,14,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,15,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,16,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,17,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,18,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,19,14,0.0,
+Cartethyia,Sword to Bear Their Names,Resonance Skill,Resonance Skill Cooldown,20,14,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,1,6.60%*7,0.462,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,2,7.14%*7,0.4998,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,3,7.68%*7,0.5376,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,4,8.44%*7,0.5908,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,5,8.98%*7,0.6286,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,6,9.61%*7,0.6727,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,7,10.47%*7,0.7329,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,8,11.34%*7,0.7938,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,9,12.20%*7,0.854,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,10,13.12%*7,0.9184,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,11,14.20%*7,0.994,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,12,15.29%*7,1.0703,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,13,16.37%*7,1.1459,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,14,17.45%*7,1.2215,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,15,18.53%*7,1.2971,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,16,19.61%*7,1.3727,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,17,20.70%*7,1.449,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,18,21.78%*7,1.5246,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,19,22.86%*7,1.6002,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall DMG,20,23.94%*7,1.6758,"[""Liberation Damage""]"
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,1,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,2,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,3,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,4,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,5,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,6,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,7,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,8,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,9,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,10,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,11,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,12,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,13,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,14,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,15,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,16,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,17,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,18,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,19,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Resonance Cost,20,125,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,1,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,2,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,3,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,4,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,5,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,6,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,7,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,8,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,9,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,10,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,11,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,12,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,13,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,14,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,15,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,16,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,17,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,18,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,19,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Cooldown,20,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,1,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,2,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,3,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,4,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,5,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,6,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,7,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,8,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,9,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,10,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,11,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,12,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,13,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,14,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,15,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,16,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,17,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,18,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,19,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Cooldown,20,25,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,1,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,2,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,3,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,4,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,5,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,6,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,7,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,8,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,9,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,10,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,11,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,12,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,13,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,14,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,15,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,16,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,17,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,18,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,19,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,A Knight's Heartfelt Prayers Concerto Regen,20,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,1,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,2,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,3,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,4,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,5,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,6,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,7,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,8,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,9,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,10,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,11,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,12,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,13,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,14,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,15,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,16,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,17,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,18,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,19,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Blade of Howling Squall Concerto Regen,20,20,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,1,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,2,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,3,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,4,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,5,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,6,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,7,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,8,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,9,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,10,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,11,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,12,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,13,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,14,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,15,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,16,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,17,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,18,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,19,1.5,0.0,
+Cartethyia,A Knight's Heartfelt Prayers,Resonance Liberation,Avatar Cooldown,20,1.5,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,1,1.05%*3+3.14%,0.0629,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,2,1.14%*3+3.40%,0.0682,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,3,1.22%*3+3.65%,0.0731,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,4,1.34%*3+4.01%,0.0803,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,5,1.43%*3+4.27%,0.0856,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,6,1.53%*3+4.57%,0.0916,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,7,1.66%*3+4.98%,0.0996,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,8,1.80%*3+5.39%,0.1079,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,9,1.94%*3+5.80%,0.1162,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,10,2.08%*3+6.24%,0.1248,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,11,2.25%*3+6.75%,0.135,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,12,2.43%*3+7.27%,0.1456,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,13,2.60%*3+7.78%,0.1558,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,14,2.77%*3+8.29%,0.166,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,15,2.94%*3+8.81%,0.1763,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,16,3.11%*3+9.32%,0.1865,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,17,3.28%*3+9.84%,0.1968,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,18,3.45%*3+10.35%,0.207,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,19,3.62%*3+10.86%,0.2172,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace DMG,20,3.80%*3+11.38%,0.2278,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,1,2.15%+5.02%,0.0717,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,2,2.33%+5.43%,0.0776,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,3,2.51%+5.84%,0.0835,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,4,2.75%+6.41%,0.0916,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,5,2.93%+6.83%,0.0976,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,6,3.13%+7.30%,0.1043,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,7,3.41%+7.96%,0.1137,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,8,3.69%+8.61%,0.123,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,9,3.98%+9.27%,0.1325,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,10,4.28%+9.97%,0.1425,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,11,4.63%+10.79%,0.1542,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,12,4.98%+11.61%,0.1659,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,13,5.33%+12.44%,0.1777,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,14,5.68%+13.26%,0.1894,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,15,6.04%+14.08%,0.2012,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,16,6.39%+14.90%,0.2129,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,17,6.74%+15.72%,0.2246,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,18,7.09%+16.55%,0.2364,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,19,7.45%+17.37%,0.2482,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom DMG,20,7.80%+18.19%,0.2599,"[""Intro Damage""]"
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,1,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,2,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,3,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,4,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,5,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,6,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,7,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,8,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,9,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,10,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,11,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,12,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,13,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,14,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,15,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,16,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,17,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,18,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,19,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Mark Tide's Trace Concerto Regen,20,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,1,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,2,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,3,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,4,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,5,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,6,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,7,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,8,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,9,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,10,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,11,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,12,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,13,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,14,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,15,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,16,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,17,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,18,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,19,10,0.0,
+Cartethyia,Sword to Mark Tide's Trace,Intro Skill,Sword to Call for Freedom Concerto Regen,20,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,1,3.27%,0.0327,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,2,3.54%,0.0354,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,3,3.80%,0.038,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,4,4.18%,0.0418,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,5,4.45%,0.0445,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,6,4.75%,0.0475,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,7,5.18%,0.0518,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,8,5.61%,0.0561,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,9,6.04%,0.0604,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,10,6.49%,0.0649,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,11,7.03%,0.0703,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,12,7.56%,0.0756,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,13,8.10%,0.081,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,14,8.64%,0.0864,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,15,9.17%,0.0917,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,16,9.71%,0.0971,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,17,10.24%,0.1024,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,18,10.78%,0.1078,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,19,11.31%,0.1131,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 1 DMG,20,11.85%,0.1185,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,1,1.83%+0.92%+0.92%+0.92%,0.0459,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,2,1.98%+0.99%+0.99%+0.99%,0.0495,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,3,2.13%+1.07%+1.07%+1.07%,0.0534,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,4,2.33%+1.17%+1.17%+1.17%,0.0584,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,5,2.48%+1.24%+1.24%+1.24%,0.062,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,6,2.66%+1.33%+1.33%+1.33%,0.0665,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,7,2.89%+1.45%+1.45%+1.45%,0.0724,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,8,3.13%+1.57%+1.57%+1.57%,0.0784,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,9,3.37%+1.69%+1.69%+1.69%,0.0844,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,10,3.63%+1.82%+1.82%+1.82%,0.0909,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,11,3.92%+1.96%+1.96%+1.96%,0.098,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,12,4.22%+2.11%+2.11%+2.11%,0.1055,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,13,4.52%+2.26%+2.26%+2.26%,0.113,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,14,4.82%+2.41%+2.41%+2.41%,0.1205,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,15,5.12%+2.56%+2.56%+2.56%,0.128,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,16,5.42%+2.71%+2.71%+2.71%,0.1355,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,17,5.72%+2.86%+2.86%+2.86%,0.143,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,18,6.02%+3.01%+3.01%+3.01%,0.1505,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,19,6.31%+3.16%+3.16%+3.16%,0.1579,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 2 DMG,20,6.61%+3.31%+3.31%+3.31%,0.1654,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,1,1.08%+1.08%+1.08%+2.15%,0.0539,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,2,1.16%+1.16%+1.16%+2.32%,0.058,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,3,1.25%+1.25%+1.25%+2.50%,0.0625,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,4,1.37%+1.37%+1.37%+2.74%,0.0685,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,5,1.46%+1.46%+1.46%+2.92%,0.073,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,6,1.56%+1.56%+1.56%+3.12%,0.078,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,7,1.70%+1.70%+1.70%+3.40%,0.085,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,8,1.84%+1.84%+1.84%+3.68%,0.092,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,9,1.98%+1.98%+1.98%+3.96%,0.099,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,10,2.13%+2.13%+2.13%+4.26%,0.1065,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,11,2.31%+2.31%+2.31%+4.61%,0.1154,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,12,2.49%+2.49%+2.49%+4.97%,0.1244,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,13,2.66%+2.66%+2.66%+5.32%,0.133,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,14,2.84%+2.84%+2.84%+5.67%,0.1419,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,15,3.01%+3.01%+3.01%+6.02%,0.1505,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,16,3.19%+3.19%+3.19%+6.37%,0.1594,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,17,3.36%+3.36%+3.36%+6.72%,0.168,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,18,3.54%+3.54%+3.54%+7.07%,0.1769,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,19,3.72%+3.72%+3.72%+7.43%,0.1859,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 3 DMG,20,3.89%+3.89%+3.89%+7.78%,0.1945,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,1,1.38%*5,0.069,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,2,1.49%*5,0.0745,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,3,1.61%*5,0.0805,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,4,1.77%*5,0.0885,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,5,1.88%*5,0.094,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,6,2.01%*5,0.1005,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,7,2.19%*5,0.1095,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,8,2.37%*5,0.1185,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,9,2.55%*5,0.1275,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,10,2.74%*5,0.137,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,11,2.97%*5,0.1485,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,12,3.19%*5,0.1595,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,13,3.42%*5,0.171,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,14,3.65%*5,0.1825,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,15,3.87%*5,0.1935,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,16,4.10%*5,0.205,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,17,4.32%*5,0.216,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,18,4.55%*5,0.2275,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,19,4.78%*5,0.239,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 4 DMG,20,5.00%*5,0.25,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,1,3.63%+14.49%,0.1812,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,2,3.92%+15.67%,0.1959,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,3,4.22%+16.86%,0.2108,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,4,4.63%+18.52%,0.2315,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,5,4.93%+19.71%,0.2464,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,6,5.27%+21.08%,0.2635,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,7,5.75%+22.98%,0.2873,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,8,6.22%+24.88%,0.311,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,9,6.70%+26.78%,0.3348,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,10,7.20%+28.80%,0.36,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,11,7.80%+31.17%,0.3897,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,12,8.39%+33.55%,0.4194,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,13,8.98%+35.92%,0.449,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,14,9.58%+38.30%,0.4788,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,15,10.17%+40.67%,0.5084,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,16,10.77%+43.05%,0.5382,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,17,11.36%+45.42%,0.5678,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,18,11.95%+47.80%,0.5975,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,19,12.55%+50.17%,0.6272,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Basic Attack Stage 5 DMG,20,13.14%+52.55%,0.6569,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,1,1.61%+1.61%+1.61%+3.22%,0.0805,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,2,1.74%+1.74%+1.74%+3.48%,0.087,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,3,1.87%+1.87%+1.87%+3.74%,0.0935,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,4,2.06%+2.06%+2.06%+4.11%,0.1029,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,5,2.19%+2.19%+2.19%+4.38%,0.1095,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,6,2.34%+2.34%+2.34%+4.68%,0.117,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,7,2.55%+2.55%+2.55%+5.10%,0.1275,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,8,2.76%+2.76%+2.76%+5.52%,0.138,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,9,2.97%+2.97%+2.97%+5.94%,0.1485,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,10,3.20%+3.20%+3.20%+6.39%,0.1599,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,11,3.46%+3.46%+3.46%+6.92%,0.173,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,12,3.73%+3.73%+3.73%+7.45%,0.1864,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,13,3.99%+3.99%+3.99%+7.97%,0.1994,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,14,4.25%+4.25%+4.25%+8.50%,0.2125,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,15,4.52%+4.52%+4.52%+9.03%,0.2259,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,16,4.78%+4.78%+4.78%+9.55%,0.2389,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,17,5.04%+5.04%+5.04%+10.08%,0.252,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,18,5.31%+5.31%+5.31%+10.61%,0.2654,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,19,5.57%+5.57%+5.57%+11.14%,0.2785,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Dodge Counter DMG,20,5.83%+5.83%+5.83%+11.66%,0.2915,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,1,2.29%*2,0.0458,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,2,2.48%*2,0.0496,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,3,2.66%*2,0.0532,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,4,2.92%*2,0.0584,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,5,3.11%*2,0.0622,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,6,3.33%*2,0.0666,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,7,3.63%*2,0.0726,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,8,3.93%*2,0.0786,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,9,4.23%*2,0.0846,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,10,4.54%*2,0.0908,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,11,4.92%*2,0.0984,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,12,5.29%*2,0.1058,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,13,5.67%*2,0.1134,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,14,6.04%*2,0.1208,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,15,6.42%*2,0.1284,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,16,6.79%*2,0.1358,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,17,7.17%*2,0.1434,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,18,7.54%*2,0.1508,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,19,7.91%*2,0.1582,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Upward Cut DMG,20,8.29%*2,0.1658,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,1,2.15%+5.02%,0.0717,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,2,2.33%+5.43%,0.0776,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,3,2.51%+5.84%,0.0835,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,4,2.75%+6.41%,0.0916,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,5,2.93%+6.83%,0.0976,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,6,3.13%+7.30%,0.1043,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,7,3.41%+7.96%,0.1137,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,8,3.69%+8.61%,0.123,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,9,3.98%+9.27%,0.1325,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,10,4.28%+9.97%,0.1425,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,11,4.63%+10.79%,0.1542,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,12,4.98%+11.61%,0.1659,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,13,5.33%+12.44%,0.1777,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,14,5.68%+13.26%,0.1894,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,15,6.04%+14.08%,0.2012,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,16,6.39%+14.90%,0.2129,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,17,6.74%+15.72%,0.2246,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,18,7.09%+16.55%,0.2364,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,19,7.45%+17.37%,0.2482,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Heavy Attack DMG,20,7.80%+18.19%,0.2599,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,1,3.91%*2+1.96%,0.0978,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,2,4.23%*2+2.12%,0.1058,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,3,4.55%*2+2.28%,0.1138,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,4,5.00%*2+2.50%,0.125,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,5,5.32%*2+2.66%,0.133,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,6,5.69%*2+2.85%,0.1423,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,7,6.21%*2+3.11%,0.1553,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,8,6.72%*2+3.36%,0.168,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,9,7.23%*2+3.62%,0.1808,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,10,7.78%*2+3.89%,0.1945,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,11,8.42%*2+4.21%,0.2105,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,12,9.06%*2+4.53%,0.2265,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,13,9.70%*2+4.85%,0.2425,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,14,10.34%*2+5.17%,0.2585,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,15,10.98%*2+5.49%,0.2745,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,16,11.62%*2+5.81%,0.2905,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,17,12.26%*2+6.13%,0.3065,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,18,12.90%*2+6.45%,0.3225,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,19,13.54%*2+6.77%,0.3385,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack DMG,20,14.19%*2+7.10%,0.3548,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,1,1.50%+1.50%+1.55%,0.0455,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,2,1.63%+1.63%+1.68%,0.0494,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,3,1.75%+1.75%+1.80%,0.053,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,4,1.92%+1.92%+1.98%,0.0582,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,5,2.05%+2.05%+2.11%,0.0621,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,6,2.19%+2.19%+2.25%,0.0663,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,7,2.38%+2.38%+2.46%,0.0722,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,8,2.58%+2.58%+2.66%,0.0782,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,9,2.78%+2.78%+2.86%,0.0842,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,10,2.99%+2.99%+3.08%,0.0906,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,11,3.23%+3.23%+3.33%,0.0979,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,12,3.48%+3.48%+3.58%,0.1054,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,13,3.72%+3.72%+3.84%,0.1128,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,14,3.97%+3.97%+4.09%,0.1203,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,15,4.22%+4.22%+4.34%,0.1278,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,16,4.46%+4.46%+4.60%,0.1352,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,17,4.71%+4.71%+4.85%,0.1427,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,18,4.95%+4.95%+5.10%,0.15,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,19,5.20%+5.20%+5.36%,0.1576,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 DMG,20,5.45%+5.45%+5.61%,0.1651,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,1,3.72%+3.72%+7.43%,0.1487,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,2,4.02%+4.02%+8.04%,0.1608,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,3,4.33%+4.33%+8.65%,0.1731,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,4,4.75%+4.75%+9.50%,0.19,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,5,5.06%+5.06%+10.11%,0.2023,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,6,5.41%+5.41%+10.81%,0.2163,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,7,5.89%+5.89%+11.78%,0.2356,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,8,6.38%+6.38%+12.76%,0.2552,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,9,6.87%+6.87%+13.73%,0.2747,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,10,7.39%+7.39%+14.77%,0.2955,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,11,7.99%+7.99%+15.98%,0.3196,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,12,8.60%+8.60%+17.20%,0.344,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,13,9.21%+9.21%+18.42%,0.3684,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,14,9.82%+9.82%+19.64%,0.3928,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,15,10.43%+10.43%+20.86%,0.4172,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,16,11.04%+11.04%+22.07%,0.4415,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,17,11.65%+11.65%+23.29%,0.4659,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,18,12.26%+12.26%+24.51%,0.4903,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,19,12.87%+12.87%+25.73%,0.5147,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 DMG,20,13.47%+13.47%+26.94%,0.5388,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,1,1.11%,0.0111,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,2,1.20%,0.012,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,3,1.29%,0.0129,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,4,1.42%,0.0142,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,5,1.51%,0.0151,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,6,1.61%,0.0161,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,7,1.76%,0.0176,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,8,1.90%,0.019,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,9,2.05%,0.0205,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,10,2.20%,0.022,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,11,2.38%,0.0238,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,12,2.56%,0.0256,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,13,2.74%,0.0274,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,14,2.92%,0.0292,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,15,3.11%,0.0311,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,16,3.29%,0.0329,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,17,3.47%,0.0347,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,18,3.65%,0.0365,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,19,3.83%,0.0383,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 DMG,20,4.01%,0.0401,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,1,0.94%*4+8.73%,0.1249,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,2,1.02%*4+9.45%,0.1353,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,3,1.09%*4+10.17%,0.1453,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,4,1.20%*4+11.17%,0.1597,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,5,1.28%*4+11.88%,0.17,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,6,1.37%*4+12.71%,0.1819,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,7,1.49%*4+13.85%,0.1981,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,8,1.61%*4+15.00%,0.2144,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,9,1.73%*4+16.14%,0.2306,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,10,1.86%*4+17.36%,0.248,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,11,2.02%*4+18.79%,0.2687,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,12,2.17%*4+20.22%,0.289,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,13,2.32%*4+21.66%,0.3094,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,14,2.48%*4+23.09%,0.3301,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,15,2.63%*4+24.52%,0.3504,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,16,2.78%*4+25.95%,0.3707,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,17,2.94%*4+27.38%,0.3914,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,18,3.09%*4+28.81%,0.4117,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,19,3.25%*4+30.25%,0.4325,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call DMG,20,3.40%*4+31.68%,0.4528,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,1,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,2,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,3,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,4,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,5,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,6,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,7,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,8,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,9,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,10,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,11,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,12,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,13,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,14,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,15,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,16,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,17,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,18,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,19,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Sword to Answer Waves' Call Concerto Regen,20,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,1,0.94%*2+3.54%*3,0.125,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,2,1.02%*2+3.83%*3,0.1353,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,3,1.09%*2+4.12%*3,0.1454,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,4,1.20%*2+4.52%*3,0.1596,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,5,1.28%*2+4.81%*3,0.1699,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,6,1.37%*2+5.15%*3,0.1819,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,7,1.49%*2+5.61%*3,0.1981,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,8,1.61%*2+6.07%*3,0.2143,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,9,1.73%*2+6.54%*3,0.2308,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,10,1.86%*2+7.03%*3,0.2481,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,11,2.02%*2+7.61%*3,0.2687,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,12,2.17%*2+8.19%*3,0.2891,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,13,2.32%*2+8.77%*3,0.3095,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,14,2.48%*2+9.35%*3,0.3301,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,15,2.63%*2+9.93%*3,0.3505,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,16,2.78%*2+10.51%*3,0.3709,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,17,2.94%*2+11.09%*3,0.3915,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,18,3.09%*2+11.67%*3,0.4119,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,19,3.25%*2+12.25%*3,0.4325,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides DMG,20,3.40%*2+12.82%*3,0.4526,"[""Basic Attack Damage""]"
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,1,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,2,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,3,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,4,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,5,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,6,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,7,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,8,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,9,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,10,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,11,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,12,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,13,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,14,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,15,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,16,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,17,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,18,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,19,10,0.0,
+Cartethyia,Tempest,Forte Circuit,May Tempest Break the Tides Concerto Regen,20,10,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,1,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,2,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,3,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,4,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,5,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,6,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,7,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,8,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,9,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,10,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,11,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,12,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,13,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,14,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,15,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,16,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,17,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,18,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,19,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Resonance Skill Cooldown,20,14,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,1,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,2,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,3,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,4,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,5,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,6,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,7,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,8,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,9,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,10,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,11,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,12,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,13,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,14,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,15,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,16,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,17,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,18,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,19,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Heavy Attack STA Cost,20,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,1,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,2,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,3,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,4,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,5,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,6,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,7,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,8,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,9,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,10,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,11,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,12,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,13,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,14,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,15,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,16,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,17,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,18,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,19,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Enhanced Heavy Attack STA Cost,20,20,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,1,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,2,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,3,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,4,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,5,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,6,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,7,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,8,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,9,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,10,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,11,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,12,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,13,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,14,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,15,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,16,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,17,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,18,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,19,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 1 STA Cost,20,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,1,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,2,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,3,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,4,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,5,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,6,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,7,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,8,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,9,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,10,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,11,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,12,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,13,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,14,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,15,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,16,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,17,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,18,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,19,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 2 STA Cost,20,5,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,1,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,2,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,3,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,4,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,5,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,6,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,7,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,8,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,9,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,10,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,11,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,12,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,13,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,14,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,15,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,16,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,17,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,18,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,19,30,0.0,
+Cartethyia,Tempest,Forte Circuit,Mid-air Attack 3 STA Cost,20,30,0.0,

@@ -1,0 +1,761 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,1,31.45%,0.3145,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,2,34.03%,0.3403,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,3,36.61%,0.3661,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,4,40.22%,0.4022,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,5,42.80%,0.428,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,6,45.77%,0.4577,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,7,49.89%,0.4989,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,8,54.02%,0.5402,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,9,58.15%,0.5815,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,10,62.53%,0.6253,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,11,67.69%,0.6769,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,12,72.85%,0.7285,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,13,78.00%,0.78,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,14,83.16%,0.8316,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,15,88.32%,0.8832,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,16,93.48%,0.9348,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,17,98.64%,0.9864,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,18,103.79%,1.0379,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,19,108.95%,1.0895,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 1 DMG,20,114.11%,1.1411,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,1,23.38%*2,0.4676,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,2,25.30%*2,0.506,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,3,27.21%*2,0.5442,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,4,29.90%*2,0.598,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,5,31.81%*2,0.6362,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,6,34.02%*2,0.6804,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,7,37.08%*2,0.7416,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,8,40.15%*2,0.803,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,9,43.22%*2,0.8644,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,10,46.48%*2,0.9296,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,11,50.31%*2,1.0062,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,12,54.14%*2,1.0828,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,13,57.98%*2,1.1596,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,14,61.81%*2,1.2362,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,15,65.64%*2,1.3128,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,16,69.48%*2,1.3896,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,17,73.31%*2,1.4662,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,18,77.14%*2,1.5428,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,19,80.98%*2,1.6196,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 2 DMG,20,84.81%*2,1.6962,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,1,25.50%*3,0.765,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,2,27.59%*3,0.8277,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,3,29.68%*3,0.8904,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,4,32.61%*3,0.9783,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,5,34.70%*3,1.041,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,6,37.11%*3,1.1133,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,7,40.45%*3,1.2135,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,8,43.80%*3,1.314,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,9,47.14%*3,1.4142,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,10,50.70%*3,1.521,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,11,54.88%*3,1.6464,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,12,59.06%*3,1.7718,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,13,63.24%*3,1.8972,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,14,67.42%*3,2.0226,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,15,71.60%*3,2.148,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,16,75.79%*3,2.2737,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,17,79.97%*3,2.3991,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,18,84.15%*3,2.5245,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,19,88.33%*3,2.6499,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 3 DMG,20,92.51%*3,2.7753,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,1,12.42%*20,2.484,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,2,13.44%*20,2.688,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,3,14.46%*20,2.892,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,4,15.89%*20,3.178,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,5,16.91%*20,3.382,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,6,18.08%*20,3.616,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,7,19.71%*20,3.942,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,8,21.34%*20,4.268,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,9,22.97%*20,4.594,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,10,24.70%*20,4.94,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,11,26.73%*20,5.346,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,12,28.77%*20,5.754,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,13,30.81%*20,6.162,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,14,32.84%*20,6.568,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,15,34.88%*20,6.976,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,16,36.92%*20,7.384,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,17,38.96%*20,7.792,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,18,40.99%*20,8.198,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,19,43.03%*20,8.606,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 4 DMG,20,45.07%*20,9.014,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,1,24.23%*4,0.9692,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,2,26.22%*4,1.0488,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,3,28.20%*4,1.128,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,4,30.98%*4,1.2392,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,5,32.97%*4,1.3188,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,6,35.25%*4,1.41,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,7,38.43%*4,1.5372,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,8,41.61%*4,1.6644,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,9,44.79%*4,1.7916,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,10,48.17%*4,1.9268,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,11,52.14%*4,2.0856,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,12,56.11%*4,2.2444,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,13,60.09%*4,2.4036,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,14,64.06%*4,2.5624,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,15,68.03%*4,2.7212,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,16,72.00%*4,2.88,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,17,75.98%*4,3.0392,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,18,79.95%*4,3.198,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,19,83.92%*4,3.3568,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Basic Attack 5 DMG,20,87.90%*4,3.516,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,1,44.33%*3,1.3299,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,2,47.97%*3,1.4391,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,3,51.60%*3,1.548,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,4,56.69%*3,1.7007,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,5,60.33%*3,1.8099,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,6,64.51%*3,1.9353,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,7,70.32%*3,2.1096,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,8,76.14%*3,2.2842,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,9,81.96%*3,2.4588,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,10,88.14%*3,2.6442,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,11,95.41%*3,2.8623,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,12,102.68%*3,3.0804,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,13,109.95%*3,3.2985,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,14,117.22%*3,3.5166,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,15,124.48%*3,3.7344,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,16,131.75%*3,3.9525,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,17,139.02%*3,4.1706,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,18,146.29%*3,4.3887,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,19,153.56%*3,4.6068,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack DMG,20,160.83%*3,4.8249,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,1,33.00%*2,0.66,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,2,35.71%*2,0.7142,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,3,38.42%*2,0.7684,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,4,42.21%*2,0.8442,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,5,44.91%*2,0.8982,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,6,48.02%*2,0.9604,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,7,52.35%*2,1.047,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,8,56.68%*2,1.1336,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,9,61.01%*2,1.2202,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,10,65.61%*2,1.3122,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,11,71.02%*2,1.4204,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,12,76.44%*2,1.5288,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,13,81.85%*2,1.637,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,14,87.26%*2,1.7452,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,15,92.67%*2,1.8534,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,16,98.08%*2,1.9616,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,17,103.50%*2,2.07,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,18,108.91%*2,2.1782,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,19,114.32%*2,2.2864,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack DMG,20,119.73%*2,2.3946,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,1,50.00%*3,1.5,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,2,54.10%*3,1.623,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,3,58.20%*3,1.746,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,4,63.94%*3,1.9182,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,5,68.04%*3,2.0412,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,6,72.75%*3,2.1825,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,7,79.31%*3,2.3793,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,8,85.87%*3,2.5761,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,9,92.43%*3,2.7729,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,10,99.40%*3,2.982,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,11,107.60%*3,3.228,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,12,115.80%*3,3.474,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,13,124.00%*3,3.72,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,14,132.20%*3,3.966,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,15,140.40%*3,4.212,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,16,148.60%*3,4.458,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,17,156.79%*3,4.7037,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,18,164.99%*3,4.9497,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,19,173.19%*3,5.1957,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Dodge Counter DMG,20,181.39%*3,5.4417,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,1,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,2,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,3,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,4,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,5,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,6,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,7,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,8,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,9,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,10,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,11,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,12,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,13,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,14,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,15,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,16,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,17,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,18,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,19,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Heavy Attack STA Cost,20,25,0.0,"[""Basic Attack Damage""]"
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,19,30,0.0,
+Camellya,Burgeoning,Normal Attack,Mid-air Attack STA Cost,20,30,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,1,57.15%*2,1.143,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,2,61.84%*2,1.2368,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,3,66.53%*2,1.3306,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,4,73.09%*2,1.4618,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,5,77.77%*2,1.5554,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,6,83.16%*2,1.6632,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,7,90.66%*2,1.8132,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,8,98.16%*2,1.9632,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,9,105.66%*2,2.1132,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,10,113.62%*2,2.2724,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,11,123.00%*2,2.46,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,12,132.37%*2,2.6474,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,13,141.74%*2,2.8348,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,14,151.12%*2,3.0224,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,15,160.49%*2,3.2098,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,16,169.86%*2,3.3972,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,17,179.23%*2,3.5846,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,18,188.61%*2,3.7722,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,19,197.98%*2,3.9596,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom DMG,20,207.35%*2,4.147,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,1,48.45%,0.4845,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,2,52.43%,0.5243,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,3,56.40%,0.564,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,4,61.96%,0.6196,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,5,65.94%,0.6594,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,6,70.50%,0.705,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,7,76.86%,0.7686,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,8,83.22%,0.8322,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,9,89.57%,0.8957,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,10,96.33%,0.9633,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,11,104.27%,1.0427,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,12,112.22%,1.1222,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,13,120.17%,1.2017,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,14,128.11%,1.2811,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,15,136.06%,1.3606,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,16,144.00%,1.44,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,17,151.95%,1.5195,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,18,159.89%,1.5989,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,19,167.84%,1.6784,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 DMG,20,175.79%,1.7579,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,1,22.95%*2,0.459,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,2,24.84%*2,0.4968,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,3,26.72%*2,0.5344,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,4,29.35%*2,0.587,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,5,31.24%*2,0.6248,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,6,33.40%*2,0.668,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,7,36.41%*2,0.7282,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,8,39.42%*2,0.7884,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,9,42.43%*2,0.8486,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,10,45.63%*2,0.9126,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,11,49.40%*2,0.988,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,12,53.16%*2,1.0632,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,13,56.92%*2,1.1384,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,14,60.69%*2,1.2138,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,15,64.45%*2,1.289,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,16,68.21%*2,1.3642,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,17,71.98%*2,1.4396,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,18,75.74%*2,1.5148,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,19,79.51%*2,1.5902,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 DMG,20,83.27%*2,1.6654,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,1,11.04%*6,0.6624,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,2,11.95%*6,0.717,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,3,12.86%*6,0.7716,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,4,14.12%*6,0.8472,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,5,15.03%*6,0.9018,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,6,16.07%*6,0.9642,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,7,17.52%*6,1.0512,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,8,18.97%*6,1.1382,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,9,20.41%*6,1.2246,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,10,21.95%*6,1.317,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,11,23.76%*6,1.4256,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,12,25.57%*6,1.5342,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,13,27.39%*6,1.6434,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,14,29.20%*6,1.752,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,15,31.01%*6,1.8606,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,16,32.82%*6,1.9692,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,17,34.63%*6,2.0778,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,18,36.44%*6,2.1864,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,19,38.25%*6,2.295,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 DMG,20,40.06%*6,2.4036,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,1,34.00%*3,1.02,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,2,36.79%*3,1.1037,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,3,39.58%*3,1.1874,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,4,43.48%*3,1.3044,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,5,46.27%*3,1.3881,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,6,49.47%*3,1.4841,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,7,53.93%*3,1.6179,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,8,58.39%*3,1.7517,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,9,62.85%*3,1.8855,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,10,67.59%*3,2.0277,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,11,73.17%*3,2.1951,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,12,78.74%*3,2.3622,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,13,84.32%*3,2.5296,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,14,89.90%*3,2.697,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,15,95.47%*3,2.8641,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,16,101.05%*3,3.0315,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,17,106.62%*3,3.1986,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,18,112.20%*3,3.366,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,19,117.77%*3,3.5331,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 DMG,20,123.35%*3,3.7005,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,1,11.04%*19,2.0976,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,2,11.95%*19,2.2705,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,3,12.86%*19,2.4434,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,4,14.12%*19,2.6828,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,5,15.03%*19,2.8557,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,6,16.07%*19,3.0533,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,7,17.52%*19,3.3288,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,8,18.97%*19,3.6043,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,9,20.41%*19,3.8779,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,10,21.95%*19,4.1705,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,11,23.76%*19,4.5144,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,12,25.57%*19,4.8583,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,13,27.39%*19,5.2041,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,14,29.20%*19,5.548,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,15,31.01%*19,5.8919,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,16,32.82%*19,6.2358,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,17,34.63%*19,6.5797,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,18,36.44%*19,6.9236,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,19,38.25%*19,7.2675,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz DMG,20,40.06%*19,7.6114,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,1,26.46%*5,1.323,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,2,28.63%*5,1.4315,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,3,30.80%*5,1.54,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,4,33.84%*5,1.692,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,5,36.01%*5,1.8005,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,6,38.51%*5,1.9255,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,7,41.98%*5,2.099,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,8,45.45%*5,2.2725,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,9,48.92%*5,2.446,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,10,52.61%*5,2.6305,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,11,56.95%*5,2.8475,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,12,61.29%*5,3.0645,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,13,65.63%*5,3.2815,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,14,69.97%*5,3.4985,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,15,74.31%*5,3.7155,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,16,78.65%*5,3.9325,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,17,82.99%*5,4.1495,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,18,87.33%*5,4.3665,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,19,91.67%*5,4.5835,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage DMG,20,96.00%*5,4.8,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,1,26.64%*3,0.7992,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,2,28.82%*3,0.8646,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,3,31.00%*3,0.93,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,4,34.06%*3,1.0218,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,5,36.24%*3,1.0872,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,6,38.76%*3,1.1628,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,7,42.25%*3,1.2675,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,8,45.74%*3,1.3722,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,9,49.24%*3,1.4772,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,10,52.95%*3,1.5885,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,11,57.32%*3,1.7196,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,12,61.68%*3,1.8504,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,13,66.05%*3,1.9815,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,14,70.42%*3,2.1126,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,15,74.79%*3,2.2437,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,16,79.15%*3,2.3745,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,17,83.52%*3,2.5056,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,18,87.89%*3,2.6367,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,19,92.26%*3,2.7678,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde DMG,20,96.62%*3,2.8986,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,1,57.00%*2,1.14,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,2,61.68%*2,1.2336,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,3,66.35%*2,1.327,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,4,72.90%*2,1.458,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,5,77.57%*2,1.5514,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,6,82.95%*2,1.659,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,7,90.42%*2,1.8084,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,8,97.90%*2,1.958,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,9,105.38%*2,2.1076,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,10,113.33%*2,2.2666,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,11,122.67%*2,2.4534,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,12,132.02%*2,2.6404,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,13,141.37%*2,2.8274,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,14,150.72%*2,3.0144,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,15,160.07%*2,3.2014,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,16,169.41%*2,3.3882,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,17,178.76%*2,3.5752,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,18,188.11%*2,3.7622,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,19,197.46%*2,3.9492,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Atonement DMG,20,206.81%*2,4.1362,"[""Basic Damage""]"
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,1,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,2,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,3,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,4,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,5,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,6,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,7,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,8,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,9,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,10,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,11,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,12,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,13,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,14,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,15,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,16,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,17,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,18,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,19,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Cooldown,20,4,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,1,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,2,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,3,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,4,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,5,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,6,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,7,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,8,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,9,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,10,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,11,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,12,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,13,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,14,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,15,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,16,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,17,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,18,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,19,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Crimson Blossom Concerto Regen,20,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,1,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,2,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,3,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,4,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,5,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,6,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,7,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,8,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,9,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,10,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,11,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,12,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,13,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,14,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,15,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,16,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,17,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,18,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,19,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Floral Ravage Concerto Regen,20,7,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,1,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,2,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,3,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,4,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,5,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,6,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,7,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,8,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,9,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,10,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,11,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,12,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,13,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,14,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,15,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,16,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,17,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,18,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,19,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 1 STA Cost,20,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,1,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,2,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,3,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,4,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,5,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,6,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,7,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,8,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,9,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,10,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,11,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,12,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,13,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,14,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,15,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,16,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,17,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,18,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,19,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 2 STA Cost,20,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,1,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,2,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,3,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,4,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,5,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,6,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,7,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,8,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,9,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,10,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,11,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,12,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,13,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,14,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,15,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,16,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,17,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,18,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,19,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 3 STA Cost,20,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,1,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,2,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,3,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,4,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,5,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,6,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,7,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,8,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,9,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,10,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,11,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,12,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,13,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,14,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,15,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,16,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,17,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,18,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,19,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Waltz 4 STA Cost,20,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,1,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,2,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,3,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,4,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,5,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,6,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,7,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,8,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,9,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,10,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,11,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,12,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,13,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,14,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,15,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,16,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,17,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,18,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,19,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Blazing Waltz STA Cost,20,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,1,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,2,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,3,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,4,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,5,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,6,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,7,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,8,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,9,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,10,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,11,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,12,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,13,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,14,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,15,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,16,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,17,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,18,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,19,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,Vining Ronde STA Cost,20,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,1,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,2,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,3,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,4,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,5,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,6,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,7,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,8,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,9,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,10,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,11,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,12,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,13,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,14,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,15,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,16,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,17,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,18,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,19,5,0.0,
+Camellya,Valse of Bloom and Blight,Resonance Skill,STA Cost Per Second When Suspended,20,5,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,1,605.00%,6.05,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,2,654.61%,6.5461,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,3,704.22%,7.0422,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,4,773.68%,7.7368,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,5,823.29%,8.2329,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,6,880.34%,8.8034,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,7,959.72%,9.5972,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,8,1039.09%,10.3909,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,9,1118.47%,11.1847,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,10,1202.81%,12.0281,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,11,1302.03%,13.0203,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,12,1401.25%,14.0125,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,13,1500.47%,15.0047,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,14,1599.69%,15.9969,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,15,1698.91%,16.9891,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,16,1798.13%,17.9813,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,17,1897.35%,18.9735,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,18,1996.57%,19.9657,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,19,2095.79%,20.9579,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Ultimate DMG,20,2195.01%,21.9501,"[""Liberation Damage""]"
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,1,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,2,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,3,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,4,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,5,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,6,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,7,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,8,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,9,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,10,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,11,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,12,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,13,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,14,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,15,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,16,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,17,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,18,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,19,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Cooldown,20,25,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,1,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,2,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,3,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,4,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,5,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,6,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,7,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,8,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,9,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,10,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,11,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,12,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,13,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,14,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,15,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,16,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,17,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,18,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,19,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Resonance Cost,20,125,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,1,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,2,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,3,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,4,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,5,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,6,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,7,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,8,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,9,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,10,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,11,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,12,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,13,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,14,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,15,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,16,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,17,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,18,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,19,20,0.0,
+Camellya,Fervor Efflorescent,Resonance Liberation,Concerto Regen,20,20,0.0,
+Camellya,Everblooming,Intro Skill,Intro DMG,1,100.00%,1.0,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,2,108.20%,1.082,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,3,116.40%,1.164,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,4,127.88%,1.2788,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,5,136.08%,1.3608,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,6,145.51%,1.4551,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,7,158.63%,1.5863,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,8,171.75%,1.7175,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,9,184.87%,1.8487,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,10,198.81%,1.9881,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,11,215.21%,2.1521,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,12,231.61%,2.3161,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,13,248.01%,2.4801,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,14,264.41%,2.6441,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,15,280.81%,2.8081,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,16,297.21%,2.9721,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,17,313.61%,3.1361,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,18,330.01%,3.3001,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,19,346.41%,3.4641,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Intro DMG,20,362.81%,3.6281,"[""Intro Damage""]"
+Camellya,Everblooming,Intro Skill,Concerto Regen,1,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,2,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,3,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,4,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,5,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,6,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,7,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,8,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,9,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,10,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,11,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,12,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,13,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,14,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,15,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,16,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,17,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,18,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,19,10,0.0,
+Camellya,Everblooming,Intro Skill,Concerto Regen,20,10,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,1,635.00%,6.35,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,2,687.07%,6.8707,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,3,739.14%,7.3914,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,4,812.04%,8.1204,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,5,864.11%,8.6411,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,6,923.99%,9.2399,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,7,1007.31%,10.0731,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,8,1090.62%,10.9062,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,9,1173.93%,11.7393,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,10,1262.45%,12.6245,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,11,1366.59%,13.6659,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,12,1470.73%,14.7073,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,13,1574.87%,15.7487,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,14,1679.01%,16.7901,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,15,1783.15%,17.8315,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,16,1887.29%,18.8729,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,17,1991.43%,19.9143,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,18,2095.57%,20.9557,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,19,2199.71%,21.9971,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral DMG,20,2303.85%,23.0385,"[""Basic Attack Damage""]"
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,1,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,2,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,3,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,4,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,5,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,6,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,7,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,8,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,9,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,10,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,11,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,12,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,13,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,14,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,15,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,16,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,17,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,18,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,19,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Budding Mode Duration,20,15,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,1,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,2,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,3,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,4,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,5,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,6,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,7,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,8,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,9,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,10,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,11,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,12,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,13,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,14,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,15,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,16,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,17,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,18,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,19,25,0.0,
+Camellya,Vegetative Universe,Forte Circuit,Ephemeral Cooldown,20,25,0.0,
