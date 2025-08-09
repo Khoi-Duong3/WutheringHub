@@ -1,0 +1,453 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,1,24.29%,0.2429,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,2,26.29%,0.2629,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,3,28.28%,0.2828,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,4,31.07%,0.3107,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,5,33.06%,0.3306,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,6,35.35%,0.3535,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,7,38.54%,0.3854,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,8,41.72%,0.4172,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,9,44.91%,0.4491,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,10,48.30%,0.483,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,11,52.28%,0.5228,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,12,56.26%,0.5626,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,13,60.25%,0.6025,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,14,64.23%,0.6423,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,15,68.21%,0.6821,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,16,72.20%,0.722,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,17,76.18%,0.7618,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,18,80.16%,0.8016,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,19,84.15%,0.8415,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 1 DMG,20,88.13%,0.8813,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,1,20.51%*2,0.4102,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,2,22.20%*2,0.444,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,3,23.88%*2,0.4776,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,4,26.23%*2,0.5246,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,5,27.92%*2,0.5584,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,6,29.85%*2,0.597,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,7,32.54%*2,0.6508,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,8,35.23%*2,0.7046,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,9,37.92%*2,0.7584,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,10,40.78%*2,0.8156,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,11,44.14%*2,0.8828,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,12,47.51%*2,0.9502,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,13,50.87%*2,1.0174,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,14,54.24%*2,1.0848,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,15,57.60%*2,1.152,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,16,60.96%*2,1.2192,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,17,64.33%*2,1.2866,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,18,67.69%*2,1.3538,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,19,71.05%*2,1.421,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 2 DMG,20,74.42%*2,1.4884,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,1,53.97%,0.5397,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,2,58.40%,0.584,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,3,62.83%,0.6283,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,4,69.02%,0.6902,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,5,73.45%,0.7345,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,6,78.54%,0.7854,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,7,85.62%,0.8562,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,8,92.70%,0.927,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,9,99.78%,0.9978,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,10,107.30%,1.073,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,11,116.15%,1.1615,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,12,125.00%,1.25,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,13,133.86%,1.3386,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,14,142.71%,1.4271,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,15,151.56%,1.5156,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,16,160.41%,1.6041,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,17,169.26%,1.6926,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,18,178.11%,1.7811,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,19,186.96%,1.8696,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 3 DMG,20,195.81%,1.9581,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,1,10.57%*4+63.84%,1.0612,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,2,11.44%*4+69.08%,1.1484,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,3,12.31%*4+74.31%,1.2355,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,4,13.52%*4+81.64%,1.3572,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,5,14.39%*4+86.88%,1.4444,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,6,15.39%*4+92.90%,1.5446,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,7,16.77%*4+101.27%,1.6835,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,8,18.16%*4+109.65%,1.8229,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,9,19.55%*4+118.03%,1.9623,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,10,21.02%*4+126.93%,2.1101,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,11,22.75%*4+137.40%,2.284,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,12,24.49%*4+147.86%,2.4582,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,13,26.22%*4+158.33%,2.6321,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,14,27.95%*4+168.80%,2.806,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,15,29.69%*4+179.27%,2.9803,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,16,31.42%*4+189.74%,3.1542,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,17,33.15%*4+200.21%,3.3281,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,18,34.89%*4+210.68%,3.5024,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,19,36.62%*4+221.15%,3.6763,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Stage 4 DMG,20,38.35%*4+231.62%,3.8502,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,1,49.14%,0.4914,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,2,53.17%,0.5317,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,3,57.20%,0.572,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,4,62.85%,0.6285,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,5,66.87%,0.6687,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,6,71.51%,0.7151,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,7,77.96%,0.7796,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,8,84.40%,0.844,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,9,90.85%,0.9085,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,10,97.70%,0.977,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,11,105.76%,1.0576,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,12,113.82%,1.1382,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,13,121.88%,1.2188,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,14,129.94%,1.2994,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,15,138.00%,1.38,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,16,146.05%,1.4605,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,17,154.11%,1.5411,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,18,162.17%,1.6217,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,19,170.23%,1.7023,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Aimed Shot Damage,20,178.29%,1.7829,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,1,84.00%,0.84,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,2,90.89%,0.9089,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,3,97.78%,0.9778,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,4,107.42%,1.0742,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,5,114.31%,1.1431,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,6,122.23%,1.2223,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,7,133.25%,1.3325,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,8,144.27%,1.4427,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,9,155.30%,1.553,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,10,167.01%,1.6701,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,11,180.78%,1.8078,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,12,194.56%,1.9456,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,13,208.33%,2.0833,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,14,222.11%,2.2211,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,15,235.89%,2.3589,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,16,249.66%,2.4966,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,17,263.44%,2.6344,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,18,277.21%,2.7721,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,19,290.99%,2.9099,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Fully Charged Aimed Shot Damage,20,304.77%,3.0477,"[""Heavy Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,1,11.69%,0.1169,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,2,12.65%,0.1265,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,3,13.61%,0.1361,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,4,14.95%,0.1495,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,5,15.91%,0.1591,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,6,17.02%,0.1702,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,7,18.55%,0.1855,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,8,20.08%,0.2008,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,9,21.62%,0.2162,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,10,23.25%,0.2325,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,11,25.16%,0.2516,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,12,27.08%,0.2708,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,13,29.00%,0.29,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,14,30.91%,0.3091,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,15,32.83%,0.3283,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,16,34.75%,0.3475,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,17,36.67%,0.3667,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,18,38.58%,0.3858,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,19,40.50%,0.405,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 1 DMG,20,42.42%,0.4242,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,1,11.69%,0.1169,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,2,12.65%,0.1265,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,3,13.61%,0.1361,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,4,14.95%,0.1495,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,5,15.91%,0.1591,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,6,17.02%,0.1702,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,7,18.55%,0.1855,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,8,20.08%,0.2008,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,9,21.62%,0.2162,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,10,23.25%,0.2325,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,11,25.16%,0.2516,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,12,27.08%,0.2708,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,13,29.00%,0.29,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,14,30.91%,0.3091,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,15,32.83%,0.3283,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,16,34.75%,0.3475,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,17,36.67%,0.3667,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,18,38.58%,0.3858,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,19,40.50%,0.405,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack Stage 2 DMG,20,42.42%,0.4242,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,1,98.07%,0.9807,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,2,106.12%,1.0612,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,3,114.16%,1.1416,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,4,125.42%,1.2542,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,5,133.46%,1.3346,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,6,142.71%,1.4271,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,7,155.57%,1.5557,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,8,168.44%,1.6844,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,9,181.31%,1.8131,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,10,194.98%,1.9498,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,11,211.06%,2.1106,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,12,227.14%,2.2714,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,13,243.23%,2.4323,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,14,259.31%,2.5931,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,15,275.40%,2.754,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,16,291.48%,2.9148,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,17,307.56%,3.0756,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,18,323.65%,3.2365,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,19,339.73%,3.3973,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Dodge Counter DMG,20,355.81%,3.5581,"[""Basic Attack Damage""]"
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,1,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,2,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,3,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,4,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,5,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,6,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,7,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,8,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,9,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,10,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,11,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,12,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,13,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,14,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,15,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,16,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,17,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,18,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,19,5,0.0,
+Mortefi,Impromptu Show,Normal Attack,Mid-air Attack STA Cost,20,5,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,1,105.00%,1.05,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,2,113.61%,1.1361,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,3,122.22%,1.2222,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,4,134.28%,1.3428,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,5,142.89%,1.4289,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,6,152.79%,1.5279,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,7,166.57%,1.6657,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,8,180.34%,1.8034,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,9,194.12%,1.9412,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,10,208.76%,2.0876,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,11,225.98%,2.2598,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,12,243.20%,2.432,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,13,260.42%,2.6042,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,14,277.64%,2.7764,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,15,294.86%,2.9486,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,16,312.08%,3.1208,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,17,329.30%,3.293,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,18,346.52%,3.4652,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,19,363.74%,3.6374,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Skill DMG,20,380.96%,3.8096,"[""Skill Damage""]"
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,1,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,2,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,3,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,4,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,5,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,6,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,7,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,8,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,9,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,10,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,11,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,12,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,13,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,14,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,15,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,16,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,17,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,18,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,19,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Cooldown,20,14,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,1,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,2,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,3,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,4,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,5,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,6,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,7,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,8,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,9,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,10,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,11,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,12,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,13,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,14,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,15,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,16,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,17,18,0.0,
+Mortefi,Passionate Variation,Resonance Skill,Concerto Regen,18,18,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,1,80.00%,0.8,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,2,86.56%,0.8656,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,3,93.12%,0.9312,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,4,102.31%,1.0231,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,5,108.87%,1.0887,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,6,116.41%,1.1641,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,7,126.91%,1.2691,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,8,137.40%,1.374,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,9,147.90%,1.479,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,10,159.05%,1.5905,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,11,172.17%,1.7217,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,12,185.29%,1.8529,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,13,198.41%,1.9841,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,14,211.53%,2.1153,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,15,224.65%,2.2465,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,16,237.77%,2.3777,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,17,250.89%,2.5089,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,18,264.01%,2.6401,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,19,277.13%,2.7713,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Violent Finale Damage,20,290.25%,2.9025,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,1,16.00%,0.16,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,2,17.32%,0.1732,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,3,18.63%,0.1863,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,4,20.47%,0.2047,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,5,21.78%,0.2178,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,6,23.29%,0.2329,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,7,25.39%,0.2539,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,8,27.48%,0.2748,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,9,29.58%,0.2958,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,10,31.81%,0.3181,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,11,34.44%,0.3444,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,12,37.06%,0.3706,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,13,39.69%,0.3969,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,14,42.31%,0.4231,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,15,44.93%,0.4493,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,16,47.56%,0.4756,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,17,50.18%,0.5018,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,18,52.81%,0.5281,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,19,55.43%,0.5543,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Marcato Damage,20,58.05%,0.5805,"[""Liberation Damage""]"
+Mortefi,Violent Finale,Resonance Liberation,Duration,1,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,2,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,3,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,4,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,5,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,6,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,7,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,8,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,9,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,10,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,11,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,12,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,13,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,14,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,15,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,16,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,17,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,18,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,19,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Duration,20,10,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,1,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,2,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,3,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,4,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,5,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,6,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,7,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,8,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,9,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,10,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,11,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,12,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,13,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,14,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,15,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,16,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,17,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,18,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,19,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Cooldown,20,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,1,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,2,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,3,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,4,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,5,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,6,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,7,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,8,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,9,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,10,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,11,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,12,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,13,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,14,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,15,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,16,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,17,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,18,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,19,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Resonance Cost,20,125,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,1,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,2,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,3,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,4,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,5,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,6,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,7,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,8,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,9,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,10,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,11,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,12,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,13,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,14,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,15,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,16,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,17,20,0.0,
+Mortefi,Violent Finale,Resonance Liberation,Concerto Regen,18,20,0.0,
+Mortefi,Dissonance,Intro Skill,Intro DMG,1,85.00%,0.85,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,2,91.97%,0.9197,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,3,98.94%,0.9894,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,4,108.70%,1.087,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,5,115.67%,1.1567,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,6,123.69%,1.2369,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,7,134.84%,1.3484,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,8,145.99%,1.4599,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,9,157.14%,1.5714,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,10,168.99%,1.6899,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,11,182.93%,1.8293,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,12,196.87%,1.9687,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,13,210.81%,2.1081,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,14,224.75%,2.2475,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,15,238.69%,2.3869,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,16,252.63%,2.5263,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,17,266.57%,2.6657,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,18,280.51%,2.8051,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,19,294.45%,2.9445,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Intro DMG,20,308.39%,3.0839,"[""Intro Damage""]"
+Mortefi,Dissonance,Intro Skill,Concerto Regen,1,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,2,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,3,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,4,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,5,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,6,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,7,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,8,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,9,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,10,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,11,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,12,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,13,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,14,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,15,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,16,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,17,10,0.0,
+Mortefi,Dissonance,Intro Skill,Concerto Regen,18,10,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,1,164.00%,1.64,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,2,177.45%,1.7745,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,3,190.90%,1.909,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,4,209.73%,2.0973,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,5,223.18%,2.2318,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,6,238.64%,2.3864,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,7,260.16%,2.6016,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,8,281.67%,2.8167,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,9,303.19%,3.0319,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,10,326.05%,3.2605,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,11,352.95%,3.5295,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,12,379.85%,3.7985,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,13,406.74%,4.0674,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,14,433.64%,4.3364,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,15,460.53%,4.6053,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,16,487.43%,4.8743,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,17,514.33%,5.1433,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,18,541.22%,5.4122,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,19,568.12%,5.6812,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Fury Fugue Damage,20,595.01%,5.9501,"[""Skill Damage""]"
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,1,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,2,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,3,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,4,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,5,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,6,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,7,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,8,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,9,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,10,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,11,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,12,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,13,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,14,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,15,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,16,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,17,18,0.0,
+Mortefi,Fury Fugue,Forte Circuit,Concerto Regen,18,18,0.0,

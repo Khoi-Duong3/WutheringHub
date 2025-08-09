@@ -1,0 +1,501 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,1,36.81%,0.3681,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,2,39.83%,0.3983,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,3,42.85%,0.4285,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,4,47.07%,0.4707,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,5,50.09%,0.5009,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,6,53.56%,0.5356,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,7,58.39%,0.5839,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,8,63.22%,0.6322,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,9,68.05%,0.6805,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,10,73.18%,0.7318,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,11,79.21%,0.7921,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,12,85.25%,0.8525,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,13,91.29%,0.9129,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,14,97.32%,0.9732,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,15,103.36%,1.0336,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,16,109.39%,1.0939,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,17,115.43%,1.1543,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,18,121.47%,1.2147,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,19,127.50%,1.275,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 1 DMG,20,133.54%,1.3354,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,1,19.19%*3,0.5757,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,2,20.76%*3,0.6228,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,3,22.33%*3,0.6699,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,4,24.53%*3,0.7359,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,5,26.11%*3,0.7833,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,6,27.92%*3,0.8376,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,7,30.43%*3,0.9129,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,8,32.95%*3,0.9885,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,9,35.47%*3,1.0641,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,10,38.14%*3,1.1442,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,11,41.29%*3,1.2387,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,12,44.43%*3,1.3329,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,13,47.58%*3,1.4274,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,14,50.72%*3,1.5216,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,15,53.87%*3,1.6161,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,16,57.01%*3,1.7103,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,17,60.16%*3,1.8048,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,18,63.31%*3,1.8993,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,19,66.45%*3,1.9935,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 2 DMG,20,69.60%*3,2.088,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,1,17.00%*2+51.00%,0.85,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,2,18.40%*2+55.19%,0.9199,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,3,19.79%*2+59.37%,0.9895,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,4,21.74%*2+65.22%,1.087,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,5,23.14%*2+69.41%,1.1569,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,6,24.74%*2+74.22%,1.237,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,7,26.97%*2+80.91%,1.3485,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,8,29.20%*2+87.60%,1.46,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,9,31.43%*2+94.29%,1.5715,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,10,33.80%*2+101.40%,1.69,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,11,36.59%*2+109.76%,1.8294,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,12,39.38%*2+118.13%,1.9689,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,13,42.17%*2+126.49%,2.1083,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,14,44.95%*2+134.85%,2.2475,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,15,47.74%*2+143.22%,2.387,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,16,50.53%*2+151.58%,2.5264,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,17,53.32%*2+159.95%,2.6659,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,18,56.11%*2+168.31%,2.8053,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,19,58.89%*2+176.67%,2.9445,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 3 DMG,20,61.68%*2+185.04%,3.084,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,1,52.41%*2,1.0482,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,2,56.70%*2,1.134,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,3,61.00%*2,1.22,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,4,67.02%*2,1.3404,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,5,71.31%*2,1.4262,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,6,76.26%*2,1.5252,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,7,83.13%*2,1.6626,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,8,90.01%*2,1.8002,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,9,96.88%*2,1.9376,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,10,104.19%*2,2.0838,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,11,112.78%*2,2.2556,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,12,121.37%*2,2.4274,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,13,129.97%*2,2.5994,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,14,138.56%*2,2.7712,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,15,147.16%*2,2.9432,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,16,155.75%*2,3.115,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,17,164.34%*2,3.2868,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,18,172.94%*2,3.4588,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,19,181.53%*2,3.6306,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Stage 4 DMG,20,190.13%*2,3.8026,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,1,85.00%,0.85,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,2,91.97%,0.9197,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,3,98.94%,0.9894,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,4,108.70%,1.087,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,5,115.67%,1.1567,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,6,123.69%,1.2369,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,7,134.84%,1.3484,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,8,145.99%,1.4599,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,9,157.14%,1.5714,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,10,168.99%,1.6899,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,11,182.93%,1.8293,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,12,196.87%,1.9687,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,13,210.81%,2.1081,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,14,224.75%,2.2475,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,15,238.69%,2.3869,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,16,252.63%,2.5263,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,17,266.57%,2.6657,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,18,280.51%,2.8051,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,19,294.45%,2.9445,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack DMG,20,308.39%,3.0839,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,1,52.70%,0.527,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,2,57.03%,0.5703,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,3,61.35%,0.6135,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,4,67.40%,0.674,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,5,71.72%,0.7172,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,6,76.69%,0.7669,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,7,83.60%,0.836,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,8,90.52%,0.9052,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,9,97.43%,0.9743,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,10,104.78%,1.0478,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,11,113.42%,1.1342,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,12,122.06%,1.2206,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,13,130.71%,1.3071,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,14,139.35%,1.3935,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,15,147.99%,1.4799,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,16,156.63%,1.5663,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,17,165.28%,1.6528,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,18,173.92%,1.7392,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,19,182.56%,1.8256,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack DMG,20,191.21%,1.9121,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,1,34.66%*3,1.0398,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,2,37.50%*3,1.125,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,3,40.34%*3,1.2102,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,4,44.32%*3,1.3296,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,5,47.16%*3,1.4148,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,6,50.43%*3,1.5129,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,7,54.97%*3,1.6491,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,8,59.52%*3,1.7856,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,9,64.07%*3,1.9221,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,10,68.90%*3,2.067,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,11,74.58%*3,2.2374,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,12,80.26%*3,2.4078,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,13,85.94%*3,2.5782,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,14,91.63%*3,2.7489,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,15,97.31%*3,2.9193,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,16,102.99%*3,3.0897,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,17,108.68%*3,3.2604,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,18,114.36%*3,3.4308,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,19,120.04%*3,3.6012,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Dodge Counter DMG,20,125.72%*3,3.7716,"[""Basic Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,1,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,2,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,3,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,4,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,5,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,6,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,7,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,8,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,9,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,10,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,11,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,12,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,13,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,14,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,15,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,16,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,17,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,18,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,19,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,Heavy Attack STA Cost,20,10,0.0,"[""Heavy Attack Damage""]"
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,1,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,2,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,3,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,4,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,5,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,6,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,7,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,8,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,9,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,10,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,11,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,12,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,13,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,14,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,15,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,16,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,17,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,18,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,19,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,STA Cost per Second while Charging,20,15,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,19,30,0.0,
+Roccia,"Pero, Easy",Normal Attack,Mid-air Attack STA Cost,20,30,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,1,30.92%*8,2.4736,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,2,33.46%*8,2.6768,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,3,35.99%*8,2.8792,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,4,39.54%*8,3.1632,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,5,42.07%*8,3.3656,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,6,44.99%*8,3.5992,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,7,49.05%*8,3.924,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,8,53.10%*8,4.248,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,9,57.16%*8,4.5728,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,10,61.47%*8,4.9176,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,11,66.54%*8,5.3232,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,12,71.61%*8,5.7288,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,13,76.68%*8,6.1344,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,14,81.75%*8,6.54,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,15,86.82%*8,6.9456,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,16,91.89%*8,7.3512,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,17,96.96%*8,7.7568,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,18,102.03%*8,8.1624,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,19,107.10%*8,8.568,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Skill DMG,20,112.17%*8,8.9736,"[""Skill Damage""]"
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,1,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,2,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,3,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,4,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,5,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,6,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,7,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,8,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,9,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,10,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,11,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,12,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,13,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,14,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,15,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,16,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,17,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,18,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,19,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Cooldown,20,10,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,1,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,2,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,3,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,4,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,5,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,6,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,7,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,8,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,9,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,10,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,11,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,12,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,13,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,14,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,15,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,16,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,17,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,18,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,19,20,0.0,
+Roccia,Acrobatic Trick,Resonance Skill,Concerto Regen,20,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,1,140.00%*3,4.2,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,2,151.48%*3,4.5444,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,3,162.96%*3,4.8888,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,4,179.04%*3,5.3712,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,5,190.52%*3,5.7156,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,6,203.72%*3,6.1116,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,7,222.09%*3,6.6627,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,8,240.45%*3,7.2135,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,9,258.82%*3,7.7646,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,10,278.34%*3,8.3502,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,11,301.30%*3,9.039,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,12,324.26%*3,9.7278,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,13,347.22%*3,10.4166,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,14,370.18%*3,11.1054,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,15,393.14%*3,11.7942,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,16,416.10%*3,12.483,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,17,439.06%*3,13.1718,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,18,462.02%*3,13.8606,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,19,484.98%*3,14.5494,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Ultimate DMG,20,507.94%*3,15.2382,"[""Heavy Attack Damage""]"
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,1,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,2,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,3,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,4,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,5,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,6,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,7,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,8,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,9,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,10,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,11,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,12,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,13,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,14,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,15,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,16,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,17,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,18,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,19,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Cooldown,20,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,1,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,2,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,3,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,4,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,5,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,6,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,7,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,8,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,9,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,10,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,11,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,12,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,13,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,14,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,15,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,16,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,17,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,18,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,19,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Resonance Cost,20,125,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,1,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,2,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,3,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,4,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,5,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,6,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,7,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,8,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,9,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,10,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,11,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,12,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,13,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,14,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,15,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,16,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,17,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,18,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,19,20,0.0,
+Roccia,Commedia Improvviso!,Resonance Liberation,Concerto Regen,20,20,0.0,
+Roccia,"Pero, Help",Intro Skill,Intro DMG,1,85.00%,0.85,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,2,91.97%,0.9197,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,3,98.94%,0.9894,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,4,108.70%,1.087,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,5,115.67%,1.1567,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,6,123.69%,1.2369,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,7,134.84%,1.3484,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,8,145.99%,1.4599,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,9,157.14%,1.5714,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,10,168.99%,1.6899,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,11,182.93%,1.8293,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,12,196.87%,1.9687,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,13,210.81%,2.1081,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,14,224.75%,2.2475,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,15,238.69%,2.3869,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,16,252.63%,2.5263,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,17,266.57%,2.6657,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,18,280.51%,2.8051,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,19,294.45%,2.9445,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Intro DMG,20,308.39%,3.0839,"[""Intro Damage""]"
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,1,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,2,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,3,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,4,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,5,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,6,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,7,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,8,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,9,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,10,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,11,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,12,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,13,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,14,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,15,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,16,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,17,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,18,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,19,10,0.0,
+Roccia,"Pero, Help",Intro Skill,Concerto Regen,20,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,1,162.00%,1.62,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,2,175.29%,1.7529,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,3,188.57%,1.8857,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,4,207.17%,2.0717,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,5,220.45%,2.2045,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,6,235.73%,2.3573,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,7,256.99%,2.5699,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,8,278.24%,2.7824,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,9,299.49%,2.9949,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,10,322.08%,3.2208,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,11,348.65%,3.4865,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,12,375.21%,3.7521,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,13,401.78%,4.0178,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,14,428.35%,4.2835,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,15,454.92%,4.5492,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,16,481.49%,4.8149,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,17,508.05%,5.0805,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,18,534.62%,5.3462,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,19,561.19%,5.6119,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 DMG,20,587.76%,5.8776,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,1,171.00%,1.71,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,2,185.03%,1.8503,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,3,199.05%,1.9905,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,4,218.68%,2.1868,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,5,232.70%,2.327,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,6,248.83%,2.4883,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,7,271.26%,2.7126,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,8,293.70%,2.937,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,9,316.13%,3.1613,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,10,339.97%,3.3997,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,11,368.01%,3.6801,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,12,396.06%,3.9606,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,13,424.10%,4.241,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,14,452.15%,4.5215,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,15,480.19%,4.8019,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,16,508.23%,5.0823,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,17,536.28%,5.3628,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,18,564.32%,5.6432,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,19,592.37%,5.9237,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 DMG,20,620.41%,6.2041,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,1,180.00%,1.8,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,2,194.76%,1.9476,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,3,209.52%,2.0952,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,4,230.19%,2.3019,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,5,244.95%,2.4495,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,6,261.92%,2.6192,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,7,285.54%,2.8554,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,8,309.15%,3.0915,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,9,332.77%,3.3277,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,10,357.86%,3.5786,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,11,387.38%,3.8738,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,12,416.90%,4.169,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,13,446.42%,4.4642,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,14,475.94%,4.7594,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,15,505.46%,5.0546,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,16,534.98%,5.3498,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,17,564.50%,5.645,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,18,594.02%,5.9402,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,19,623.54%,6.2354,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 DMG,20,653.06%,6.5306,"[""Heavy Attack Damage""]"
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,1,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,2,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,3,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,4,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,5,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,6,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,7,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,8,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,9,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,10,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,11,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,12,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,13,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,14,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,15,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,16,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,17,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,18,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,19,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 1 Concerto Regen,20,10,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,1,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,2,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,3,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,4,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,5,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,6,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,7,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,8,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,9,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,10,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,11,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,12,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,13,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,14,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,15,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,16,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,17,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,18,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,19,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 2 Concerto Regen,20,16,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,1,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,2,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,3,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,4,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,5,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,6,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,7,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,8,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,9,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,10,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,11,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,12,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,13,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,14,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,15,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,16,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,17,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,18,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,19,25,0.0,
+Roccia,A Prop Master Prepares,Forte Circuit,Stage 3 Concerto Regen,20,25,0.0,

@@ -1,0 +1,684 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,1,24.70%,0.247,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,2,26.73%,0.2673,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,3,28.76%,0.2876,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,4,31.59%,0.3159,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,5,33.62%,0.3362,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,6,35.95%,0.3595,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,7,39.19%,0.3919,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,8,42.43%,0.4243,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,9,45.67%,0.4567,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,10,49.11%,0.4911,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,11,53.16%,0.5316,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,12,57.21%,0.5721,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,13,61.26%,0.6126,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,14,65.31%,0.6531,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,15,69.36%,0.6936,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,16,73.41%,0.7341,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,17,77.47%,0.7747,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,18,81.52%,0.8152,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,19,85.57%,0.8557,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 1 DMG,20,89.62%,0.8962,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,1,26.06%*2,0.5212,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,2,28.20%*2,0.564,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,3,30.34%*2,0.6068,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,4,33.33%*2,0.6666,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,5,35.46%*2,0.7092,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,6,37.92%*2,0.7584,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,7,41.34%*2,0.8268,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,8,44.76%*2,0.8952,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,9,48.18%*2,0.9636,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,10,51.81%*2,1.0362,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,11,56.08%*2,1.1216,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,12,60.36%*2,1.2072,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,13,64.63%*2,1.2926,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,14,68.91%*2,1.3782,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,15,73.18%*2,1.4636,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,16,77.45%*2,1.549,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,17,81.73%*2,1.6346,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,18,86.00%*2,1.72,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,19,90.27%*2,1.8054,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 2 DMG,20,94.55%*2,1.891,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,1,10.99%*2+16.48%*2,0.5494,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,2,11.89%*2+17.83%*2,0.5944,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,3,12.79%*2+19.18%*2,0.6394,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,4,14.05%*2+21.07%*2,0.7024,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,5,14.95%*2+22.42%*2,0.7474,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,6,15.99%*2+23.98%*2,0.7994,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,7,17.43%*2+26.14%*2,0.8714,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,8,18.87%*2+28.30%*2,0.9434,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,9,20.31%*2+30.46%*2,1.0154,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,10,21.84%*2+32.76%*2,1.092,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,11,23.64%*2+35.46%*2,1.182,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,12,25.44%*2+38.16%*2,1.272,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,13,27.24%*2+40.86%*2,1.362,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,14,29.05%*2+43.57%*2,1.4524,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,15,30.85%*2+46.27%*2,1.5424,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,16,32.65%*2+48.97%*2,1.6324,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,17,34.45%*2+51.67%*2,1.7224,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,18,36.25%*2+54.37%*2,1.8124,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,19,38.05%*2+57.07%*2,1.9024,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 3 DMG,20,39.85%*2+59.78%*2,1.9926,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,1,26.06%*2,0.5212,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,2,28.20%*2,0.564,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,3,30.34%*2,0.6068,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,4,33.33%*2,0.6666,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,5,35.46%*2,0.7092,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,6,37.92%*2,0.7584,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,7,41.34%*2,0.8268,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,8,44.76%*2,0.8952,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,9,48.18%*2,0.9636,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,10,51.81%*2,1.0362,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,11,56.08%*2,1.1216,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,12,60.36%*2,1.2072,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,13,64.63%*2,1.2926,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,14,68.91%*2,1.3782,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,15,73.18%*2,1.4636,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,16,77.45%*2,1.549,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,17,81.73%*2,1.6346,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,18,86.00%*2,1.72,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,19,90.27%*2,1.8054,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 4 DMG,20,94.55%*2,1.891,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,1,24.70%*2+32.94%,0.8234,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,2,26.73%*2+35.64%,0.891,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,3,28.76%*2+38.34%,0.9586,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,4,31.59%*2+42.12%,1.053,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,5,33.62%*2+44.82%,1.1206,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,6,35.95%*2+47.93%,1.1983,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,7,39.19%*2+52.25%,1.3063,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,8,42.43%*2+56.57%,1.4143,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,9,45.67%*2+60.89%,1.5223,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,10,49.11%*2+65.48%,1.637,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,11,53.16%*2+70.88%,1.772,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,12,57.21%*2+76.28%,1.907,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,13,61.26%*2+81.68%,2.042,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,14,65.31%*2+87.08%,2.177,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,15,69.36%*2+92.48%,2.312,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,16,73.41%*2+97.88%,2.447,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,17,77.47%*2+103.29%,2.5823,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,18,81.52%*2+108.69%,2.7173,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,19,85.57%*2+114.09%,2.8523,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Stage 5 DMG,20,89.62%*2+119.49%,2.9873,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,1,80.00%,0.8,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,2,86.56%,0.8656,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,3,93.12%,0.9312,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,4,102.31%,1.0231,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,5,108.87%,1.0887,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,6,116.41%,1.1641,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,7,126.91%,1.2691,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,8,137.40%,1.374,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,9,147.90%,1.479,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,10,159.05%,1.5905,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,11,172.17%,1.7217,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,12,185.29%,1.8529,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,13,198.41%,1.9841,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,14,211.53%,2.1153,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,15,224.65%,2.2465,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,16,237.77%,2.3777,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,17,250.89%,2.5089,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,18,264.01%,2.6401,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,19,277.13%,2.7713,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack DMG,20,290.25%,2.9025,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,1,49.60%,0.496,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,2,53.67%,0.5367,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,3,57.74%,0.5774,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,4,63.43%,0.6343,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,5,67.50%,0.675,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,6,72.18%,0.7218,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,7,78.69%,0.7869,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,8,85.19%,0.8519,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,9,91.70%,0.917,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,10,98.61%,0.9861,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,11,106.75%,1.0675,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,12,114.88%,1.1488,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,13,123.02%,1.2302,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,14,131.15%,1.3115,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,15,139.29%,1.3929,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,16,147.42%,1.4742,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,17,155.56%,1.5556,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,18,163.69%,1.6369,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,19,171.82%,1.7182,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack DMG,20,179.96%,1.7996,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,1,57.60%*2,1.152,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,2,62.33%*2,1.2466,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,3,67.05%*2,1.341,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,4,73.66%*2,1.4732,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,5,78.39%*2,1.5678,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,6,83.82%*2,1.6764,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,7,91.38%*2,1.8276,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,8,98.93%*2,1.9786,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,9,106.49%*2,2.1298,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,10,114.52%*2,2.2904,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,11,123.97%*2,2.4794,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,12,133.41%*2,2.6682,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,13,142.86%*2,2.8572,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,14,152.31%*2,3.0462,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,15,161.75%*2,3.235,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,16,171.20%*2,3.424,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,17,180.64%*2,3.6128,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,18,190.09%*2,3.8018,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,19,199.54%*2,3.9908,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Dodge Counter DMG,20,208.98%*2,4.1796,"[""Basic Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,1,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,2,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,3,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,4,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,5,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,6,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,7,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,8,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,9,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,10,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,11,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,12,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,13,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,14,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,15,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,16,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,17,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,18,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Heavy Attack STA Cost,19,20,0.0,"[""Heavy Attack Damage""]"
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Yuanwu,Leihuangquan,Normal Attack,Mid-air Attack STA Cost,19,30,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,1,12.00%,0.12,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,2,12.99%,0.1299,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,3,13.97%,0.1397,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,4,15.35%,0.1535,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,5,16.33%,0.1633,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,6,17.47%,0.1747,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,7,19.04%,0.1904,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,8,20.61%,0.2061,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,9,22.19%,0.2219,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,10,23.86%,0.2386,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,11,25.83%,0.2583,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,12,27.80%,0.278,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,13,29.77%,0.2977,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,14,31.73%,0.3173,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,15,33.70%,0.337,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,16,35.67%,0.3567,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,17,37.64%,0.3764,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,18,39.61%,0.3961,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,19,41.57%,0.4157,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Skill DMG,20,43.54%,0.4354,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,1,4.00%,0.04,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,2,4.33%,0.0433,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,3,4.66%,0.0466,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,4,5.12%,0.0512,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,5,5.45%,0.0545,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,6,5.83%,0.0583,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,7,6.35%,0.0635,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,8,6.87%,0.0687,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,9,7.40%,0.074,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,10,7.96%,0.0796,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,11,8.61%,0.0861,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,12,9.27%,0.0927,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,13,9.93%,0.0993,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,14,10.58%,0.1058,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,15,11.24%,0.1124,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,16,11.89%,0.1189,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,17,12.55%,0.1255,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,18,13.21%,0.1321,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,19,13.86%,0.1386,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Coordinated Attack DMG,20,14.52%,0.1452,"[""Skill Damage""]"
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,1,30.00%,0.3,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,2,32.46%,0.3246,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,3,34.92%,0.3492,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,4,38.37%,0.3837,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,5,40.83%,0.4083,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,6,43.66%,0.4366,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,7,47.59%,0.4759,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,8,51.53%,0.5153,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,9,55.47%,0.5547,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,10,59.65%,0.5965,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,11,64.57%,0.6457,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,12,69.49%,0.6949,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,13,74.41%,0.7441,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,14,79.33%,0.7933,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,15,84.25%,0.8425,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,16,89.17%,0.8917,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,17,94.09%,0.9409,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,18,99.01%,0.9901,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,19,103.93%,1.0393,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Detonation Damage,20,108.85%,1.0885,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,1,54.60%,0.546,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,2,59.07%,0.5907,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,3,63.55%,0.6355,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,4,69.82%,0.6982,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,5,74.29%,0.7429,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,6,79.44%,0.7944,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,7,86.60%,0.866,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,8,93.76%,0.9376,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,9,100.93%,1.0093,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,10,108.54%,1.0854,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,11,117.49%,1.1749,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,12,126.44%,1.2644,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,13,135.39%,1.3539,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,14,144.35%,1.4435,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,15,153.30%,1.533,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,16,162.25%,1.6225,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,17,171.21%,1.7121,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,18,180.16%,1.8016,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,19,189.11%,1.8911,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Damage,20,198.06%,1.9806,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,1,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,2,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,3,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,4,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,5,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,6,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,7,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,8,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,9,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,10,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,11,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,12,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,13,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,14,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,15,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,16,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,17,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,18,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Thunder Wedge Duration,19,12,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,1,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,2,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,3,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,4,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,5,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,6,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,7,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,8,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,9,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,10,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,11,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,12,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,13,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,14,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,15,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,16,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,17,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,18,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Cooldown,19,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,1,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,2,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,3,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,4,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,5,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,6,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,7,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,8,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,9,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,10,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,11,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,12,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,13,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,14,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,15,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,16,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,17,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Leihuang Master Concerto Regen,18,3,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,1,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,2,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,3,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,4,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,5,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,6,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,7,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,8,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,9,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,10,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,11,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,12,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,13,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,14,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,15,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,16,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,17,25,0.0,
+Yuanwu,Leihuang Master,Resonance Skill,Rumbling Spark Concerto Regen,18,25,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,1,88.00%*2,1.76,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,2,95.22%*2,1.9044,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,3,102.44%*2,2.0488,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,4,112.54%*2,2.2508,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,5,119.76%*2,2.3952,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,6,128.05%*2,2.561,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,7,139.60%*2,2.792,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,8,151.14%*2,3.0228,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,9,162.69%*2,3.2538,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,10,174.96%*2,3.4992,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,11,189.39%*2,3.7878,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,12,203.82%*2,4.0764,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,13,218.25%*2,4.365,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,14,232.69%*2,4.6538,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,15,247.12%*2,4.9424,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,16,261.55%*2,5.231,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,17,275.98%*2,5.5196,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,18,290.41%*2,5.8082,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,19,304.85%*2,6.097,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Ultimate DMG,20,319.28%*2,6.3856,"[""Liberation Damage""]"
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,1,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,2,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,3,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,4,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,5,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,6,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,7,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,8,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,9,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,10,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,11,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,12,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,13,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,14,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,15,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,16,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,17,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,18,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Cooldown,19,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,1,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,2,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,3,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,4,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,5,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,6,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,7,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,8,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,9,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,10,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,11,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,12,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,13,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,14,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,15,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,16,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,17,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,18,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Resonance Cost,19,125,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,1,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,2,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,3,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,4,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,5,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,6,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,7,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,8,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,9,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,10,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,11,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,12,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,13,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,14,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,15,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,16,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,17,20,0.0,
+Yuanwu,Blazing Might,Resonance Liberation,Concerto Regen,18,20,0.0,
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,1,32.00%,0.32,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,2,34.63%,0.3463,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,3,37.25%,0.3725,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,4,40.93%,0.4093,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,5,43.55%,0.4355,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,6,46.57%,0.4657,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,7,50.77%,0.5077,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,8,54.96%,0.5496,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,9,59.16%,0.5916,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,10,63.62%,0.6362,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,11,68.87%,0.6887,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,12,74.12%,0.7412,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,13,79.37%,0.7937,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,14,84.62%,0.8462,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,15,89.86%,0.8986,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,16,95.11%,0.9511,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,17,100.36%,1.0036,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,18,105.61%,1.0561,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,19,110.86%,1.1086,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Intro DMG,20,116.10%,1.161,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,1,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,2,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,3,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,4,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,5,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,6,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,7,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,8,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,9,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,10,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,11,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,12,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,13,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,14,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,15,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,16,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,17,10,0.0,"[""Intro Damage""]"
+Yuanwu,Thunder Bombardment,Intro Skill,Concerto Regen,18,10,0.0,"[""Intro Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,1,20.00%,0.2,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,2,21.64%,0.2164,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,3,23.28%,0.2328,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,4,25.58%,0.2558,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,5,27.22%,0.2722,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,6,29.11%,0.2911,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,7,31.73%,0.3173,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,8,34.35%,0.3435,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,9,36.98%,0.3698,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,10,39.77%,0.3977,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,11,43.05%,0.4305,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,12,46.33%,0.4633,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,13,49.61%,0.4961,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,14,52.89%,0.5289,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,15,56.17%,0.5617,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,16,59.45%,0.5945,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,17,62.73%,0.6273,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,18,66.01%,0.6601,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,19,69.29%,0.6929,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunder Uprising Damage,20,72.57%,0.7257,"[""Skill Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,1,12.35%,0.1235,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,2,13.37%,0.1337,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,3,14.38%,0.1438,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,4,15.80%,0.158,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,5,16.81%,0.1681,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,6,17.98%,0.1798,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,7,19.60%,0.196,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,8,21.22%,0.2122,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,9,22.84%,0.2284,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,10,24.56%,0.2456,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,11,26.58%,0.2658,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,12,28.61%,0.2861,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,13,30.63%,0.3063,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,14,32.66%,0.3266,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,15,34.68%,0.3468,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,16,36.71%,0.3671,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,17,38.74%,0.3874,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,18,40.76%,0.4076,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,19,42.79%,0.4279,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 1 DMG,20,44.81%,0.4481,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,1,13.03%*2,0.2606,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,2,14.10%*2,0.282,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,3,15.17%*2,0.3034,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,4,16.67%*2,0.3334,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,5,17.73%*2,0.3546,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,6,18.96%*2,0.3792,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,7,20.67%*2,0.4134,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,8,22.38%*2,0.4476,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,9,24.09%*2,0.4818,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,10,25.91%*2,0.5182,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,11,28.04%*2,0.5608,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,12,30.18%*2,0.6036,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,13,32.32%*2,0.6464,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,14,34.46%*2,0.6892,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,15,36.59%*2,0.7318,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,16,38.73%*2,0.7746,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,17,40.87%*2,0.8174,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,18,43.00%*2,0.86,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,19,45.14%*2,0.9028,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 2 DMG,20,47.28%*2,0.9456,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,1,5.50%*2+8.24%*2,0.2748,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,2,5.95%*2+8.92%*2,0.2974,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,3,6.40%*2+9.59%*2,0.3198,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,4,7.03%*2+10.54%*2,0.3514,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,5,7.48%*2+11.21%*2,0.3738,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,6,8.00%*2+11.99%*2,0.3998,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,7,8.72%*2+13.07%*2,0.4358,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,8,9.44%*2+14.15%*2,0.4718,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,9,10.16%*2+15.23%*2,0.5078,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,10,10.92%*2+16.38%*2,0.546,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,11,11.82%*2+17.73%*2,0.591,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,12,12.72%*2+19.08%*2,0.636,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,13,13.62%*2+20.43%*2,0.681,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,14,14.53%*2+21.79%*2,0.7264,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,15,15.43%*2+23.14%*2,0.7714,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,16,16.33%*2+24.49%*2,0.8164,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,17,17.23%*2+25.84%*2,0.8614,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,18,18.13%*2+27.19%*2,0.9064,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,19,19.03%*2+28.54%*2,0.9514,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 3 DMG,20,19.93%*2+29.89%*2,0.9964,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,1,5.77%*5,0.2885,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,2,6.24%*5,0.312,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,3,6.71%*5,0.3355,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,4,7.38%*5,0.369,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,5,7.85%*5,0.3925,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,6,8.39%*5,0.4195,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,7,9.15%*5,0.4575,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,8,9.90%*5,0.495,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,9,10.66%*5,0.533,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,10,11.46%*5,0.573,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,11,12.41%*5,0.6205,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,12,13.35%*5,0.6675,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,13,14.30%*5,0.715,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,14,15.24%*5,0.762,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,15,16.19%*5,0.8095,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,16,17.13%*5,0.8565,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,17,18.08%*5,0.904,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,18,19.02%*5,0.951,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,19,19.97%*5,0.9985,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 4 DMG,20,20.91%*5,1.0455,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,1,8.24%*3+16.47%,0.4119,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,2,8.91%*3+17.82%,0.4455,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,3,9.59%*3+19.17%,0.4794,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,4,10.53%*3+21.06%,0.5265,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,5,11.21%*3+22.41%,0.5604,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,6,11.99%*3+23.97%,0.5994,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,7,13.07%*3+26.13%,0.6534,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,8,14.15%*3+28.29%,0.7074,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,9,15.23%*3+30.45%,0.7614,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,10,16.37%*3+32.74%,0.8185,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,11,17.72%*3+35.44%,0.886,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,12,19.07%*3+38.14%,0.9535,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,13,20.42%*3+40.84%,1.021,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,14,21.77%*3+43.54%,1.0885,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,15,23.12%*3+46.24%,1.156,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,16,24.47%*3+48.94%,1.2235,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,17,25.83%*3+51.65%,1.2914,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,18,27.18%*3+54.35%,1.3589,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,19,28.53%*3+57.05%,1.4264,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Basic Attack Stage 5 DMG,20,29.88%*3+59.75%,1.4939,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,1,15.60%,0.156,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,2,16.88%,0.1688,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,3,18.16%,0.1816,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,4,19.95%,0.1995,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,5,21.23%,0.2123,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,6,22.70%,0.227,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,7,24.75%,0.2475,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,8,26.80%,0.268,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,9,28.84%,0.2884,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,10,31.02%,0.3102,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,11,33.58%,0.3358,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,12,36.14%,0.3614,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,13,38.69%,0.3869,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,14,41.25%,0.4125,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,15,43.81%,0.4381,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,16,46.37%,0.4637,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,17,48.93%,0.4893,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,18,51.49%,0.5149,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,19,54.04%,0.5404,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack DMG,20,56.60%,0.566,"[""Heavy Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,1,15.60%+10.40%*2,0.364,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,2,16.88%+11.26%*2,0.394,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,3,18.16%+12.11%*2,0.4238,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,4,19.95%+13.30%*2,0.4655,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,5,21.23%+14.16%*2,0.4955,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,6,22.70%+15.14%*2,0.5298,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,7,24.75%+16.50%*2,0.5775,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,8,26.80%+17.87%*2,0.6254,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,9,28.84%+19.23%*2,0.673,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,10,31.02%+20.68%*2,0.7238,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,11,33.58%+22.39%*2,0.7836,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,12,36.14%+24.09%*2,0.8432,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,13,38.69%+25.80%*2,0.9029,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,14,41.25%+27.50%*2,0.9625,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,15,43.81%+29.21%*2,1.0223,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,16,46.37%+30.91%*2,1.0819,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,17,48.93%+32.62%*2,1.1417,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,18,51.49%+34.33%*2,1.2015,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,19,54.04%+36.03%*2,1.261,
+Yuanwu,Unassuming Blade,Forte Circuit,Thunderweaver Damage,20,56.60%+37.74%*2,1.3208,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,1,21.76%+16.32%*2,0.544,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,2,23.55%+17.66%*2,0.5887,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,3,25.33%+19.00%*2,0.6333,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,4,27.83%+20.88%*2,0.6959,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,5,29.62%+22.21%*2,0.7404,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,6,31.67%+23.75%*2,0.7917,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,7,34.52%+25.89%*2,0.863,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,8,37.38%+28.03%*2,0.9344,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,9,40.23%+30.18%*2,1.0059,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,10,43.27%+32.45%*2,1.0817,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,11,46.83%+35.13%*2,1.1709,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,12,50.40%+37.80%*2,1.26,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,13,53.97%+40.48%*2,1.3493,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,14,57.54%+43.16%*2,1.4386,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,15,61.11%+45.83%*2,1.5277,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,16,64.68%+48.51%*2,1.617,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,17,68.25%+51.19%*2,1.7063,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,18,71.82%+53.86%*2,1.7954,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,19,75.38%+56.54%*2,1.8846,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Dodge Counter DMG,20,78.95%+59.22%*2,1.9739,"[""Basic Attack Damage""]"
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,1,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,2,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,3,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,4,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,5,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,6,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,7,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,8,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,9,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,10,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,11,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,12,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,13,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,14,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,15,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,16,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,17,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Heavy Attack STA Cost,18,20,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,1,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,2,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,3,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,4,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,5,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,6,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,7,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,8,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,9,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,10,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,11,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,12,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,13,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,14,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,15,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,16,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,17,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,18,10,0.0,
+Yuanwu,Unassuming Blade,Forte Circuit,Lightning Infused Duration,19,10,0.0,

@@ -1,0 +1,423 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Chixia,POW POW,Normal Attack,Stage 1 DMG,1,33.30%,0.333,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,2,36.04%,0.3604,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,3,38.77%,0.3877,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,4,42.59%,0.4259,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,5,45.32%,0.4532,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,6,48.46%,0.4846,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,7,52.83%,0.5283,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,8,57.20%,0.572,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,9,61.57%,0.6157,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,10,66.21%,0.6621,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,11,71.67%,0.7167,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,12,77.13%,0.7713,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,13,82.59%,0.8259,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,14,88.05%,0.8805,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,15,93.51%,0.9351,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,16,98.98%,0.9898,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,17,104.44%,1.0444,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,18,109.90%,1.099,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,19,115.36%,1.1536,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 1 DMG,20,120.82%,1.2082,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,1,24.30%*2,0.486,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,2,26.30%*2,0.526,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,3,28.29%*2,0.5658,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,4,31.08%*2,0.6216,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,5,33.07%*2,0.6614,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,6,35.36%*2,0.7072,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,7,38.55%*2,0.771,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,8,41.74%*2,0.8348,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,9,44.93%*2,0.8986,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,10,48.32%*2,0.9664,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,11,52.30%*2,1.046,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,12,56.29%*2,1.1258,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,13,60.27%*2,1.2054,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,14,64.26%*2,1.2852,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,15,68.24%*2,1.3648,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,16,72.23%*2,1.4446,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,17,76.21%*2,1.5242,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,18,80.20%*2,1.604,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,19,84.18%*2,1.6836,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 2 DMG,20,88.17%*2,1.7634,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,1,16.88%*4,0.6752,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,2,18.26%*4,0.7304,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,3,19.65%*4,0.786,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,4,21.58%*4,0.8632,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,5,22.97%*4,0.9188,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,6,24.56%*4,0.9824,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,7,26.77%*4,1.0708,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,8,28.99%*4,1.1596,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,9,31.20%*4,1.248,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,10,33.55%*4,1.342,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,11,36.32%*4,1.4528,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,12,39.09%*4,1.5636,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,13,41.86%*4,1.6744,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,14,44.62%*4,1.7848,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,15,47.39%*4,1.8956,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,16,50.16%*4,2.0064,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,17,52.93%*4,2.1172,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,18,55.69%*4,2.2276,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,19,58.46%*4,2.3384,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 3 DMG,20,61.23%*4,2.4492,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,1,117.00%,1.17,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,2,126.60%,1.266,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,3,136.19%,1.3619,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,4,149.62%,1.4962,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,5,159.22%,1.5922,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,6,170.25%,1.7025,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,7,185.60%,1.856,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,8,200.95%,2.0095,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,9,216.30%,2.163,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,10,232.61%,2.3261,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,11,251.80%,2.518,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,12,270.99%,2.7099,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,13,290.18%,2.9018,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,14,309.36%,3.0936,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,15,328.55%,3.2855,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,16,347.74%,3.4774,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,17,366.93%,3.6693,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,18,386.12%,3.8612,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,19,405.30%,4.053,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Stage 4 DMG,20,424.49%,4.2449,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,1,18.00%,0.18,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,2,19.48%,0.1948,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,3,20.96%,0.2096,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,4,23.02%,0.2302,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,5,24.50%,0.245,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,6,26.20%,0.262,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,7,28.56%,0.2856,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,8,30.92%,0.3092,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,9,33.28%,0.3328,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,10,35.79%,0.3579,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,11,38.74%,0.3874,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,12,41.69%,0.4169,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,13,44.65%,0.4465,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,14,47.60%,0.476,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,15,50.55%,0.5055,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,16,53.50%,0.535,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,17,56.45%,0.5645,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,18,59.41%,0.5941,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,19,62.36%,0.6236,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Heavy Attack DMG,20,65.31%,0.6531,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,1,40.50%,0.405,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,2,43.83%,0.4383,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,3,47.15%,0.4715,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,4,51.80%,0.518,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,5,55.12%,0.5512,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,6,58.94%,0.5894,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,7,64.25%,0.6425,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,8,69.56%,0.6956,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,9,74.88%,0.7488,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,10,80.52%,0.8052,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,11,87.17%,0.8717,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,12,93.81%,0.9381,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,13,100.45%,1.0045,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,14,107.09%,1.0709,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,15,113.73%,1.1373,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,16,120.38%,1.2038,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,17,127.02%,1.2702,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,18,133.66%,1.3366,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,19,140.30%,1.403,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Full Charge Heavy Attack DMG,20,146.94%,1.4694,"[""Heavy Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,1,16.20%,0.162,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,2,17.53%,0.1753,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,3,18.86%,0.1886,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,4,20.72%,0.2072,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,5,22.05%,0.2205,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,6,23.58%,0.2358,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,7,25.70%,0.257,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,8,27.83%,0.2783,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,9,29.95%,0.2995,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,10,32.21%,0.3221,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,11,34.87%,0.3487,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,12,37.53%,0.3753,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,13,40.18%,0.4018,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,14,42.84%,0.4284,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,15,45.50%,0.455,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,16,48.15%,0.4815,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,17,50.81%,0.5081,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,18,53.47%,0.5347,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,19,56.12%,0.5612,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack DMG,20,58.78%,0.5878,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,1,171.00%,1.71,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,2,185.03%,1.8503,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,3,199.05%,1.9905,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,4,218.68%,2.1868,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,5,232.70%,2.327,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,6,248.83%,2.4883,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,7,271.26%,2.7126,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,8,293.70%,2.937,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,9,316.13%,3.1613,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,10,339.97%,3.3997,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,11,368.01%,3.6801,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,12,396.06%,3.9606,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,13,424.10%,4.241,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,14,452.15%,4.5215,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,15,480.19%,4.8019,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,16,508.23%,5.0823,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,17,536.28%,5.3628,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,18,564.32%,5.6432,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,19,592.37%,5.9237,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Dodge Counter DMG,20,620.41%,6.2041,"[""Basic Attack Damage""]"
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,1,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,2,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,3,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,4,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,5,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,6,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,7,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,8,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,9,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,10,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,11,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,12,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,13,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,14,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,15,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,16,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,17,5,0.0,
+Chixia,POW POW,Normal Attack,Mid-air Attack STA Cost,18,5,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,1,16.00%*8,1.28,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,2,17.32%*8,1.3856,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,3,18.63%*8,1.4904,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,4,20.47%*8,1.6376,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,5,21.78%*8,1.7424,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,6,23.29%*8,1.8632,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,7,25.39%*8,2.0312,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,8,27.48%*8,2.1984,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,9,29.58%*8,2.3664,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,10,31.81%*8,2.5448,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,11,34.44%*8,2.7552,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,12,37.06%*8,2.9648,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,13,39.69%*8,3.1752,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,14,42.31%*8,3.3848,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,15,44.93%*8,3.5944,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,16,47.56%*8,3.8048,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,17,50.18%*8,4.0144,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,18,52.81%*8,4.2248,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,19,55.43%*8,4.4344,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Skill DMG,20,58.05%*8,4.644,"[""Skill Attack Damage""]"
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,1,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,2,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,3,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,4,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,5,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,6,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,7,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,8,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,9,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,10,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,11,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,12,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,13,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,14,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,15,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,16,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,17,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Cooldown,18,9,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,1,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,2,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,3,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,4,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,5,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,6,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,7,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,8,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,9,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,10,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,11,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,12,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,13,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,14,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,15,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,16,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,17,10,0.0,
+Chixia,Whizzing Fight Spirit,Resonance Skill,Concerto Regen,18,10,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,1,480.00%+29.10%*11,8.001,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,2,519.36%+31.48%*11,8.6564,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,3,558.72%+33.87%*11,9.3129,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,4,613.83%+37.21%*11,10.2314,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,5,653.19%+39.59%*11,10.8868,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,6,698.45%+42.34%*11,11.6419,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,7,761.43%+46.15%*11,12.6908,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,8,824.40%+49.97%*11,13.7407,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,9,887.38%+53.79%*11,14.7907,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,10,954.29%+57.84%*11,15.9053,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,11,1033.01%+62.61%*11,17.2172,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,12,1111.73%+67.38%*11,18.5291,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,13,1190.45%+72.15%*11,19.841,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,14,1269.17%+76.92%*11,21.1529,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,15,1347.89%+81.70%*11,22.4659,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,16,1426.61%+86.47%*11,23.7778,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,17,1505.33%+91.24%*11,25.0897,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,18,1584.05%+96.01%*11,26.4016,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,19,1662.77%+100.78%*11,27.7135,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Ultimate DMG,20,1741.49%+105.55%*11,29.0254,"[""Liberation Damage""]"
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,1,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,2,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,3,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,4,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,5,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,6,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,7,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,8,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,9,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,10,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,11,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,12,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,13,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,14,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,15,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,16,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,17,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Cooldown,18,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,1,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,2,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,3,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,4,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,5,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,6,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,7,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,8,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,9,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,10,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,11,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,12,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,13,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,14,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,15,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,16,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,17,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Resonance Cost,18,150,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,1,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,2,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,3,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,4,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,5,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,6,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,7,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,8,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,9,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,10,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,11,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,12,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,13,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,14,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,15,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,16,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,17,20,0.0,
+Chixia,Blazing Flames,Resonance Liberation,Concerto Regen,18,20,0.0,
+Chixia,Grand Entrance,Intro Skill,Intro DMG,1,24.75%*2+12.38%*4,0.9902,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,2,26.78%*2+13.39%*4,1.0712,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,3,28.81%*2+14.41%*4,1.1526,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,4,31.66%*2+15.83%*4,1.2664,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,5,33.68%*2+16.84%*4,1.3472,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,6,36.02%*2+18.01%*4,1.4408,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,7,39.27%*2+19.64%*4,1.571,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,8,42.51%*2+21.26%*4,1.7006,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,9,45.76%*2+22.88%*4,1.8304,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,10,49.21%*2+24.61%*4,1.9686,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,11,53.27%*2+26.64%*4,2.131,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,12,57.33%*2+28.67%*4,2.2934,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,13,61.39%*2+30.70%*4,2.4558,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,14,65.45%*2+32.73%*4,2.6182,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,15,69.51%*2+34.76%*4,2.7806,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,16,73.56%*2+36.78%*4,2.9424,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,17,77.62%*2+38.81%*4,3.1048,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,18,81.68%*2+40.84%*4,3.2672,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,19,85.74%*2+42.87%*4,3.4296,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Intro DMG,20,89.80%*2+44.90%*4,3.592,"[""Intro Damage""]"
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,1,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,2,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,3,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,4,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,5,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,6,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,7,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,8,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,9,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,10,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,11,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,12,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,13,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,14,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,15,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,16,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,17,10,0.0,
+Chixia,Grand Entrance,Intro Skill,Concerto Regen,18,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,1,10.00%,0.1,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,2,10.82%,0.1082,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,3,11.64%,0.1164,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,4,12.79%,0.1279,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,5,13.61%,0.1361,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,6,14.56%,0.1456,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,7,15.87%,0.1587,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,8,17.18%,0.1718,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,9,18.49%,0.1849,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,10,19.89%,0.1989,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,11,21.53%,0.2153,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,12,23.17%,0.2317,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,13,24.81%,0.2481,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,14,26.45%,0.2645,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,15,28.09%,0.2809,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,16,29.73%,0.2973,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,17,31.37%,0.3137,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,18,33.01%,0.3301,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,19,34.65%,0.3465,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullets Damage,20,36.29%,0.3629,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,1,220.00%,2.2,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,2,238.04%,2.3804,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,3,256.08%,2.5608,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,4,281.34%,2.8134,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,5,299.38%,2.9938,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,6,320.13%,3.2013,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,7,348.99%,3.4899,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,8,377.85%,3.7785,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,9,406.72%,4.0672,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,10,437.39%,4.3739,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,11,473.47%,4.7347,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,12,509.55%,5.0955,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,13,545.63%,5.4563,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,14,581.71%,5.8171,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,15,617.79%,6.1779,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,16,653.87%,6.5387,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,17,689.95%,6.8995,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,18,726.03%,7.2603,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,19,762.11%,7.6211,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,Boom Boom Damage,20,798.19%,7.9819,"[""Skill Damage""]"
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,1,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,2,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,3,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,4,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,5,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,6,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,7,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,8,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,9,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,10,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,11,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,12,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,13,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,14,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,15,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,16,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,17,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,DAKA DAKA! Concerto Regen,18,10,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,1,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,2,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,3,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,4,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,5,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,6,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,7,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,8,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,9,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,10,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,11,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,12,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,13,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,14,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,15,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,16,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,17,0.5,0.0,
+Chixia,Heroic Bullets,Forte Circuit,Thermobaric Bullet Concerto Regen,18,0.5,0.0,

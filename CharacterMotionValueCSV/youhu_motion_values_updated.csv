@@ -1,0 +1,601 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,1,23.83%,0.2383,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,2,25.79%,0.2579,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,3,27.74%,0.2774,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,4,30.48%,0.3048,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,5,32.43%,0.3243,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,6,34.68%,0.3468,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,7,37.80%,0.378,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,8,40.93%,0.4093,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,9,44.05%,0.4405,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,10,47.38%,0.4738,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,11,51.28%,0.5128,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,12,55.19%,0.5519,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,13,59.10%,0.591,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,14,63.01%,0.6301,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,15,66.91%,0.6691,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,16,70.82%,0.7082,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,17,74.73%,0.7473,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,18,78.64%,0.7864,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,19,82.55%,0.8255,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 1 DMG,20,86.45%,0.8645,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,1,16.05%+29.81%,0.4586,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,2,17.37%+32.25%,0.4962,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,3,18.69%+34.70%,0.5339,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,4,20.53%+38.12%,0.5865,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,5,21.84%+40.56%,0.624,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,6,23.36%+43.37%,0.6673,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,7,25.46%+47.28%,0.7274,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,8,27.57%+51.19%,0.7876,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,9,29.67%+55.10%,0.8477,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,10,31.91%+59.26%,0.9117,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,11,34.54%+64.15%,0.9869,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,12,37.18%+69.04%,1.0622,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,13,39.81%+73.92%,1.1373,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,14,42.44%+78.81%,1.2125,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,15,45.07%+83.70%,1.2877,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,16,47.70%+88.59%,1.3629,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,17,50.34%+93.48%,1.4382,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,18,52.97%+98.36%,1.5133,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,19,55.60%+103.25%,1.5885,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 2 DMG,20,58.23%+108.14%,1.6637,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,1,19.15%+23.40%,0.4255,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,2,20.72%+25.32%,0.4604,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,3,22.29%+27.24%,0.4953,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,4,24.49%+29.93%,0.5442,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,5,26.06%+31.84%,0.579,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,6,27.86%+34.05%,0.6191,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,7,30.37%+37.12%,0.6749,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,8,32.88%+40.19%,0.7307,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,9,35.40%+43.26%,0.7866,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,10,38.06%+46.52%,0.8458,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,11,41.20%+50.36%,0.9156,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,12,44.34%+54.20%,0.9854,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,13,47.48%+58.03%,1.0551,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,14,50.62%+61.87%,1.1249,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,15,53.76%+65.71%,1.1947,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,16,56.90%+69.54%,1.2644,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,17,60.04%+73.38%,1.3342,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,18,63.18%+77.22%,1.404,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,19,66.32%+81.06%,1.4738,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 3 DMG,20,69.46%+84.89%,1.5435,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,1,58.53%,0.5853,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,2,63.33%,0.6333,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,3,68.13%,0.6813,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,4,74.84%,0.7484,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,5,79.64%,0.7964,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,6,85.16%,0.8516,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,7,92.84%,0.9284,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,8,100.52%,1.0052,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,9,108.20%,1.082,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,10,116.35%,1.1635,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,11,125.95%,1.2595,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,12,135.55%,1.3555,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,13,145.15%,1.4515,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,14,154.74%,1.5474,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,15,164.34%,1.6434,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,16,173.94%,1.7394,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,17,183.54%,1.8354,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,18,193.13%,1.9313,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,19,202.73%,2.0273,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Stage 4 DMG,20,212.33%,2.1233,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,1,7.27%*6,0.4362,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,2,7.87%*6,0.4722,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,3,8.46%*6,0.5076,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,4,9.29%*6,0.5574,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,5,9.89%*6,0.5934,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,6,10.58%*6,0.6348,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,7,11.53%*6,0.6918,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,8,12.48%*6,0.7488,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,9,13.43%*6,0.8058,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,10,14.45%*6,0.867,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,11,15.64%*6,0.9384,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,12,16.83%*6,1.0098,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,13,18.02%*6,1.0812,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,14,19.21%*6,1.1526,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,15,20.40%*6,1.224,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,16,21.60%*6,1.296,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,17,22.79%*6,1.3674,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,18,23.98%*6,1.4388,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,19,25.17%*6,1.5102,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Heavy Attack: Frostfall DMG,20,26.36%*6,1.5816,"[""Heavy Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,1,62.00%,0.62,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,2,67.09%,0.6709,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,3,72.17%,0.7217,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,4,79.29%,0.7929,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,5,84.37%,0.8437,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,6,90.22%,0.9022,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,7,98.36%,0.9836,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,8,106.49%,1.0649,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,9,114.62%,1.1462,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,10,123.27%,1.2327,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,11,133.44%,1.3344,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,12,143.60%,1.436,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,13,153.77%,1.5377,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,14,163.94%,1.6394,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,15,174.11%,1.7411,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,16,184.28%,1.8428,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,17,194.44%,1.9444,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,18,204.61%,2.0461,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,19,214.78%,2.1478,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack DMG,20,224.95%,2.2495,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,1,14.53%*6,0.8718,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,2,15.73%*6,0.9438,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,3,16.92%*6,1.0152,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,4,18.58%*6,1.1148,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,5,19.78%*6,1.1868,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,6,21.15%*6,1.269,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,7,23.05%*6,1.383,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,8,24.96%*6,1.4976,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,9,26.86%*6,1.6116,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,10,28.89%*6,1.7334,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,11,31.27%*6,1.8762,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,12,33.66%*6,2.0196,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,13,36.04%*6,2.1624,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,14,38.42%*6,2.3052,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,15,40.80%*6,2.448,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,16,43.19%*6,2.5914,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,17,45.57%*6,2.7342,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,18,47.95%*6,2.877,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,19,50.33%*6,3.0198,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Dodge Counter DMG,20,52.72%*6,3.1632,"[""Basic Attack Damage""]"
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,19,30,0.0,
+Youhu,Frosty Punches,Normal Attack,Mid-air Attack STA Cost,20,30,0.0,
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,1,78.70%,0.787,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,2,85.16%,0.8516,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,3,91.61%,0.9161,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,4,100.64%,1.0064,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,5,107.10%,1.071,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,6,114.52%,1.1452,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,7,124.84%,1.2484,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,8,135.17%,1.3517,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,9,145.49%,1.4549,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,10,156.46%,1.5646,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,11,169.37%,1.6937,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,12,182.28%,1.8228,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,13,195.18%,1.9518,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,14,208.09%,2.0809,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,15,221.00%,2.21,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,16,233.90%,2.339,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,17,246.81%,2.4681,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,18,259.72%,2.5972,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,19,272.62%,2.7262,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Skill DMG,20,285.53%,2.8553,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,1,1041+39.00%,0.39,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,2,1097+40.56%,0.4056,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,3,1162+42.12%,0.4212,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,4,1302+44.46%,0.4446,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,5,1469+47.58%,0.4758,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,6,1627+50.70%,0.507,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,7,1655+56.55%,0.5655,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,8,1692+63.18%,0.6318,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,9,1720+70.20%,0.702,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,10,1767+81.90%,0.819,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,11,1912+88.66%,0.8866,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,12,2058+95.41%,0.9541,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,13,2204+102.17%,1.0217,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,14,2350+108.92%,1.0892,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,15,2495+115.68%,1.1568,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,16,2641+122.44%,1.2244,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,17,2787+129.19%,1.2919,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,18,2933+135.95%,1.3595,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,19,3078+142.70%,1.427,
+Youhu,Scroll Divination,Resonance Skill,Scroll Divination Healing,20,3224+149.46%,1.4946,
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,1,20.65%+25.07%*3+51.62%,1.4748,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,2,22.34%+27.13%*3+55.85%,1.5958,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,3,24.04%+29.19%*3+60.08%,1.7169,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,4,26.41%+32.06%*3+66.01%,1.886,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,5,28.10%+34.12%*3+70.24%,2.007,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,6,30.05%+36.48%*3+75.11%,2.146,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,7,32.76%+39.77%*3+81.88%,2.3395,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,8,35.46%+43.06%*3+88.65%,2.5329,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,9,38.17%+46.35%*3+95.42%,2.7264,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,10,41.05%+49.85%*3+102.62%,2.9322,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,11,44.44%+53.96%*3+111.08%,3.174,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,12,47.82%+58.07%*3+119.55%,3.4158,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,13,51.21%+62.18%*3+128.01%,3.6576,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,14,54.59%+66.29%*3+136.48%,3.8994,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,15,57.98%+70.40%*3+144.94%,4.1412,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,16,61.37%+74.51%*3+153.41%,4.3831,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,17,64.75%+78.63%*3+161.87%,4.6251,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,18,68.14%+82.74%*3+170.34%,4.867,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,19,71.52%+86.85%*3+178.80%,5.1087,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Chime DMG,20,74.91%+90.96%*3+187.27%,5.3506,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,1,68.91%+84.23%,1.5314,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,2,74.56%+91.13%,1.6569,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,3,80.21%+98.04%,1.7825,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,4,88.13%+107.71%,1.9584,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,5,93.78%+114.61%,2.0839,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,6,100.27%+122.56%,2.2283,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,7,109.31%+133.61%,2.4292,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,8,118.36%+144.66%,2.6302,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,9,127.40%+155.71%,2.8311,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,10,137.00%+167.45%,3.0445,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,11,148.30%+181.26%,3.2956,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,12,159.60%+195.07%,3.5467,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,13,170.91%+208.88%,3.7979,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,14,182.21%+222.70%,4.0491,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,15,193.51%+236.51%,4.3002,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,16,204.81%+250.32%,4.5513,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,17,216.11%+264.13%,4.8024,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,18,227.41%+277.94%,5.0535,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,19,238.71%+291.76%,5.3047,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ruyi DMG,20,250.01%+305.57%,5.5558,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,1,14.38%*6+57.49%,1.4377,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,2,15.55%*6+62.20%,1.555,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,3,16.73%*6+66.91%,1.6729,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,4,18.38%*6+73.51%,1.8379,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,5,19.56%*6+78.23%,1.9559,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,6,20.92%*6+83.65%,2.0917,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,7,22.80%*6+91.19%,2.2799,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,8,24.69%*6+98.73%,2.4687,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,9,26.57%*6+106.27%,2.6569,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,10,28.57%*6+114.28%,2.857,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,11,30.93%*6+123.71%,3.0929,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,12,33.29%*6+133.14%,3.3288,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,13,35.64%*6+142.56%,3.564,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,14,38.00%*6+151.99%,3.7999,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,15,40.36%*6+161.42%,4.0358,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,16,42.72%*6+170.85%,4.2717,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,17,45.07%*6+180.27%,4.5069,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,18,47.43%*6+189.70%,4.7428,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,19,49.79%*6+199.13%,4.9787,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Ding DMG,20,52.14%*6+208.55%,5.2139,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,1,5.77%*9+22.23%,0.7416,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,2,6.24%*9+24.06%,0.8022,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,3,6.71%*9+25.88%,0.8627,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,4,7.37%*9+28.43%,0.9476,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,5,7.85%*9+30.25%,1.009,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,6,8.39%*9+32.35%,1.0786,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,7,9.15%*9+35.27%,1.1762,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,8,9.90%*9+38.18%,1.2728,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,9,10.66%*9+41.10%,1.3704,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,10,11.46%*9+44.20%,1.4734,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,11,12.41%*9+47.84%,1.5953,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,12,13.35%*9+51.49%,1.7164,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,13,14.30%*9+55.14%,1.8384,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,14,15.24%*9+58.78%,1.9594,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,15,16.19%*9+62.43%,2.0814,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,16,17.13%*9+66.07%,2.2024,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,17,18.08%*9+69.72%,2.3244,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,18,19.02%*9+73.36%,2.4454,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,19,19.97%*9+77.01%,2.5674,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Mask DMG,20,20.91%*9+80.65%,2.6884,"[""Skill Damage""]"
+Youhu,Scroll Divination,Resonance Skill,Cooldown,1,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,2,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,3,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,4,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,5,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,6,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,7,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,8,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,9,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,10,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,11,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,12,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,13,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,14,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,15,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,16,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,17,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,18,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,19,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Cooldown,20,15,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,1,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,2,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,3,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,4,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,5,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,6,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,7,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,8,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,9,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,10,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,11,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,12,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,13,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,14,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,15,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,16,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,17,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,18,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,19,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Concerto Regen,20,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,1,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,2,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,3,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,4,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,5,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,6,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,7,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,8,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,9,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,10,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,11,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,12,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,13,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,14,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,15,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,16,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,17,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,18,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,19,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Chime Concerto Regen,20,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,1,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,2,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,3,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,4,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,5,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,6,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,7,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,8,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,9,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,10,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,11,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,12,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,13,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,14,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,15,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,16,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,17,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,18,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,19,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ding Concerto Regen,20,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,1,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,2,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,3,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,4,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,5,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,6,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,7,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,8,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,9,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,10,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,11,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,12,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,13,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,14,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,15,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,16,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,17,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,18,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,19,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Ruyi Concerto Regen,20,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,1,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,2,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,3,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,4,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,5,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,6,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,7,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,8,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,9,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,10,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,11,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,12,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,13,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,14,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,15,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,16,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,17,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,18,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,19,10,0.0,
+Youhu,Scroll Divination,Resonance Skill,Mask Concerto Regen,20,10,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,1,164.58%,1.6458,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,2,178.07%,1.7807,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,3,191.57%,1.9157,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,4,210.46%,2.1046,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,5,223.95%,2.2395,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,6,239.47%,2.3947,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,7,261.06%,2.6106,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,8,282.66%,2.8266,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,9,304.25%,3.0425,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,10,327.19%,3.2719,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,11,354.18%,3.5418,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,12,381.17%,3.8117,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,13,408.16%,4.0816,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,14,435.15%,4.3515,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,15,462.14%,4.6214,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,16,489.13%,4.8913,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,17,516.12%,5.1612,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,18,543.11%,5.4311,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,19,570.10%,5.701,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Ultimate DMG,20,597.09%,5.9709,"[""Liberation Damage""]"
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,1,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,2,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,3,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,4,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,5,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,6,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,7,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,8,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,9,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,10,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,11,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,12,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,13,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,14,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,15,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,16,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,17,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,18,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,19,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Cooldown,20,25,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,1,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,2,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,3,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,4,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,5,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,6,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,7,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,8,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,9,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,10,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,11,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,12,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,13,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,14,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,15,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,16,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,17,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,18,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,19,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Resonance Cost,20,100,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,1,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,2,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,3,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,4,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,5,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,6,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,7,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,8,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,9,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,10,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,11,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,12,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,13,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,14,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,15,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,16,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,17,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,18,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,19,20,0.0,
+Youhu,Fortune's Favor,Resonance Liberation,Concerto Regen,20,20,0.0,
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,1,45.00%+55.00%,1.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,2,48.69%+59.51%,1.082,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,3,52.38%+64.02%,1.164,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,4,57.55%+70.34%,1.2789,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,5,61.24%+74.85%,1.3609,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,6,65.48%+80.04%,1.4552,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,7,71.39%+87.25%,1.5864,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,8,77.29%+94.47%,1.7176,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,9,83.20%+101.68%,1.8488,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,10,89.47%+109.35%,1.9882,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,11,96.85%+118.37%,2.1522,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,12,104.23%+127.39%,2.3162,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,13,111.61%+136.41%,2.4802,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,14,118.99%+145.43%,2.6442,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,15,126.37%+154.45%,2.8082,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,16,133.75%+163.47%,2.9722,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,17,141.13%+172.49%,3.1362,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,18,148.51%+181.51%,3.3002,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,19,155.89%+190.53%,3.4642,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Intro DMG,20,163.27%+199.55%,3.6282,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,1,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,2,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,3,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,4,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,5,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,6,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,7,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,8,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,9,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,10,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,11,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,12,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,13,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,14,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,15,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,16,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,17,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,18,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,19,10,0.0,"[""Intro Damage""]"
+Youhu,Scroll of Wonders,Intro Skill,Concerto Regen,20,10,0.0,"[""Intro Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,1,18.72%*10,1.872,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,2,20.26%*10,2.026,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,3,21.79%*10,2.179,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,4,23.94%*10,2.394,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,5,25.47%*10,2.547,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,6,27.24%*10,2.724,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,7,29.69%*10,2.969,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,8,32.15%*10,3.215,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,9,34.60%*10,3.46,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,10,37.21%*10,3.721,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,11,40.28%*10,4.028,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,12,43.35%*10,4.335,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,13,46.42%*10,4.642,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,14,49.49%*10,4.949,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,15,52.56%*10,5.256,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,16,55.63%*10,5.563,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,17,58.70%*10,5.87,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,18,61.77%*10,6.177,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,19,64.84%*10,6.484,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Skill DMG,20,67.91%*10,6.791,"[""Skill Damage""]"
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,1,1180+44.20%,0.442,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,2,1243+45.97%,0.4597,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,3,1317+47.74%,0.4774,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,4,1475+50.39%,0.5039,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,5,1665+53.92%,0.5392,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,6,1844+57.46%,0.5746,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,7,1876+64.09%,0.6409,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,8,1918+71.60%,0.716,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,9,1949+79.56%,0.7956,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,10,2002+92.82%,0.9282,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,11,2167+100.48%,1.0048,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,12,2332+108.13%,1.0813,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,13,2498+115.79%,1.1579,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,14,2663+123.45%,1.2345,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,15,2828+131.10%,1.311,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,16,2993+138.76%,1.3876,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,17,3158+146.42%,1.4642,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,18,3324+154.07%,1.5407,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,19,3489+161.73%,1.6173,
+Youhu,Poetic Essence,Forte Circuit,Poetic Essence Healing,20,3654+169.39%,1.6939,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,1,694+26.00%,0.26,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,2,731+27.04%,0.2704,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,3,775+28.08%,0.2808,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,4,868+29.64%,0.2964,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,5,979+31.72%,0.3172,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,6,1085+33.80%,0.338,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,7,1103+37.70%,0.377,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,8,1128+42.12%,0.4212,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,9,1147+46.80%,0.468,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,10,1178+54.60%,0.546,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,11,1275+59.10%,0.591,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,12,1372+63.61%,0.6361,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,13,1469+68.11%,0.6811,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,14,1566+72.62%,0.7262,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,15,1663+77.12%,0.7712,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,16,1761+81.62%,0.8162,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,17,1858+86.13%,0.8613,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,18,1955+90.63%,0.9063,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,19,2052+95.14%,0.9514,
+Youhu,Poetic Essence,Forte Circuit,Double Pun Bonus Healing,20,2149+99.64%,0.9964,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,1,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,2,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,3,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,4,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,5,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,6,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,7,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,8,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,9,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,10,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,11,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,12,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,13,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,14,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,15,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,16,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,17,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,18,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,19,20,0.0,
+Youhu,Poetic Essence,Forte Circuit,Concerto Regen,20,20,0.0,

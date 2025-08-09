@@ -1,0 +1,657 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,1,28.50%,0.285,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,2,30.84%,0.3084,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,3,33.18%,0.3318,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,4,36.45%,0.3645,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,5,38.79%,0.3879,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,6,41.48%,0.4148,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,7,45.21%,0.4521,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,8,48.95%,0.4895,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,9,52.69%,0.5269,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,10,56.67%,0.5667,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,11,61.34%,0.6134,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,12,66.01%,0.6601,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,13,70.69%,0.7069,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,14,75.36%,0.7536,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,15,80.04%,0.8004,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,16,84.71%,0.8471,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,17,89.38%,0.8938,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,18,94.06%,0.9406,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,19,98.73%,0.9873,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 1 DMG,20,103.41%,1.0341,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,1,28.50%*2,0.57,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,2,30.84%*2,0.6168,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,3,33.18%*2,0.6636,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,4,36.45%*2,0.729,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,5,38.79%*2,0.7758,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,6,41.48%*2,0.8296,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,7,45.21%*2,0.9042,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,8,48.95%*2,0.979,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,9,52.69%*2,1.0538,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,10,56.67%*2,1.1334,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,11,61.34%*2,1.2268,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,12,66.01%*2,1.3202,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,13,70.69%*2,1.4138,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,14,75.36%*2,1.5072,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,15,80.04%*2,1.6008,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,16,84.71%*2,1.6942,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,17,89.38%*2,1.7876,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,18,94.06%*2,1.8812,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,19,98.73%*2,1.9746,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 2 DMG,20,103.41%*2,2.0682,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,1,42.75%,0.4275,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,2,46.26%,0.4626,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,3,49.77%,0.4977,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,4,54.67%,0.5467,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,5,58.18%,0.5818,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,6,62.21%,0.6221,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,7,67.82%,0.6782,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,8,73.43%,0.7343,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,9,79.04%,0.7904,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,10,85.00%,0.85,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,11,92.01%,0.9201,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,12,99.02%,0.9902,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,13,106.03%,1.0603,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,14,113.04%,1.1304,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,15,120.05%,1.2005,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,16,127.06%,1.2706,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,17,134.07%,1.3407,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,18,141.08%,1.4108,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,19,148.10%,1.481,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 3 DMG,20,155.11%,1.5511,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,1,20.27%*3,0.6081,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,2,21.93%*3,0.6579,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,3,23.60%*3,0.708,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,4,25.92%*3,0.7776,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,5,27.58%*3,0.8274,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,6,29.50%*3,0.885,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,7,32.15%*3,0.9645,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,8,34.81%*3,1.0443,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,9,37.47%*3,1.1241,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,10,40.30%*3,1.209,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,11,43.62%*3,1.3086,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,12,46.94%*3,1.4082,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,13,50.27%*3,1.5081,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,14,53.59%*3,1.6077,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,15,56.92%*3,1.7076,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,16,60.24%*3,1.8072,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,17,63.56%*3,1.9068,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,18,66.89%*3,2.0067,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,19,70.21%*3,2.1063,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 4 DMG,20,73.53%*3,2.2059,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,1,47.50%*2,0.95,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,2,51.40%*2,1.028,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,3,55.29%*2,1.1058,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,4,60.75%*2,1.215,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,5,64.64%*2,1.2928,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,6,69.12%*2,1.3824,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,7,75.35%*2,1.507,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,8,81.59%*2,1.6318,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,9,87.82%*2,1.7564,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,10,94.44%*2,1.8888,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,11,102.23%*2,2.0446,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,12,110.02%*2,2.2004,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,13,117.81%*2,2.3562,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,14,125.60%*2,2.512,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,15,133.39%*2,2.6678,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,16,141.18%*2,2.8236,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,17,148.97%*2,2.9794,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,18,156.76%*2,3.1352,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,19,164.55%*2,3.291,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Stage 5 DMG,20,172.34%*2,3.4468,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,1,48.00%,0.48,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,2,51.94%,0.5194,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,3,55.88%,0.5588,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,4,61.39%,0.6139,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,5,65.32%,0.6532,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,6,69.85%,0.6985,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,7,76.15%,0.7615,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,8,82.44%,0.8244,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,9,88.74%,0.8874,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,10,95.43%,0.9543,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,11,103.31%,1.0331,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,12,111.18%,1.1118,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,13,119.05%,1.1905,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,14,126.92%,1.2692,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,15,134.79%,1.3479,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,16,142.67%,1.4267,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,17,150.54%,1.5054,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,18,158.41%,1.5841,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,19,166.28%,1.6628,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack DMG,20,174.15%,1.7415,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,1,58.90%,0.589,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,2,63.73%,0.6373,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,3,68.56%,0.6856,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,4,75.33%,0.7533,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,5,80.16%,0.8016,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,6,85.71%,0.8571,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,7,93.44%,0.9344,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,8,101.17%,1.0117,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,9,108.89%,1.0889,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,10,117.10%,1.171,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,11,126.76%,1.2676,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,12,136.42%,1.3642,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,13,146.08%,1.4608,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,14,155.74%,1.5574,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,15,165.40%,1.654,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,16,175.06%,1.7506,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,17,184.72%,1.8472,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,18,194.38%,1.9438,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,19,204.04%,2.0404,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack DMG,20,213.70%,2.137,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,1,90.25%,0.9025,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,2,97.66%,0.9766,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,3,105.06%,1.0506,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,4,115.42%,1.1542,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,5,122.82%,1.2282,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,6,131.33%,1.3133,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,7,143.17%,1.4317,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,8,155.01%,1.5501,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,9,166.85%,1.6685,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,10,179.43%,1.7943,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,11,194.23%,1.9423,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,12,209.03%,2.0903,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,13,223.83%,2.2383,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,14,238.64%,2.3864,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,15,253.44%,2.5344,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,16,268.24%,2.6824,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,17,283.04%,2.8304,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,18,297.84%,2.9784,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,19,312.64%,3.1264,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Dodge Counter DMG,20,327.44%,3.2744,"[""Basic Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,1,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,2,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,3,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,4,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,5,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,6,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,7,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,8,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,9,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,10,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,11,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,12,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,13,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,14,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,15,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,16,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,17,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Heavy Attack STA Cost,18,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Rover: Havoc,Tuneslayer,Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,1,144.00%*2,2.88,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,2,155.81%*2,3.1162,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,3,167.62%*2,3.3524,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,4,184.15%*2,3.683,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,5,195.96%*2,3.9192,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,6,209.54%*2,4.1908,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,7,228.43%*2,4.5686,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,8,247.32%*2,4.9464,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,9,266.22%*2,5.3244,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,10,286.29%*2,5.7258,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,11,309.91%*2,6.1982,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,12,333.52%*2,6.6704,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,13,357.14%*2,7.1428,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,14,380.76%*2,7.6152,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,15,404.37%*2,8.0874,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,16,427.99%*2,8.5598,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,17,451.60%*2,9.032,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,18,475.22%*2,9.5044,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,19,498.84%*2,9.9768,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Skill DMG,20,522.45%*2,10.449,"[""Skill Damage""]"
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,1,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,2,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,3,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,4,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,5,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,6,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,7,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,8,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,9,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,10,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,11,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,12,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,13,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,14,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,15,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,16,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,17,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Cooldown,18,12,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,1,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,2,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,3,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,4,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,5,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,6,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,7,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,8,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,9,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,10,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,11,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,12,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,13,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,14,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,15,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,16,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,17,15,0.0,
+Rover: Havoc,Wingblade,Resonance Skill,Concerto Regen,18,15,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,1,765.00%,7.65,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,2,827.73%,8.2773,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,3,890.46%,8.9046,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,4,978.29%,9.7829,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,5,1041.02%,10.4102,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,6,1113.16%,11.1316,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,7,1213.52%,12.1352,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,8,1313.89%,13.1389,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,9,1414.26%,14.1426,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,10,1520.90%,15.209,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,11,1646.36%,16.4636,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,12,1771.82%,17.7182,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,13,1897.28%,18.9728,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,14,2022.74%,20.2274,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,15,2148.20%,21.482,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,16,2273.66%,22.7366,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,17,2399.12%,23.9912,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,18,2524.58%,25.2458,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,19,2650.04%,26.5004,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Ultimate DMG,20,2775.50%,27.755,"[""Liberation Damage""]"
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,1,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,2,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,3,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,4,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,5,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,6,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,7,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,8,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,9,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,10,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,11,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,12,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,13,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,14,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,15,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,16,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,17,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Cooldown,18,16,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,1,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,2,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,3,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,4,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,5,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,6,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,7,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,8,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,9,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,10,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,11,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,12,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,13,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,14,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,15,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,16,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,17,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Resonance Cost,18,125,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,1,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,2,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,3,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,4,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,5,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,6,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,7,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,8,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,9,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,10,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,11,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,12,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,13,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,14,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,15,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,16,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,17,20,0.0,
+Rover: Havoc,Deadening Abyss,Resonance Liberation,Concerto Regen,18,20,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,1,100.00%,1.0,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,2,108.20%,1.082,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,3,116.40%,1.164,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,4,127.88%,1.2788,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,5,136.08%,1.3608,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,6,145.51%,1.4551,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,7,158.63%,1.5863,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,8,171.75%,1.7175,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,9,184.87%,1.8487,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,10,198.81%,1.9881,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,11,215.21%,2.1521,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,12,231.61%,2.3161,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,13,248.01%,2.4801,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,14,264.41%,2.6441,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,15,280.81%,2.8081,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,16,297.21%,2.9721,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,17,313.61%,3.1361,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,18,330.01%,3.3001,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,19,346.41%,3.4641,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Intro DMG,20,362.81%,3.6281,"[""Intro Damage""]"
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,1,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,2,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,3,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,4,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,5,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,6,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,7,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,8,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,9,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,10,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,11,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,12,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,13,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,14,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,15,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,16,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,17,10,0.0,
+Rover: Havoc,Instant of Annihilation,Intro Skill,Concerto Regen,18,10,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,1,114.75%,1.1475,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,2,124.16%,1.2416,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,3,133.57%,1.3357,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,4,146.75%,1.4675,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,5,156.16%,1.5616,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,6,166.98%,1.6698,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,7,182.03%,1.8203,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,8,197.09%,1.9709,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,9,212.14%,2.1214,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,10,228.14%,2.2814,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,11,246.96%,2.4696,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,12,265.78%,2.6578,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,13,284.60%,2.846,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,14,303.42%,3.0342,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,15,322.23%,3.2223,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,16,341.05%,3.4105,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,17,359.87%,3.5987,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,18,378.69%,3.7869,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,19,397.51%,3.9751,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Devastation Damage,20,416.33%,4.1633,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,1,28.35%,0.2835,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,2,30.68%,0.3068,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,3,33.00%,0.33,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,4,36.26%,0.3626,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,5,38.58%,0.3858,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,6,41.26%,0.4126,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,7,44.98%,0.4498,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,8,48.70%,0.487,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,9,52.42%,0.5242,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,10,56.37%,0.5637,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,11,61.02%,0.6102,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,12,65.67%,0.6567,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,13,70.32%,0.7032,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,14,74.97%,0.7497,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,15,79.61%,0.7961,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,16,84.26%,0.8426,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,17,88.91%,0.8891,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,18,93.56%,0.9356,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,19,98.21%,0.9821,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 1 DMG,20,102.86%,1.0286,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,1,47.25%,0.4725,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,2,51.13%,0.5113,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,3,55.00%,0.55,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,4,60.43%,0.6043,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,5,64.30%,0.643,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,6,68.76%,0.6876,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,7,74.96%,0.7496,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,8,81.16%,0.8116,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,9,87.36%,0.8736,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,10,93.94%,0.9394,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,11,101.69%,1.0169,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,12,109.44%,1.0944,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,13,117.19%,1.1719,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,14,124.94%,1.2494,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,15,132.69%,1.3269,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,16,140.44%,1.4044,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,17,148.19%,1.4819,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,18,155.93%,1.5593,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,19,163.68%,1.6368,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 2 DMG,20,171.43%,1.7143,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,1,78.30%,0.783,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,2,84.73%,0.8473,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,3,91.15%,0.9115,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,4,100.14%,1.0014,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,5,106.56%,1.0656,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,6,113.94%,1.1394,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,7,124.21%,1.2421,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,8,134.49%,1.3449,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,9,144.76%,1.4476,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,10,155.67%,1.5567,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,11,168.51%,1.6851,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,12,181.36%,1.8136,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,13,194.20%,1.942,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,14,207.04%,2.0704,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,15,219.88%,2.1988,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,16,232.72%,2.3272,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,17,245.56%,2.4556,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,18,258.40%,2.584,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,19,271.24%,2.7124,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 3 DMG,20,284.09%,2.8409,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,1,18.68%*3+56.03%,1.1207,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,2,20.21%*3+60.62%,1.2125,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,3,21.74%*3+65.22%,1.3044,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,4,23.89%*3+71.65%,1.4332,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,5,25.42%*3+76.24%,1.525,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,6,27.18%*3+81.53%,1.6307,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,7,29.63%*3+88.88%,1.7777,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,8,32.08%*3+96.23%,1.9247,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,9,34.53%*3+103.58%,2.0717,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,10,37.13%*3+111.39%,2.2278,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,11,40.20%*3+120.58%,2.4118,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,12,43.26%*3+129.76%,2.5954,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,13,46.32%*3+138.95%,2.7791,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,14,49.38%*3+148.14%,2.9628,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,15,52.45%*3+157.33%,3.1468,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,16,55.51%*3+166.52%,3.3305,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,17,58.57%*3+175.71%,3.5142,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,18,61.63%*3+184.89%,3.6978,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,19,64.70%*3+194.08%,3.8818,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 4 DMG,20,67.76%*3+203.27%,4.0655,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,1,14.35%*4+57.38%,1.1478,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,2,15.52%*4+62.08%,1.2416,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,3,16.70%*4+66.79%,1.3359,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,4,18.35%*4+73.38%,1.4678,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,5,19.52%*4+78.08%,1.5616,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,6,20.88%*4+83.49%,1.6701,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,7,22.76%*4+91.02%,1.8206,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,8,24.64%*4+98.55%,1.9711,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,9,26.52%*4+106.07%,2.1215,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,10,28.52%*4+114.07%,2.2815,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,11,30.87%*4+123.48%,2.4696,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,12,33.23%*4+132.89%,2.6581,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,13,35.58%*4+142.30%,2.8462,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,14,37.93%*4+151.71%,3.0343,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,15,40.28%*4+161.12%,3.2224,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,16,42.64%*4+170.53%,3.4109,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,17,44.99%*4+179.94%,3.599,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,18,47.34%*4+189.35%,3.7871,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,19,49.69%*4+198.76%,3.9752,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Basic Attack Stage 5 DMG,20,52.05%*4+208.17%,4.1637,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,1,64.80%,0.648,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,2,70.12%,0.7012,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,3,75.43%,0.7543,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,4,82.87%,0.8287,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,5,88.18%,0.8818,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,6,94.30%,0.943,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,7,102.80%,1.028,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,8,111.30%,1.113,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,9,119.80%,1.198,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,10,128.83%,1.2883,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,11,139.46%,1.3946,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,12,150.09%,1.5009,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,13,160.72%,1.6072,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,14,171.34%,1.7134,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,15,181.97%,1.8197,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,16,192.60%,1.926,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,17,203.22%,2.0322,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,18,213.85%,2.1385,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,19,224.48%,2.2448,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack DMG,20,235.11%,2.3511,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,1,63.70%+5.00%*4,0.837,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,2,68.93%+5.41%*4,0.9057,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,3,74.15%+5.82%*4,0.9743,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,4,81.46%+6.40%*4,1.0706,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,5,86.69%+6.81%*4,1.1393,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,6,92.69%+7.28%*4,1.2181,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,7,101.05%+7.94%*4,1.3281,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,8,109.41%+8.59%*4,1.4377,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,9,117.77%+9.25%*4,1.5477,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,10,126.65%+9.95%*4,1.6645,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,11,137.09%+10.77%*4,1.8017,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,12,147.54%+11.59%*4,1.939,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,13,157.99%+12.41%*4,2.0763,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,14,168.43%+13.23%*4,2.2135,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,15,178.88%+14.05%*4,2.3508,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,16,189.33%+14.87%*4,2.4881,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,17,199.77%+15.69%*4,2.6253,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,18,210.22%+16.51%*4,2.7626,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,19,220.67%+17.33%*4,2.8999,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Thwackblade Damage,20,231.11%+18.15%*4,3.0371,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,1,62.00%,0.62,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,2,67.09%,0.6709,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,3,72.17%,0.7217,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,4,79.29%,0.7929,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,5,84.37%,0.8437,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,6,90.22%,0.9022,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,7,98.36%,0.9836,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,8,106.49%,1.0649,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,9,114.62%,1.1462,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,10,123.27%,1.2327,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,11,133.44%,1.3344,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,12,143.60%,1.436,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,13,153.77%,1.5377,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,14,163.94%,1.6394,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,15,174.11%,1.7411,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,16,184.28%,1.8428,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,17,194.44%,1.9444,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,18,204.61%,2.0461,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,19,214.78%,2.1478,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging Attack DMG,20,224.95%,2.2495,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,1,159.30%,1.593,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,2,172.37%,1.7237,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,3,185.43%,1.8543,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,4,203.72%,2.0372,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,5,216.78%,2.1678,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,6,231.80%,2.318,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,7,252.70%,2.527,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,8,273.60%,2.736,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,9,294.50%,2.945,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,10,316.71%,3.1671,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,11,342.83%,3.4283,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,12,368.96%,3.6896,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,13,395.08%,3.9508,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,14,421.21%,4.2121,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,15,447.34%,4.4734,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,16,473.46%,4.7346,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,17,499.59%,4.9959,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,18,525.71%,5.2571,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,19,551.84%,5.5184,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Dodge Counter DMG,20,577.96%,5.7796,"[""Basic Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,1,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,2,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,3,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,4,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,5,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,6,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,7,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,8,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,9,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,10,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,11,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,12,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,13,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,14,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,15,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,16,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,17,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Heavy Attack STA Cost,18,25,0.0,"[""Heavy Attack Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,1,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,2,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,3,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,4,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,5,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,6,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,7,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,8,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,9,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,10,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,11,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,12,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,13,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,14,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,15,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,16,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,17,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Plunging STA Cost,18,30,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,1,139.00%*2+5.00%*4,2.98,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,2,150.40%*2+5.41%*4,3.2244,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,3,161.80%*2+5.82%*4,3.4688,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,4,177.76%*2+6.40%*4,3.8112,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,5,189.16%*2+6.81%*4,4.0556,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,6,202.26%*2+7.28%*4,4.3364,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,7,220.50%*2+7.94%*4,4.7276,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,8,238.74%*2+8.59%*4,5.1184,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,9,256.97%*2+9.25%*4,5.5094,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,10,276.35%*2+9.95%*4,5.925,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,11,299.15%*2+10.77%*4,6.4138,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,12,321.94%*2+11.59%*4,6.9024,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,13,344.74%*2+12.41%*4,7.3912,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,14,367.53%*2+13.23%*4,7.8798,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,15,390.33%*2+14.05%*4,8.3686,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,16,413.13%*2+14.87%*4,8.8574,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,17,435.92%*2+15.69%*4,9.346,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,18,458.72%*2+16.51%*4,9.8348,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,19,481.51%*2+17.33%*4,10.3234,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Damage,20,504.31%*2+18.15%*4,10.8122,"[""Skill Damage""]"
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,1,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,2,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,3,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,4,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,5,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,6,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,7,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,8,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,9,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,10,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,11,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,12,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,13,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,14,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,15,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,16,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,17,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Umbra: Lifetaker Cooldown,18,12,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,1,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,2,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,3,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,4,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,5,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,6,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,7,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,8,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,9,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,10,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,11,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,12,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,13,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,14,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,15,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,16,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,17,15,0.0,
+Rover: Havoc,Umbra Eclipse,Forte Circuit,Lifetaker Concerto Regen,18,15,0.0,

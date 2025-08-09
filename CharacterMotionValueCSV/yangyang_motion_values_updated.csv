@@ -1,0 +1,440 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,1,22.50%,0.225,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,2,24.34%,0.2434,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,3,26.18%,0.2618,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,4,28.77%,0.2877,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,5,30.61%,0.3061,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,6,32.73%,0.3273,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,7,35.69%,0.3569,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,8,38.64%,0.3864,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,9,41.59%,0.4159,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,10,44.73%,0.4473,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,11,48.42%,0.4842,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,12,52.11%,0.5211,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,13,55.80%,0.558,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,14,59.49%,0.5949,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,15,63.18%,0.6318,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,16,66.87%,0.6687,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,17,70.56%,0.7056,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,18,74.25%,0.7425,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,19,77.94%,0.7794,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 1 DMG,20,81.63%,0.8163,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,1,30.00%,0.3,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,2,32.46%,0.3246,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,3,34.92%,0.3492,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,4,38.36%,0.3836,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,5,40.82%,0.4082,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,6,43.65%,0.4365,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,7,47.58%,0.4758,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,8,51.52%,0.5152,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,9,55.46%,0.5546,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,10,59.64%,0.5964,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,11,64.56%,0.6456,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,12,69.48%,0.6948,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,13,74.40%,0.744,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,14,79.32%,0.7932,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,15,84.24%,0.8424,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,16,89.16%,0.8916,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,17,94.08%,0.9408,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,18,99.00%,0.99,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,19,103.92%,1.0392,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 2 DMG,20,108.84%,1.0884,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,1,23.55%*2,0.471,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,2,25.48%*2,0.5096,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,3,27.41%*2,0.5482,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,4,30.11%*2,0.6022,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,5,32.04%*2,0.6408,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,6,34.26%*2,0.6852,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,7,37.35%*2,0.747,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,8,40.44%*2,0.8088,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,9,43.53%*2,0.8706,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,10,46.81%*2,0.9362,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,11,50.68%*2,1.0136,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,12,54.54%*2,1.0908,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,13,58.40%*2,1.168,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,14,62.26%*2,1.2452,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,15,66.13%*2,1.3226,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,16,69.99%*2,1.3998,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,17,73.85%*2,1.477,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,18,77.71%*2,1.5542,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,19,81.57%*2,1.6314,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 3 DMG,20,85.44%*2,1.7088,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,1,29.86%*2+39.81%,0.9953,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,2,32.31%*2+43.07%,1.0769,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,3,34.76%*2+46.33%,1.1585,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,4,38.19%*2+50.90%,1.2728,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,5,40.64%*2+54.17%,1.3545,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,6,43.45%*2+57.92%,1.4482,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,7,47.37%*2+63.15%,1.5789,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,8,51.29%*2+68.37%,1.7095,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,9,55.20%*2+73.59%,1.8399,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,10,59.36%*2+79.14%,1.9786,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,11,64.26%*2+85.67%,2.1419,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,12,69.16%*2+92.20%,2.3052,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,13,74.05%*2+98.73%,2.4683,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,14,78.95%*2+105.26%,2.6316,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,15,83.85%*2+111.79%,2.7949,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,16,88.74%*2+118.31%,2.9579,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,17,93.64%*2+124.84%,3.1212,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,18,98.54%*2+131.37%,3.2845,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,19,103.43%*2+137.90%,3.4476,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Stage 4 DMG,20,108.33%*2+144.43%,3.6109,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,1,10.00%*3,0.3,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,2,10.82%*3,0.3246,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,3,11.64%*3,0.3492,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,4,12.78%*3,0.3834,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,5,13.60%*3,0.408,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,6,14.55%*3,0.4365,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,7,15.86%*3,0.4758,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,8,17.17%*3,0.5151,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,9,18.48%*3,0.5544,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,10,19.88%*3,0.5964,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,11,21.52%*3,0.6456,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,12,23.16%*3,0.6948,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,13,24.80%*3,0.744,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,14,26.44%*3,0.7932,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,15,28.08%*3,0.8424,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,16,29.72%*3,0.8916,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,17,31.36%*3,0.9408,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,18,33.00%*3,0.99,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,19,34.64%*3,1.0392,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack DMG,20,36.28%*3,1.0884,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,1,46.50%,0.465,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,2,50.31%,0.5031,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,3,54.12%,0.5412,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,4,59.46%,0.5946,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,5,63.27%,0.6327,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,6,67.66%,0.6766,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,7,73.76%,0.7376,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,8,79.86%,0.7986,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,9,85.96%,0.8596,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,10,92.44%,0.9244,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,11,100.07%,1.0007,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,12,107.69%,1.0769,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,13,115.32%,1.1532,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,14,122.95%,1.2295,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,15,130.57%,1.3057,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,16,138.20%,1.382,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,17,145.82%,1.4582,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,18,153.45%,1.5345,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,19,161.08%,1.6108,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack DMG,20,168.70%,1.687,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,1,53.62%,0.5362,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,2,58.02%,0.5802,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,3,62.41%,0.6241,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,4,68.57%,0.6857,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,5,72.97%,0.7297,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,6,78.02%,0.7802,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,7,85.06%,0.8506,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,8,92.10%,0.921,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,9,99.13%,0.9913,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,10,106.61%,1.0661,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,11,115.40%,1.154,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,12,124.20%,1.242,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,13,132.99%,1.3299,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,14,141.78%,1.4178,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,15,150.58%,1.5058,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,16,159.37%,1.5937,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,17,168.17%,1.6817,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,18,176.96%,1.7696,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,19,185.76%,1.8576,
+Yangyang,Feather as Blade,Normal Attack,Zephyr Song Damage,20,194.53%,1.9453,
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,1,43.80%*2,0.876,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,2,47.39%*2,0.9478,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,3,50.98%*2,1.0196,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,4,56.01%*2,1.1202,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,5,59.60%*2,1.192,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,6,63.73%*2,1.2746,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,7,69.47%*2,1.3894,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,8,75.22%*2,1.5044,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,9,80.97%*2,1.6194,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,10,87.07%*2,1.7414,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,11,94.26%*2,1.8852,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,12,101.44%*2,2.0288,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,13,108.62%*2,2.1724,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,14,115.81%*2,2.3162,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,15,122.99%*2,2.4598,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,16,130.17%*2,2.6034,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,17,137.36%*2,2.7472,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,18,144.54%*2,2.8908,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,19,151.72%*2,3.0344,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Dodge Counter DMG,20,158.91%*2,3.1782,"[""Basic Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,1,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,2,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,3,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,4,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,5,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,6,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,7,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,8,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,9,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,10,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,11,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,12,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,13,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,14,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,15,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,16,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,17,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,18,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,19,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Heavy Attack STA Cost,20,25,0.0,"[""Heavy Attack Damage""]"
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,19,30,0.0,
+Yangyang,Feather as Blade,Normal Attack,Mid-air Attack STA Cost,20,30,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,1,17.37%*4+104.22%,1.737,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,2,18.79%*4+112.76%,1.8792,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,3,20.21%*4+121.31%,2.0215,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,4,22.21%*4+133.27%,2.2211,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,5,23.63%*4+141.82%,2.3634,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,6,25.27%*4+151.65%,2.5273,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,7,27.55%*4+165.32%,2.7552,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,8,29.83%*4+178.99%,2.9831,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,9,32.11%*4+192.67%,3.2111,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,10,34.53%*4+207.19%,3.4531,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,11,37.38%*4+224.29%,3.7381,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,12,40.23%*4+241.38%,4.023,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,13,43.07%*4+258.47%,4.3075,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,14,45.92%*4+275.56%,4.5924,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,15,48.77%*4+292.66%,4.8774,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,16,51.62%*4+309.75%,5.1623,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,17,54.47%*4+326.84%,5.4472,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,18,57.32%*4+343.93%,5.7321,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Skill DMG,19,60.17%*4+361.02%,6.017,"[""Skill Damage""]"
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,1,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,2,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,3,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,4,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,5,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,6,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,7,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,8,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,9,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,10,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,11,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,12,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,13,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,14,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,15,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,16,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,17,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,18,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,19,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Cooldown,20,10,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,1,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,2,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,3,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,4,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,5,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,6,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,7,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,8,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,9,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,10,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,11,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,12,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,13,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,14,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,15,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,16,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,17,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,18,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,19,15,0.0,
+Yangyang,Zephyr Domain,Resonance Skill,Concerto Regen,20,15,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,1,23.43%*12+187.46%,4.6862,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,2,25.35%*12+202.83%,5.0703,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,3,27.27%*12+218.21%,5.4545,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,4,29.96%*12+239.73%,5.9925,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,5,31.88%*12+255.10%,6.3766,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,6,34.09%*12+272.78%,6.8186,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,7,37.17%*12+297.37%,7.4341,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,8,40.24%*12+321.97%,8.0485,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,9,43.32%*12+346.56%,8.664,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,10,46.58%*12+372.70%,9.3166,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,11,50.43%*12+403.44%,10.086,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,12,54.27%*12+434.19%,10.8543,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,13,58.11%*12+464.93%,11.6225,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,14,61.95%*12+495.67%,12.3907,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,15,65.80%*12+526.42%,13.1602,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,16,69.64%*12+557.16%,13.9284,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,17,73.48%*12+587.91%,14.6967,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,18,77.33%*12+618.65%,15.4661,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,19,81.17%*12+649.40%,16.2344,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Ultimate DMG,20,85.00%*12+680.12%,17.0012,"[""Liberation Damage""]"
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,1,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,2,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,3,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,4,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,5,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,6,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,7,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,8,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,9,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,10,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,11,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,12,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,13,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,14,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,15,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,16,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,17,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,18,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,19,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Cooldown,20,16,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,1,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,2,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,3,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,4,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,5,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,6,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,7,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,8,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,9,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,10,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,11,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,12,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,13,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,14,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,15,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,16,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,17,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,18,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,19,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Resonance Cost,20,100,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,1,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,2,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,3,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,4,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,5,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,6,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,7,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,8,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,9,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,10,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,11,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,12,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,13,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,14,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,15,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,16,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,17,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,18,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,19,20,0.0,
+Yangyang,Wind Spirals,Resonance Liberation,Concerto Regen,20,20,0.0,
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,1,40.00%*2,0.8,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,2,43.28%*2,0.8656,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,3,46.56%*2,0.9312,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,4,51.15%*2,1.023,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,5,54.43%*2,1.0886,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,6,58.20%*2,1.164,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,7,63.45%*2,1.269,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,8,68.70%*2,1.374,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,9,73.94%*2,1.4788,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,10,79.52%*2,1.5904,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,11,86.08%*2,1.7216,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,12,92.64%*2,1.8528,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,13,99.20%*2,1.984,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,14,105.76%*2,2.1152,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,15,112.32%*2,2.2464,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,16,118.88%*2,2.3776,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,17,125.44%*2,2.5088,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,18,132.00%*2,2.64,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,19,138.56%*2,2.7712,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Intro DMG,20,145.12%*2,2.9024,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,1,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,2,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,3,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,4,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,5,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,6,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,7,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,8,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,9,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,10,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,11,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,12,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,13,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,14,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,15,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,16,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,17,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,18,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,19,10,0.0,"[""Intro Damage""]"
+Yangyang,Cerulean Song,Intro Skill,Concerto Regen,20,10,0.0,"[""Intro Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,1,19.12%*2,0.3824,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,2,20.69%*2,0.4138,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,3,22.26%*2,0.4452,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,4,24.45%*2,0.489,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,5,26.02%*2,0.5204,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,6,27.82%*2,0.5564,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,7,30.33%*2,0.6066,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,8,32.84%*2,0.6568,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,9,35.35%*2,0.707,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,10,38.02%*2,0.7604,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,11,41.15%*2,0.823,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,12,44.29%*2,0.8858,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,13,47.43%*2,0.9486,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,14,50.56%*2,1.0112,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,15,53.70%*2,1.074,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,16,56.84%*2,1.1368,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,17,59.97%*2,1.1994,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,18,63.11%*2,1.2622,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,19,66.25%*2,1.325,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Stormy Strike Damage,20,69.36%*2,1.3872,"[""Heavy Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,1,10.93%*5+63.78%*2,1.8221,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,2,11.83%*5+69.01%*2,1.9717,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,3,12.72%*5+74.24%*2,2.1208,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,4,13.98%*5+81.57%*2,2.3304,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,5,14.88%*5+86.80%*2,2.48,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,6,15.91%*5+92.81%*2,2.6517,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,7,17.34%*5+101.18%*2,2.8906,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,8,18.78%*5+109.55%*2,3.13,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,9,20.21%*5+117.92%*2,3.3689,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,10,21.73%*5+126.81%*2,3.6227,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,11,23.53%*5+137.27%*2,3.9219,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,12,25.32%*5+147.73%*2,4.2206,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,13,27.11%*5+158.19%*2,4.5193,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,14,28.91%*5+168.66%*2,4.8187,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,15,30.70%*5+179.12%*2,5.1174,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,16,32.49%*5+189.58%*2,5.4161,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,17,34.29%*5+200.04%*2,5.7153,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,18,36.08%*5+210.50%*2,6.014,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,19,37.87%*5+220.96%*2,6.3127,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Damage,20,39.65%*5+231.40%*2,6.6105,"[""Basic Attack Damage""]"
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,1,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,2,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,3,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,4,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,5,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,6,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,7,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,8,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,9,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,10,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,11,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,12,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,13,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,14,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,15,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,16,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,17,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,18,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,19,30,0.0,
+Yangyang,Echoing Feathers,Forte Circuit,Feather Release Concerto Regen,20,30,0.0,

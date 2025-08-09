@@ -1,0 +1,681 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,1,16.65%*2,0.333,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,2,18.02%*2,0.3604,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,3,19.39%*2,0.3878,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,4,21.30%*2,0.426,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,5,22.66%*2,0.4532,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,6,24.23%*2,0.4846,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,7,26.42%*2,0.5284,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,8,28.60%*2,0.572,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,9,30.79%*2,0.6158,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,10,33.11%*2,0.6622,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,11,35.84%*2,0.7168,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,12,38.57%*2,0.7714,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,13,41.30%*2,0.826,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,14,44.03%*2,0.8806,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,15,46.76%*2,0.9352,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,16,49.49%*2,0.9898,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,17,52.22%*2,1.0444,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,18,54.95%*2,1.099,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,19,57.68%*2,1.1536,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 1 DMG,20,60.41%*2,1.2082,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,1,50.10%,0.501,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,2,54.21%,0.5421,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,3,58.32%,0.5832,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,4,64.07%,0.6407,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,5,68.18%,0.6818,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,6,72.91%,0.7291,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,7,79.48%,0.7948,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,8,86.05%,0.8605,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,9,92.62%,0.9262,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,10,99.61%,0.9961,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,11,107.83%,1.0783,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,12,116.04%,1.1604,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,13,124.26%,1.2426,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,14,132.47%,1.3247,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,15,140.69%,1.4069,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,16,148.91%,1.4891,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,17,157.12%,1.5712,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,18,165.34%,1.6534,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,19,173.56%,1.7356,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 2 DMG,20,181.77%,1.8177,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,1,20.00%*3,0.6,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,2,21.64%*3,0.6492,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,3,23.28%*3,0.6984,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,4,25.58%*3,0.7674,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,5,27.22%*3,0.8166,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,6,29.10%*3,0.873,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,7,31.73%*3,0.9519,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,8,34.35%*3,1.0305,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,9,36.98%*3,1.1094,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,10,39.76%*3,1.1928,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,11,43.04%*3,1.2912,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,12,46.32%*3,1.3896,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,13,49.60%*3,1.488,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,14,52.88%*3,1.5864,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,15,56.16%*3,1.6848,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,16,59.44%*3,1.7832,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,17,62.72%*3,1.8816,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,18,66.00%*3,1.98,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,19,69.28%*3,2.0784,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 3 DMG,20,72.56%*3,2.1768,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,1,26.68%*2+13.34%,0.667,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,2,28.87%*2+14.44%,0.7218,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,3,31.06%*2+15.53%,0.7765,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,4,34.12%*2+17.06%,0.853,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,5,36.31%*2+18.16%,0.9078,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,6,38.83%*2+19.42%,0.9708,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,7,42.33%*2+21.17%,1.0583,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,8,45.83%*2+22.92%,1.1458,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,9,49.33%*2+24.67%,1.2333,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,10,53.05%*2+26.53%,1.3263,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,11,57.42%*2+28.71%,1.4355,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,12,61.80%*2+30.90%,1.545,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,13,66.17%*2+33.09%,1.6543,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,14,70.55%*2+35.28%,1.7638,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,15,74.93%*2+37.47%,1.8733,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,16,79.30%*2+39.65%,1.9825,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,17,83.68%*2+41.84%,2.092,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,18,88.05%*2+44.03%,2.2013,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,19,92.43%*2+46.22%,2.3108,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 4 DMG,20,96.80%*2+48.40%,2.42,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,1,100.00%,1.0,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,2,108.20%,1.082,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,3,116.40%,1.164,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,4,127.88%,1.2788,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,5,136.08%,1.3608,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,6,145.51%,1.4551,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,7,158.63%,1.5863,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,8,171.75%,1.7175,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,9,184.87%,1.8487,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,10,198.81%,1.9881,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,11,215.21%,2.1521,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,12,231.61%,2.3161,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,13,248.01%,2.4801,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,14,264.41%,2.6441,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,15,280.81%,2.8081,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,16,297.21%,2.9721,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,17,313.61%,3.1361,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,18,330.01%,3.3001,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,19,346.41%,3.4641,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Stage 5 DMG,20,362.81%,3.6281,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,1,41.65%*2,0.833,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,2,45.07%*2,0.9014,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,3,48.49%*2,0.9698,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,4,53.27%*2,1.0654,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,5,56.68%*2,1.1336,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,6,60.61%*2,1.2122,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,7,66.07%*2,1.3214,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,8,71.54%*2,1.4308,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,9,77.00%*2,1.54,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,10,82.81%*2,1.6562,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,11,89.64%*2,1.7928,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,12,96.47%*2,1.9294,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,13,103.30%*2,2.066,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,14,110.13%*2,2.2026,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,15,116.96%*2,2.3392,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,16,123.79%*2,2.4758,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,17,130.62%*2,2.6124,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,18,137.45%*2,2.749,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,19,144.28%*2,2.8856,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA DMG,20,151.12%*2,3.0224,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,1,62.00%,0.62,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,2,67.09%,0.6709,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,3,72.17%,0.7217,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,4,79.29%,0.7929,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,5,84.37%,0.8437,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,6,90.22%,0.9022,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,7,98.36%,0.9836,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,8,106.49%,1.0649,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,9,114.62%,1.1462,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,10,123.27%,1.2327,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,11,133.44%,1.3344,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,12,143.60%,1.436,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,13,153.77%,1.5377,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,14,163.94%,1.6394,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,15,174.11%,1.7411,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,16,184.28%,1.8428,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,17,194.44%,1.9444,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,18,204.61%,2.0461,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,19,214.78%,2.1478,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack DMG,20,224.95%,2.2495,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,1,120.00%,1.2,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,2,129.84%,1.2984,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,3,139.68%,1.3968,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,4,153.46%,1.5346,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,5,163.30%,1.633,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,6,174.62%,1.7462,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,7,190.36%,1.9036,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,8,206.10%,2.061,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,9,221.85%,2.2185,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,10,238.58%,2.3858,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,11,258.26%,2.5826,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,12,277.94%,2.7794,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,13,297.62%,2.9762,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,14,317.30%,3.173,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,15,336.98%,3.3698,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,16,356.66%,3.5666,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,17,376.34%,3.7634,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,18,396.02%,3.9602,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,19,415.70%,4.157,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,Dodge Counter DMG,20,435.38%,4.3538,"[""Basic Attack Damage""]"
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,1,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,2,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,3,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,4,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,5,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,6,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,7,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,8,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,9,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,10,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,11,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,12,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,13,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,14,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,15,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,16,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,17,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,18,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,19,25,0.0,
+Xiangli Yao,Probe,Normal Attack,HA STA Cost,20,25,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,19,30,0.0,
+Xiangli Yao,Probe,Normal Attack,Mid-air Attack STA Cost,20,30,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,1,100.00%,1.0,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,2,108.20%,1.082,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,3,116.40%,1.164,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,4,127.88%,1.2788,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,5,136.08%,1.3608,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,6,145.51%,1.4551,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,7,158.63%,1.5863,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,8,171.75%,1.7175,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,9,184.87%,1.8487,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,10,198.81%,1.9881,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,11,215.21%,2.1521,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,12,231.61%,2.3161,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,13,248.01%,2.4801,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,14,264.41%,2.6441,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,15,280.81%,2.8081,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,16,297.21%,2.9721,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,17,313.61%,3.1361,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,18,330.01%,3.3001,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,19,346.41%,3.4641,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Skill DMG,20,362.81%,3.6281,"[""Skill Damage""]"
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,1,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,2,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,3,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,4,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,5,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,6,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,7,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,8,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,9,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,10,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,11,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,12,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,13,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,14,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,15,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,16,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,17,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,18,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,19,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Cooldown,20,5,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,1,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,2,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,3,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,4,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,5,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,6,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,7,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,8,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,9,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,10,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,11,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,12,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,13,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,14,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,15,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,16,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,17,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,18,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,19,7,0.0,
+Xiangli Yao,Deduction,Resonance Skill,Concerto Regen,20,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,1,737.42%,7.3742,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,2,797.89%,7.9789,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,3,858.35%,8.5835,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,4,943.01%,9.4301,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,5,1003.48%,10.0348,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,6,1073.02%,10.7302,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,7,1169.76%,11.6976,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,8,1266.51%,12.6651,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,9,1363.26%,13.6326,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,10,1466.06%,14.6606,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,11,1586.99%,15.8699,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,12,1707.93%,17.0793,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,13,1828.87%,18.2887,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,14,1949.80%,19.498,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,15,2070.74%,20.7074,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,16,2191.67%,21.9167,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,17,2312.61%,23.1261,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,18,2433.54%,24.3354,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,19,2554.48%,25.5448,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model DMG,20,2675.42%,26.7542,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,1,60.19%,0.6019,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,2,65.13%,0.6513,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,3,70.06%,0.7006,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,4,76.97%,0.7697,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,5,81.91%,0.8191,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,6,87.59%,0.8759,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,7,95.48%,0.9548,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,8,103.38%,1.0338,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,9,111.28%,1.1128,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,10,119.67%,1.1967,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,11,129.54%,1.2954,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,12,139.41%,1.3941,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,13,149.28%,1.4928,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,14,159.15%,1.5915,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,15,169.02%,1.6902,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,16,178.89%,1.7889,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,17,188.76%,1.8876,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,18,198.63%,1.9863,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,19,208.51%,2.0851,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 1 DMG,20,218.38%,2.1838,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,1,30.65%*4,1.226,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,2,33.16%*4,1.3264,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,3,35.67%*4,1.4268,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,4,39.19%*4,1.5676,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,5,41.70%*4,1.668,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,6,44.59%*4,1.7836,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,7,48.61%*4,1.9444,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,8,52.63%*4,2.1052,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,9,56.65%*4,2.266,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,10,60.92%*4,2.4368,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,11,65.95%*4,2.638,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,12,70.97%*4,2.8388,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,13,76.00%*4,3.04,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,14,81.02%*4,3.2408,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,15,86.05%*4,3.442,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,16,91.07%*4,3.6428,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,17,96.10%*4,3.844,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,18,101.12%*4,4.0448,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,19,106.15%*4,4.246,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 2 DMG,20,111.17%*4,4.4468,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,1,67.03%*2,1.3406,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,2,72.52%*2,1.4504,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,3,78.02%*2,1.5604,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,4,85.71%*2,1.7142,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,5,91.21%*2,1.8242,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,6,97.53%*2,1.9506,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,7,106.32%*2,2.1264,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,8,115.12%*2,2.3024,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,9,123.91%*2,2.4782,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,10,133.25%*2,2.665,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,11,144.25%*2,2.885,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,12,155.24%*2,3.1048,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,13,166.23%*2,3.3246,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,14,177.22%*2,3.5444,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,15,188.21%*2,3.7642,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,16,199.20%*2,3.984,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,17,210.20%*2,4.204,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,18,221.19%*2,4.4238,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,19,232.18%*2,4.6436,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Pivot - Impale Stage 3 DMG,20,243.17%*2,4.8634,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,1,24.94%*3+87.29%*2,2.494,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,2,26.99%*3+94.45%*2,2.6987,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,3,29.04%*3+101.61%*2,2.9034,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,4,31.90%*3+111.63%*2,3.1896,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,5,33.94%*3+118.79%*2,3.394,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,6,36.30%*3+127.02%*2,3.6294,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,7,39.57%*3+138.47%*2,3.9565,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,8,42.84%*3+149.93%*2,4.2838,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,9,46.11%*3+161.38%*2,4.6109,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,10,49.59%*3+173.55%*2,4.9587,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,11,53.68%*3+187.86%*2,5.3676,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,12,57.77%*3+202.18%*2,5.7767,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,13,61.86%*3+216.49%*2,6.1856,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,14,65.95%*3+230.81%*2,6.5947,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,15,70.04%*3+245.12%*2,7.0036,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,16,74.13%*3+259.44%*2,7.4127,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,17,78.22%*3+273.76%*2,7.8218,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,18,82.31%*3+288.07%*2,8.2307,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,19,86.40%*3+302.39%*2,8.6398,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence DMG,20,90.49%*3+316.70%*2,9.0487,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,1,19.53%*2+156.22%,1.9528,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,2,21.13%*2+169.03%,2.1129,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,3,22.73%*2+181.84%,2.273,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,4,24.98%*2+199.77%,2.4973,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,5,26.58%*2+212.58%,2.6574,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,6,28.42%*2+227.31%,2.8415,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,7,30.98%*2+247.81%,3.0977,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,8,33.54%*2+268.30%,3.3538,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,9,36.10%*2+288.80%,3.61,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,10,38.83%*2+310.58%,3.8824,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,11,42.03%*2+336.20%,4.2026,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,12,45.23%*2+361.82%,4.5228,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,13,48.43%*2+387.43%,4.8429,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,14,51.64%*2+413.05%,5.1633,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,15,54.84%*2+438.67%,5.4835,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,16,58.04%*2+464.29%,5.8037,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,17,61.24%*2+489.91%,6.1239,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,18,64.45%*2+515.53%,6.4443,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,19,67.65%*2+541.15%,6.7645,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Unfathomed DMG,20,70.85%*2+566.77%,7.0847,"[""Liberation Damage""]"
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,1,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,2,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,3,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,4,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,5,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,6,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,7,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,8,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,9,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,10,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,11,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,12,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,13,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,14,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,15,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,16,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,17,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,18,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,19,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Intuition Duration,20,24,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,1,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,2,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,3,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,4,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,5,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,6,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,7,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,8,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,9,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,10,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,11,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,12,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,13,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,14,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,15,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,16,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,17,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,18,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,19,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Cooldown,20,25,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,1,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,2,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,3,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,4,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,5,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,6,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,7,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,8,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,9,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,10,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,11,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,12,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,13,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,14,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,15,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,16,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,17,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,18,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,19,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Cooldown,20,7,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,1,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,2,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,3,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,4,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,5,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,6,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,7,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,8,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,9,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,10,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,11,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,12,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,13,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,14,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,15,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,16,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,17,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,18,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,19,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Resonance Cost,20,125,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,1,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,2,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,3,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,4,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,5,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,6,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,7,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,8,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,9,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,10,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,11,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,12,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,13,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,14,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,15,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,16,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,17,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,18,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,19,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Cogitation Model Concerto Regen,20,20,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,1,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,2,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,3,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,4,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,5,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,6,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,7,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,8,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,9,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,10,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,11,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,12,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,13,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,14,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,15,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,16,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,17,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,18,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,19,10,0.0,
+Xiangli Yao,Cogitation Model,Resonance Liberation,Divergence Concerto Regen,20,10,0.0,
+Xiangli Yao,Principle,Intro Skill,Intro DMG,1,50.00%*2,1.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,2,54.10%*2,1.082,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,3,58.20%*2,1.164,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,4,63.94%*2,1.2788,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,5,68.04%*2,1.3608,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,6,72.76%*2,1.4552,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,7,79.32%*2,1.5864,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,8,85.88%*2,1.7176,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,9,92.44%*2,1.8488,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,10,99.41%*2,1.9882,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,11,107.61%*2,2.1522,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,12,115.81%*2,2.3162,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,13,124.01%*2,2.4802,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,14,132.21%*2,2.6442,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,15,140.41%*2,2.8082,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,16,148.61%*2,2.9722,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,17,156.81%*2,3.1362,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,18,165.01%*2,3.3002,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,19,173.21%*2,3.4642,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Intro DMG,20,181.41%*2,3.6282,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,1,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,2,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,3,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,4,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,5,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,6,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,7,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,8,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,9,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,10,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,11,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,12,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,13,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,14,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,15,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,16,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,17,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,18,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,19,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Principle,Intro Skill,Concerto Regen,20,10,0.0,"[""Intro Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,1,200.10%,2.001,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,2,216.51%,2.1651,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,3,232.92%,2.3292,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,4,255.89%,2.5589,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,5,272.30%,2.723,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,6,291.17%,2.9117,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,7,317.42%,3.1742,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,8,343.68%,3.4368,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,9,369.93%,3.6993,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,10,397.82%,3.9782,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,11,430.64%,4.3064,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,12,463.46%,4.6346,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,13,496.27%,4.9627,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,14,529.09%,5.2909,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,15,561.91%,5.6191,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,16,594.72%,5.9472,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,17,627.54%,6.2754,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,18,660.36%,6.6036,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,19,693.17%,6.9317,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher DMG,20,725.99%,7.2599,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,1,48.15%*4+128.40%,3.21,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,2,52.10%*4+138.93%,3.4733,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,3,56.05%*4+149.46%,3.7366,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,4,61.58%*4+164.20%,4.1052,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,5,65.53%*4+174.73%,4.3685,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,6,70.07%*4+186.84%,4.6712,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,7,76.39%*4+203.69%,5.0925,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,8,82.70%*4+220.53%,5.5133,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,9,89.02%*4+237.38%,5.9346,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,10,95.73%*4+255.28%,6.382,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,11,103.63%*4+276.33%,6.9085,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,12,111.53%*4+297.39%,7.4351,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,13,119.42%*4+318.45%,7.9613,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,14,127.32%*4+339.51%,8.4879,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,15,135.22%*4+360.57%,9.0145,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,16,143.11%*4+381.62%,9.5406,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,17,151.01%*4+402.68%,10.0672,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,18,158.90%*4+423.74%,10.5934,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,19,166.80%*4+444.80%,11.12,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns DMG,20,174.70%*4+465.85%,11.6465,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,1,11.00%*4+33.00%*2,1.1,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,2,11.91%*4+35.71%*2,1.1906,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,3,12.81%*4+38.42%*2,1.2808,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,4,14.07%*4+42.21%*2,1.407,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,5,14.97%*4+44.91%*2,1.497,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,6,16.01%*4+48.02%*2,1.6008,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,7,17.45%*4+52.35%*2,1.745,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,8,18.90%*4+56.68%*2,1.8896,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,9,20.34%*4+61.01%*2,2.0338,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,10,21.87%*4+65.61%*2,2.187,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,11,23.68%*4+71.02%*2,2.3676,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,12,25.48%*4+76.44%*2,2.548,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,13,27.29%*4+81.85%*2,2.7286,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,14,29.09%*4+87.26%*2,2.9088,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,15,30.89%*4+92.67%*2,3.089,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,16,32.70%*4+98.08%*2,3.2696,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,17,34.50%*4+103.50%*2,3.45,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,18,36.31%*4+108.91%*2,3.6306,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,19,38.11%*4+114.32%*2,3.8108,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp DMG,20,39.91%*4+119.73%*2,3.991,"[""Liberation Damage""]"
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,1,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,2,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,3,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,4,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,5,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,6,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,7,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,8,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,9,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,10,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,11,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,12,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,13,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,14,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,15,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,16,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,17,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,18,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,19,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp STA Cost,20,30,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,1,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,2,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,3,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,4,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,5,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,6,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,7,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,8,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,9,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,10,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,11,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,12,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,13,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,14,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,15,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,16,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,17,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,18,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,19,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Decipher Concerto Regen,20,7,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,1,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,2,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,3,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,4,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,5,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,6,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,7,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,8,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,9,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,10,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,11,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,12,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,13,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,14,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,15,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,16,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,17,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,18,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,19,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Law of Reigns Concerto Regen,20,10,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,1,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,2,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,3,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,4,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,5,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,6,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,7,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,8,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,9,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,10,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,11,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,12,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,13,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,14,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,15,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,16,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,17,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,18,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,19,5,0.0,
+Xiangli Yao,Forever Seeking,Forte Circuit,Revamp Concerto Regen,20,5,0.0,

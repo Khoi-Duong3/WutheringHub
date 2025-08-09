@@ -1,0 +1,487 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,1,14.49%,0.1449,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,2,15.68%,0.1568,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,3,16.87%,0.1687,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,4,18.53%,0.1853,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,5,19.72%,0.1972,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,6,21.09%,0.2109,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,7,22.99%,0.2299,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,8,24.89%,0.2489,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,9,26.79%,0.2679,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,10,28.81%,0.2881,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,11,31.19%,0.3119,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,12,33.57%,0.3357,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,13,35.94%,0.3594,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,14,38.32%,0.3832,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,15,40.69%,0.4069,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,16,43.07%,0.4307,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,17,45.45%,0.4545,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,18,47.82%,0.4782,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,19,50.2%,0.502,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 1 DMG,20,52.58%,0.5258,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,1,17.01%*2,0.3402,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,2,18.41%*2,0.3682,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,3,19.8%*2,0.396,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,4,21.76%*2,0.4352,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,5,23.15%*2,0.463,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,6,24.76%*2,0.4952,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,7,26.99%*2,0.5398,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,8,29.22%*2,0.5844,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,9,31.45%*2,0.629,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,10,33.82%*2,0.6764,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,11,36.61%*2,0.7322,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,12,39.4%*2,0.788,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,13,42.19%*2,0.8438,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,14,44.98%*2,0.8996,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,15,47.77%*2,0.9554,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,16,50.56%*2,1.0112,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,17,53.35%*2,1.067,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,18,56.14%*2,1.1228,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,19,58.93%*2,1.1786,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 2 DMG,20,61.72%*2,1.2344,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,1,7.04%*7,0.4928,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,2,7.62%*7,0.5334,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,3,8.19%*7,0.5733,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,4,9%*7,0.63,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,5,9.58%*7,0.6706,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,6,10.24%*7,0.7168,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,7,11.16%*7,0.7812,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,8,12.09%*7,0.8463,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,9,13.01%*7,0.9107,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,10,13.99%*7,0.9793,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,11,15.15%*7,1.0605,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,12,16.3%*7,1.141,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,13,17.45%*7,1.2215,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,14,18.61%*7,1.3027,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,15,19.76%*7,1.3832,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,16,20.91%*7,1.4637,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,17,22.07%*7,1.5449,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,18,23.22%*7,1.6254,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,19,24.37%*7,1.7059,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 3 DMG,20,25.53%*7,1.7871,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,1,37.8%,0.378,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,2,40.9%,0.409,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,3,44%,0.44,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,4,48.34%,0.4834,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,5,51.44%,0.5144,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,6,55.01%,0.5501,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,7,59.97%,0.5997,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,8,64.93%,0.6493,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,9,69.89%,0.6989,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,10,75.16%,0.7516,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,11,81.35%,0.8135,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,12,87.55%,0.8755,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,13,93.75%,0.9375,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,14,99.95%,0.9995,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,15,106.15%,1.0615,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,16,112.35%,1.1235,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,17,118.55%,1.1855,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,18,124.75%,1.2475,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,19,130.95%,1.3095,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Stage 4 DMG,20,137.15%,1.3715,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,1,15%*2,0.3,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,2,16.23%*2,0.3246,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,3,17.46%*2,0.3492,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,4,19.19%*2,0.3838,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,5,20.42%*2,0.4084,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,6,21.83%*2,0.4366,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,7,23.8%*2,0.476,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,8,25.77%*2,0.5154,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,9,27.74%*2,0.5548,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,10,29.83%*2,0.5966,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,11,32.29%*2,0.6458,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,12,34.75%*2,0.695,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,13,37.21%*2,0.7442,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,14,39.67%*2,0.7934,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,15,42.13%*2,0.8426,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,16,44.59%*2,0.8918,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,17,47.05%*2,0.941,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,18,49.51%*2,0.9902,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,19,51.97%*2,1.0394,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack DMG,20,54.43%*2,1.0886,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,1,62%,0.62,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,2,67.09%,0.6709,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,3,72.17%,0.7217,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,4,79.29%,0.7929,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,5,84.37%,0.8437,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,6,90.22%,0.9022,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,7,98.36%,0.9836,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,8,106.49%,1.0649,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,9,114.62%,1.1462,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,10,123.27%,1.2327,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,11,133.44%,1.3344,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,12,143.6%,1.436,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,13,153.77%,1.5377,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,14,163.94%,1.6394,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,15,174.11%,1.7411,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,16,184.28%,1.8428,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,17,194.44%,1.9444,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,18,204.61%,2.0461,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,19,214.78%,2.1478,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack DMG,20,224.95%,2.2495,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,1,12.18%*7,0.8526,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,2,13.18%*7,0.9226,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,3,14.18%*7,0.9926,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,4,15.58%*7,1.0906,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,5,16.58%*7,1.1606,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,6,17.72%*7,1.2404,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,7,19.32%*7,1.3524,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,8,20.92%*7,1.4644,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,9,22.52%*7,1.5764,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,10,24.22%*7,1.6954,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,11,26.21%*7,1.8347,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,12,28.21%*7,1.9747,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,13,30.21%*7,2.1147,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,14,32.2%*7,2.254,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,15,34.2%*7,2.394,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,16,36.2%*7,2.534,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,17,38.2%*7,2.674,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,18,40.19%*7,2.8133,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,19,42.19%*7,2.9533,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Dodge Counter DMG,20,44.19%*7,3.0933,"[""Basic Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,1,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,2,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,3,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,4,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,5,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,6,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,7,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,8,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,9,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,10,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,11,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,12,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,13,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,14,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,15,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,16,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,17,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,18,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,19,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Heavy Attack STA Consumption,20,25,0.0,"[""Heavy Attack Damage""]"
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,19,30,0.0,
+Yinlin,Zapstring's Dance,Normal Attack,Mid-air Attack STA Cost,20,30,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,1,30%*3,0.9,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,2,32.46%*3,0.9738,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,3,34.92%*3,1.0476,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,4,38.37%*3,1.1511,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,5,40.83%*3,1.2249,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,6,43.66%*3,1.3098,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,7,47.59%*3,1.4277,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,8,51.53%*3,1.5459,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,9,55.47%*3,1.6641,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,10,59.65%*3,1.7895,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,11,64.57%*3,1.9371,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,12,69.49%*3,2.0847,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,13,74.41%*3,2.2323,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,14,79.33%*3,2.3799,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,15,84.25%*3,2.5275,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,16,89.17%*3,2.6751,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,17,94.09%*3,2.8227,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,18,99.01%*3,2.9703,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,19,103.93%*3,3.1179,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Damage,20,108.85%*3,3.2655,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,1,45%*4,1.8,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,2,48.69%*4,1.9476,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,3,52.38%*4,2.0952,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,4,57.55%*4,2.302,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,5,61.24%*4,2.4496,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,6,65.48%*4,2.6192,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,7,71.39%*4,2.8556,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,8,77.29%*4,3.0916,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,9,83.2%*4,3.328,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,10,89.47%*4,3.5788,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,11,96.85%*4,3.874,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,12,104.23%*4,4.1692,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,13,111.61%*4,4.4644,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,14,118.99%*4,4.7596,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,15,126.37%*4,5.0548,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,16,133.75%*4,5.35,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,17,141.13%*4,5.6452,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,18,148.51%*4,5.9404,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,19,155.89%*4,6.2356,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Damage,20,163.27%*4,6.5308,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,1,10%,0.1,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,2,10.82%,0.1082,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,3,11.64%,0.1164,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,4,12.79%,0.1279,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,5,13.61%,0.1361,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,6,14.56%,0.1456,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,7,15.87%,0.1587,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,8,17.18%,0.1718,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,9,18.49%,0.1849,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,10,19.89%,0.1989,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,11,21.53%,0.2153,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,12,23.17%,0.2317,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,13,24.81%,0.2481,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,14,26.45%,0.2645,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,15,28.09%,0.2809,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,16,29.73%,0.2973,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,17,31.37%,0.3137,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,18,33.01%,0.3301,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,19,34.65%,0.3465,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Damage,20,36.29%,0.3629,"[""Skill Damage""]"
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,1,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,2,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,3,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,4,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,5,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,6,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,7,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,8,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,9,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,10,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,11,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,12,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,13,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,14,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,15,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,16,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,17,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Execution Mode Duration,18,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,1,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,2,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,3,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,4,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,5,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,6,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,7,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,8,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,9,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,10,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,11,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,12,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,13,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,14,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,15,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,16,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,17,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,18,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,19,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Cooldown,20,12,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,1,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,2,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,3,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,4,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,5,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,6,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,7,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,8,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,9,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,10,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,11,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,12,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,13,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,14,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,15,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,16,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,17,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Magnetic Roar Concerto Regen,18,10,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,1,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,2,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,3,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,4,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,5,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,6,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,7,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,8,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,9,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,10,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,11,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,12,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,13,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,14,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,15,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,16,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,17,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Lightning Execution Concerto Regen,18,15,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,1,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,2,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,3,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,4,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,5,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,6,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,7,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,8,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,9,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,10,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,11,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,12,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,13,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,14,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,15,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,16,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,17,5,0.0,
+Yinlin,Magnetic Roar,Resonance Skill,Electromagnetic Blast Concerto Regen,18,5,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,1,58.63%*7,4.1041,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,2,63.44%*7,4.4408,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,3,68.25%*7,4.7775,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,4,74.98%*7,5.2486,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,5,79.79%*7,5.5853,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,6,85.32%*7,5.9724,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,7,93.01%*7,6.5107,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,8,100.7%*7,7.049,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,9,108.39%*7,7.5873,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,10,116.56%*7,8.1592,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,11,126.18%*7,8.8326,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,12,135.79%*7,9.5053,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,13,145.41%*7,10.1787,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,14,155.02%*7,10.8514,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,15,164.64%*7,11.5248,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,16,174.25%*7,12.1975,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,17,183.87%*7,12.8709,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,18,193.49%*7,13.5443,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,19,203.1%*7,14.217,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Ultimate DMG,20,212.72%*7,14.8904,"[""Liberation Damage""]"
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,1,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,2,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,3,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,4,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,5,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,6,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,7,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,8,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,9,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,10,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,11,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,12,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,13,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,14,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,15,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,16,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,17,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,18,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,19,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Cooldown,20,16,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,1,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,2,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,3,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,4,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,5,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,6,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,7,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,8,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,9,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,10,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,11,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,12,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,13,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,14,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,15,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,16,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,17,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Resonance Cost,18,125,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,1,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,2,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,3,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,4,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,5,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,6,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,7,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,8,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,9,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,10,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,11,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,12,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,13,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,14,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,15,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,16,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,17,20,0.0,
+Yinlin,Thundering Wrath,Resonance Liberation,Concerto Regen,18,20,0.0,
+Yinlin,Raging Storm,Intro Skill,Intro DMG,1,7.2%*10,0.72,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,2,7.8%*10,0.78,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,3,8.39%*10,0.839,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,4,9.21%*10,0.921,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,5,9.8%*10,0.98,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,6,10.48%*10,1.048,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,7,11.43%*10,1.143,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,8,12.37%*10,1.237,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,9,13.32%*10,1.332,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,10,14.32%*10,1.432,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,11,15.5%*10,1.55,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,12,16.68%*10,1.668,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,13,17.86%*10,1.786,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,14,19.04%*10,1.904,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,15,20.22%*10,2.022,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,16,21.4%*10,2.14,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,17,22.58%*10,2.258,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,18,23.77%*10,2.377,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,19,24.95%*10,2.495,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Intro DMG,20,26.13%*10,2.613,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,1,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,2,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,3,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,4,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,5,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,6,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,7,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,8,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,9,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,10,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,11,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,12,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,13,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,14,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,15,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,16,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,17,10,0.0,"[""Intro Damage""]"
+Yinlin,Raging Storm,Intro Skill,Concerto Regen,18,10,0.0,"[""Intro Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,1,90%*2,1.8,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,2,97.38%*2,1.9476,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,3,104.76%*2,2.0952,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,4,115.1%*2,2.302,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,5,122.48%*2,2.4496,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,6,130.96%*2,2.6192,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,7,142.77%*2,2.8554,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,8,154.58%*2,3.0916,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,9,166.39%*2,3.3278,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,10,178.93%*2,3.5786,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,11,193.69%*2,3.8738,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,12,208.45%*2,4.169,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,13,223.21%*2,4.4642,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,14,237.97%*2,4.7594,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,15,252.73%*2,5.0546,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,16,267.49%*2,5.3498,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,17,282.25%*2,5.645,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,18,297.01%*2,5.9402,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,19,311.77%*2,6.2354,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Chameleon Cipher Damage,20,326.53%*2,6.5306,"[""Heavy Attack Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,1,39.56%,0.3956,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,2,42.8%,0.428,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,3,46.05%,0.4605,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,4,50.59%,0.5059,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,5,53.83%,0.5383,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,6,57.56%,0.5756,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,7,62.75%,0.6275,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,8,67.94%,0.6794,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,9,73.13%,0.7313,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,10,78.64%,0.7864,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,11,85.13%,0.8513,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,12,91.62%,0.9162,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,13,98.1%,0.981,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,14,104.59%,1.0459,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,15,111.08%,1.1108,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,16,117.56%,1.1756,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,17,124.05%,1.2405,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,18,130.54%,1.3054,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,19,137.02%,1.3702,"[""Skill Damage""]"
+Yinlin,Chameleon Cipher,Forte Circuit,Judgment Strike Damage,20,143.51%,1.4351,"[""Skill Damage""]"

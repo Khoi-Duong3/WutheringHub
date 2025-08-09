@@ -11,8 +11,8 @@ def is_json_array(s) -> bool:
     except Exception:
         return False
 
-in_path  = "changli_motion_values.csv"
-out_path = "changli_motion_values_updated.csv"
+in_path  = "zhezhi_motion_values.csv"
+out_path = "zhezhi_motion_values_updated.csv"
 
 with open(in_path, newline="", encoding="utf-8") as f:
     rows = list(csv.DictReader(f))
@@ -22,18 +22,25 @@ for row in rows:
     attack_name = (row.get("attack_name") or "").strip()
 
     if not is_json_array(row.get("damage_type", "")):
-        if skill_type == "Normal Attack" and "Heavy" in attack_name:
+        if skill_type == "Normal Attack" and ("HA" in attack_name or "Aimed" in attack_name):
             row["damage_type"] = to_json_array(["Heavy Attack Damage"])
-        elif skill_type == "Normal Attack" and "DMG" in attack_name:
+
+        elif skill_type == "Normal Attack" and ("DMG" in attack_name):
             row["damage_type"] = to_json_array(["Basic Attack Damage"])
+
         elif skill_type == "Resonance Skill" and "DMG" in attack_name:
-            row["damage_type"] = to_json_array(["Skill Attack Damage"])
+            row["damage_type"] = to_json_array(["Skill Damage"])
+
         elif skill_type == "Resonance Liberation" and "DMG" in attack_name:
-            row["damage_type"] = to_json_array(["Liberation Damage"])
+            row["damage_type"] = to_json_array(["Basic Attack Damage"])
+
         elif skill_type == "Intro Skill" and "DMG" in attack_name:
             row["damage_type"] = to_json_array(["Intro Damage"])
+
         elif skill_type == "Forte Circuit" and "DMG" in attack_name:
-            row["damage_type"] = to_json_array(["Skill Damage"])
+            row["damage_type"] = to_json_array(["Basic Attack Damage"])
+
+        
 
 
 fieldnames = list(rows[0].keys())

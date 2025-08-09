@@ -1,0 +1,706 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,1,33.43%,0.3343,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,2,36.18%,0.3618,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,3,38.92%,0.3892,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,4,42.75%,0.4275,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,5,45.50%,0.455,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,6,48.65%,0.4865,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,7,53.03%,0.5303,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,8,57.42%,0.5742,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,9,61.81%,0.6181,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,10,66.47%,0.6647,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,11,71.95%,0.7195,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,12,77.43%,0.7743,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,13,82.91%,0.8291,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,14,88.40%,0.884,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,15,93.88%,0.9388,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,16,99.36%,0.9936,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,17,104.84%,1.0484,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,18,110.33%,1.1033,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 1 DMG,19,115.81%,1.1581,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,1,19.61%+9.81%*3,0.4904,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,2,21.22%+10.61%*3,0.5305,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,3,22.83%+11.42%*3,0.5709,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,4,25.08%+12.54%*3,0.627,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,5,26.69%+13.35%*3,0.6674,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,6,28.54%+14.27%*3,0.7135,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,7,31.11%+15.56%*3,0.7779,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,8,33.68%+16.84%*3,0.842,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,9,36.26%+18.13%*3,0.9065,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,10,38.99%+19.50%*3,0.9749,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,11,42.20%+21.10%*3,1.055,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,12,45.42%+22.71%*3,1.1355,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,13,48.64%+24.32%*3,1.216,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,14,51.85%+25.93%*3,1.2964,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,15,55.07%+27.54%*3,1.3769,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,16,58.28%+29.14%*3,1.457,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,17,61.50%+30.75%*3,1.5375,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,18,64.72%+32.36%*3,1.618,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 2 DMG,19,67.93%+33.97%*3,1.6984,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,1,5.36%*7+16.07%,0.5359,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,2,5.80%*7+17.39%,0.5799,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,3,6.24%*7+18.70%,0.6238,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,4,6.85%*7+20.55%,0.685,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,5,7.29%*7+21.86%,0.7289,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,6,7.80%*7+23.38%,0.7798,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,7,8.50%*7+25.49%,0.8499,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,8,9.20%*7+27.59%,0.9199,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,9,9.90%*7+29.70%,0.99,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,10,10.65%*7+31.94%,1.0649,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,11,11.53%*7+34.57%,1.1528,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,12,12.41%*7+37.21%,1.2408,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,13,13.28%*7+39.84%,1.328,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,14,14.16%*7+42.48%,1.416,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,15,15.04%*7+45.11%,1.5039,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,16,15.92%*7+47.75%,1.5919,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,17,16.80%*7+50.38%,1.6798,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,18,17.68%*7+53.02%,1.7678,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 3 DMG,19,18.55%*7+55.65%,1.855,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,1,31.74%+47.60%,0.7934,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,2,34.34%+51.51%,0.8585,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,3,36.94%+55.41%,0.9235,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,4,40.58%+60.87%,1.0145,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,5,43.19%+64.78%,1.0797,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,6,46.18%+69.26%,1.1544,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,7,50.34%+75.51%,1.2585,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,8,54.50%+81.75%,1.3625,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,9,58.67%+88.00%,1.4667,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,10,63.09%+94.63%,1.5772,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,11,68.29%+102.44%,1.7073,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,12,73.50%+110.25%,1.8375,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,13,78.70%+118.05%,1.9675,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,14,83.91%+125.86%,2.0977,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,15,89.11%+133.66%,2.2277,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,16,94.31%+141.47%,2.3578,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,17,99.52%+149.28%,2.488,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,18,104.72%+157.08%,2.618,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Stage 4 DMG,19,109.93%+164.89%,2.7482,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,1,12.00%*5+18.00%+42.00%,1.2,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,2,12.99%*5+19.48%+45.45%,1.2988,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,3,13.97%*5+20.96%+48.89%,1.397,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,4,15.35%*5+23.02%+53.71%,1.5348,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,5,16.33%*5+24.50%+57.16%,1.6331,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,6,17.47%*5+26.20%+61.12%,1.7467,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,7,19.04%*5+28.56%+66.63%,1.9039,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,8,20.61%*5+30.92%+72.14%,2.0611,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,9,22.19%*5+33.28%+77.65%,2.2188,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,10,23.86%*5+35.79%+83.51%,2.386,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,11,25.83%*5+38.74%+90.39%,2.5828,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,12,27.80%*5+41.69%+97.28%,2.7797,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,13,29.77%*5+44.65%+104.17%,2.9767,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,14,31.73%*5+47.60%+111.06%,3.1731,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,15,33.70%*5+50.55%+117.95%,3.37,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,16,35.67%*5+53.50%+124.83%,3.5668,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,17,37.64%*5+56.45%+131.72%,3.7637,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,18,39.61%*5+59.41%+138.61%,3.9607,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack DMG,19,41.57%*5+62.36%+145.50%,4.1571,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,1,6.20%+12.40%+43.40%,0.62,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,2,6.71%+13.42%+46.96%,0.6709,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,3,7.22%+14.44%+50.52%,0.7218,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,4,7.93%+15.86%+55.50%,0.7929,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,5,8.44%+16.88%+59.06%,0.8438,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,6,9.03%+18.05%+63.16%,0.9024,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,7,9.84%+19.68%+68.85%,0.9837,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,8,10.65%+21.30%+74.54%,1.0649,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,9,11.47%+22.93%+80.24%,1.1464,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,10,12.33%+24.66%+86.29%,1.2328,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,11,13.35%+26.69%+93.41%,1.3345,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,12,14.36%+28.72%+100.52%,1.436,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,13,15.38%+30.76%+107.64%,1.5378,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,14,16.40%+32.79%+114.76%,1.6395,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,15,17.42%+34.83%+121.88%,1.7413,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,16,18.43%+36.86%+128.99%,1.8428,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,17,19.45%+38.89%+136.11%,1.9445,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,18,20.47%+40.93%+143.23%,2.0463,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack DMG,19,21.48%+42.96%+150.35%,2.1479,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,1,7.38%*7+22.14%,0.738,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,2,7.99%*7+23.96%,0.7989,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,3,8.59%*7+25.77%,0.859,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,4,9.44%*7+28.32%,0.944,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,5,10.05%*7+30.13%,1.0048,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,6,10.74%*7+32.22%,1.074,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,7,11.71%*7+35.12%,1.1709,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,8,12.68%*7+38.03%,1.2679,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,9,13.65%*7+40.93%,1.3648,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,10,14.68%*7+44.02%,1.4678,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,11,15.89%*7+47.65%,1.5888,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,12,17.10%*7+51.28%,1.7098,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,13,18.31%*7+54.91%,1.8308,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,14,19.52%*7+58.54%,1.9518,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,15,20.73%*7+62.17%,2.0728,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,16,21.94%*7+65.80%,2.1938,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,17,23.15%*7+69.43%,2.3148,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,18,24.36%*7+73.06%,2.4358,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Dodge Counter DMG,19,25.57%*7+76.69%,2.5568,"[""Basic Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,1,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,2,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,3,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,4,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,5,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,6,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,7,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,8,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,9,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,10,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,11,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,12,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,13,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,14,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,15,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,16,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,17,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Heavy Attack STA Cost,18,25,0.0,"[""Heavy Attack Damage""]"
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Jinhsi,Slash of Breaking Dawn,Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,1,9.79%*4+39.15%,0.7831,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,2,10.60%*4+42.37%,0.8477,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,3,11.40%*4+45.58%,0.9118,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,4,12.52%*4+50.07%,1.0015,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,5,13.32%*4+53.28%,1.0656,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,6,14.25%*4+56.97%,1.1397,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,7,15.53%*4+62.11%,1.2423,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,8,16.82%*4+67.25%,1.3453,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,9,18.10%*4+72.38%,1.4478,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,10,19.46%*4+77.84%,1.5568,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,11,21.07%*4+84.26%,1.6854,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,12,22.67%*4+90.68%,1.8136,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,13,24.28%*4+97.10%,1.9422,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,14,25.88%*4+103.52%,2.0704,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,15,27.49%*4+109.94%,2.199,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,16,29.09%*4+116.36%,2.3272,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,17,30.70%*4+122.78%,2.4558,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,18,32.30%*4+129.20%,2.584,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Skill DMG,19,33.91%*4+135.62%,2.7126,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,1,4.96%*4+14.88%*4+19.84%,0.992,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,2,5.37%*4+16.11%*4+21.47%,1.0739,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,3,5.78%*4+17.33%*4+23.10%,1.1554,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,4,6.35%*4+19.03%*4+25.38%,1.269,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,5,6.75%*4+20.25%*4+27.00%,1.35,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,6,7.22%*4+21.66%*4+28.87%,1.4439,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,7,7.87%*4+23.61%*4+31.48%,1.574,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,8,8.52%*4+25.56%*4+34.08%,1.704,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,9,9.17%*4+27.51%*4+36.68%,1.834,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,10,9.87%*4+29.59%*4+39.45%,1.9729,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,11,10.68%*4+32.03%*4+42.70%,2.1354,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,12,11.49%*4+34.47%*4+45.96%,2.298,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,13,12.31%*4+36.91%*4+49.21%,2.4609,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,14,13.12%*4+39.35%*4+52.46%,2.6234,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,15,13.93%*4+41.79%*4+55.72%,2.786,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,16,14.75%*4+44.23%*4+58.97%,2.9489,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,17,15.56%*4+46.67%*4+62.23%,3.1115,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,18,16.37%*4+49.11%*4+65.48%,3.274,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance DMG,19,17.19%*4+51.55%*4+68.73%,3.4369,"[""Skill Damage""]"
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,1,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,2,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,3,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,4,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,5,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,6,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,7,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,8,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,9,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,10,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,11,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,12,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,13,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,14,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,15,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,16,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,17,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Incarnation Duration,18,10,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,1,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,2,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,3,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,4,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,5,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,6,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,7,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,8,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,9,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,10,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,11,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,12,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,13,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,14,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,15,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,16,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,17,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Cooldown,18,3,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,1,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,2,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,3,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,4,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,5,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,6,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,7,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,8,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,9,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,10,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,11,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,12,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,13,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,14,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,15,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,16,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,17,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Cooldown,18,12,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,1,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,2,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,3,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,4,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,5,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,6,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,7,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,8,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,9,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,10,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,11,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,12,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,13,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,14,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,15,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,16,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,17,4,0.0,
+Jinhsi,Trailing Lights of Eons,Resonance Skill,Overflowing Radiance Concerto Regen,18,4,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,1,251.40%+586.60%,8.38,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,2,272.02%+634.71%,9.0673,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,3,292.63%+682.81%,9.7544,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,4,321.50%+750.15%,10.7165,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,5,342.11%+798.25%,11.4036,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,6,365.82%+853.57%,12.1939,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,7,398.80%+930.53%,13.2933,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,8,431.78%+1007.49%,14.3927,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,9,464.77%+1084.45%,15.4922,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,10,499.81%+1166.22%,16.6603,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,11,541.04%+1262.43%,18.0347,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,12,582.27%+1358.63%,19.409,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,13,623.50%+1454.83%,20.7833,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,14,664.73%+1551.03%,22.1576,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,15,705.96%+1647.24%,23.532,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,16,747.19%+1743.44%,24.9063,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,17,788.42%+1839.64%,26.2806,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,18,829.65%+1935.84%,27.6549,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Ultimate DMG,19,870.88%+2032.05%,29.0293,"[""Liberation Damage""]"
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,1,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,2,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,3,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,4,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,5,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,6,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,7,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,8,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,9,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,10,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,11,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,12,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,13,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,14,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,15,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,16,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,17,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Cooldown,18,24,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,1,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,2,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,3,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,4,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,5,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,6,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,7,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,8,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,9,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,10,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,11,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,12,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,13,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,14,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,15,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,16,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,17,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Resonance Cost,18,150,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,1,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,2,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,3,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,4,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,5,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,6,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,7,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,8,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,9,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,10,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,11,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,12,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,13,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,14,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,15,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,16,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,17,20,0.0,
+Jinhsi,Purge of Light,Resonance Liberation,Concerto Regen,18,20,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,1,80.00%,0.8,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,2,86.56%,0.8656,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,3,93.12%,0.9312,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,4,102.31%,1.0231,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,5,108.87%,1.0887,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,6,116.41%,1.1641,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,7,126.91%,1.2691,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,8,137.40%,1.374,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,9,147.90%,1.479,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,10,159.05%,1.5905,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,11,172.17%,1.7217,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,12,185.29%,1.8529,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,13,198.41%,1.9841,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,14,211.53%,2.1153,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,15,224.65%,2.2465,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,16,237.77%,2.3777,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,17,250.89%,2.5089,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,18,264.01%,2.6401,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Intro DMG,19,277.13%,2.7713,"[""Intro Damage""]"
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,1,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,2,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,3,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,4,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,5,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,6,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,7,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,8,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,9,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,10,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,11,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,12,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,13,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,14,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,15,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,16,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,17,10,0.0,
+Jinhsi,Loong's Halo,Intro Skill,Concerto Regen,18,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,1,44.58%,0.4458,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,2,48.23%,0.4823,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,3,51.89%,0.5189,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,4,57.00%,0.57,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,5,60.66%,0.6066,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,6,64.86%,0.6486,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,7,70.71%,0.7071,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,8,76.56%,0.7656,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,9,82.41%,0.8241,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,10,88.62%,0.8862,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,11,95.93%,0.9593,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,12,103.24%,1.0324,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,13,110.55%,1.1055,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,14,117.86%,1.1786,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,15,125.17%,1.2517,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,16,132.48%,1.3248,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,17,139.79%,1.3979,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,18,147.10%,1.471,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 1 DMG,19,154.41%,1.5441,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,1,39.22%+13.08%+13.08%,0.6538,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,2,42.44%+14.15%+14.15%,0.7074,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,3,45.65%+15.22%+15.22%,0.7609,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,4,50.16%+16.72%+16.72%,0.836,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,5,53.37%+17.79%+17.79%,0.8895,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,6,57.07%+19.03%+19.03%,0.9513,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,7,62.22%+20.74%+20.74%,1.037,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,8,67.36%+22.46%+22.46%,1.1228,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,9,72.51%+24.17%+24.17%,1.2085,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,10,77.97%+25.99%+25.99%,1.2995,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,11,84.40%+28.14%+28.14%,1.4068,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,12,90.84%+30.28%+30.28%,1.514,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,13,97.27%+32.43%+32.43%,1.6213,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,14,103.70%+34.57%+34.57%,1.7284,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,15,110.13%+36.71%+36.71%,1.8355,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,16,116.56%+38.86%+38.86%,1.9428,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,17,123.00%+41.00%+41.00%,2.05,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,18,129.43%+43.15%+43.15%,2.1573,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 2 DMG,19,135.86%+45.29%+45.29%,2.2644,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,1,50.02%+33.35%,0.8337,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,2,54.12%+36.08%,0.902,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,3,58.23%+38.82%,0.9705,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,4,63.97%+42.65%,1.0662,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,5,68.07%+45.38%,1.1345,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,6,72.79%+48.53%,1.2132,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,7,79.35%+52.90%,1.3225,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,8,85.91%+57.28%,1.4319,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,9,92.47%+61.65%,1.5412,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,10,99.44%+66.30%,1.6574,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,11,107.65%+71.77%,1.7942,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,12,115.85%+77.24%,1.9309,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,13,124.05%+82.70%,2.0675,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,14,132.26%+88.17%,2.2043,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,15,140.46%+93.64%,2.341,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,16,148.66%+99.11%,2.4777,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,17,156.86%+104.58%,2.6144,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,18,165.07%+110.05%,2.7512,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 3 DMG,19,173.27%+115.52%,2.8879,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,1,9.39%*6+37.56%,0.939,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,2,10.16%*6+40.64%,1.016,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,3,10.93%*6+43.72%,1.093,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,4,12.01%*6+48.03%,1.2009,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,5,12.78%*6+51.11%,1.2779,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,6,13.67%*6+54.65%,1.3667,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,7,14.90%*6+59.58%,1.4898,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,8,16.13%*6+64.51%,1.6129,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,9,17.36%*6+69.44%,1.736,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,10,18.67%*6+74.67%,1.8669,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,11,20.21%*6+80.83%,2.0209,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,12,21.75%*6+86.99%,2.1749,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,13,23.29%*6+93.15%,2.3289,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,14,24.83%*6+99.31%,2.4829,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,15,26.37%*6+105.47%,2.6369,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,16,27.91%*6+111.63%,2.7909,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,17,29.45%*6+117.79%,2.9449,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,18,30.99%*6+123.95%,3.0989,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Basic Attack 4 DMG,19,32.53%*6+130.11%,3.2529,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,1,24.00%+56.00%,0.8,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,2,25.97%+60.60%,0.8657,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,3,27.94%+65.19%,0.9313,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,4,30.70%+71.62%,1.0232,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,5,32.66%+76.21%,1.0887,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,6,34.93%+81.49%,1.1642,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,7,38.08%+88.84%,1.2692,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,8,41.22%+96.18%,1.374,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,9,44.37%+103.53%,1.479,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,10,47.72%+111.34%,1.5906,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,11,51.66%+120.52%,1.7218,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,12,55.59%+129.71%,1.853,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,13,59.53%+138.89%,1.9842,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,14,63.46%+148.07%,2.1153,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,15,67.40%+157.26%,2.2466,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,16,71.34%+166.44%,2.3778,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,17,75.27%+175.63%,2.509,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,18,79.21%+184.81%,2.6402,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack DMG,19,83.14%+193.99%,2.7713,"[""Heavy Attack Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,1,22.08%+16.56%*2+55.19%,1.1039,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,2,23.89%+17.92%*2+59.71%,1.1944,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,3,25.70%+19.27%*2+64.24%,1.2848,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,4,28.23%+21.17%*2+70.57%,1.4114,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,5,30.04%+22.53%*2+75.10%,1.502,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,6,32.12%+24.09%*2+80.30%,1.606,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,7,35.02%+26.27%*2+87.54%,1.751,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,8,37.91%+28.44%*2+94.78%,1.8957,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,9,40.81%+30.61%*2+102.02%,2.0405,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,10,43.89%+32.92%*2+109.71%,2.1944,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,11,47.51%+35.63%*2+118.76%,2.3753,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,12,51.13%+38.35%*2+127.81%,2.5564,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,13,54.75%+41.06%*2+136.86%,2.7373,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,14,58.37%+43.78%*2+145.91%,2.9184,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,15,61.99%+46.49%*2+154.96%,3.0993,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,16,65.61%+49.21%*2+164.01%,3.2804,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,17,69.23%+51.92%*2+173.06%,3.4613,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,18,72.85%+54.64%*2+182.11%,3.6424,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge Counter DMG,19,76.47%+57.35%*2+191.16%,3.8233,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,1,50.68%+38.01%*2+126.70%,2.534,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,2,54.84%+41.13%*2+137.09%,2.7419,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,3,59.00%+44.25%*2+147.48%,2.9498,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,4,64.81%+48.61%*2+162.03%,3.2406,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,5,68.97%+51.73%*2+172.42%,3.4485,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,6,73.75%+55.31%*2+184.37%,3.6874,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,7,80.40%+60.30%*2+200.99%,4.0199,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,8,87.05%+65.29%*2+217.61%,4.3524,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,9,93.70%+70.27%*2+234.24%,4.6848,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,10,100.76%+75.57%*2+251.90%,5.038,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,11,109.07%+81.81%*2+272.68%,5.4537,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,12,117.38%+88.04%*2+293.45%,5.8691,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,13,125.70%+94.27%*2+314.23%,6.2847,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,14,134.01%+100.51%*2+335.01%,6.7004,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,15,142.32%+106.74%*2+355.79%,7.1159,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,16,150.63%+112.97%*2+376.57%,7.5314,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,17,158.94%+119.21%*2+397.35%,7.9471,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,18,167.25%+125.44%*2+418.13%,8.3626,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity DMG,19,175.57%+131.68%*2+438.91%,8.7784,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,1,10.00%*6,0.6,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,2,10.82%*6,0.6492,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,3,11.64%*6,0.6984,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,4,12.79%*6,0.7674,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,5,13.61%*6,0.8166,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,6,14.56%*6,0.8736,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,7,15.87%*6,0.9522,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,8,17.18%*6,1.0308,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,9,18.49%*6,1.1094,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,10,19.89%*6,1.1934,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,11,21.53%*6,1.2918,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,12,23.17%*6,1.3902,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,13,24.81%*6,1.4886,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,14,26.45%*6,1.587,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,15,28.09%*6,1.6854,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,16,29.73%*6,1.7838,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,17,31.37%*6,1.8822,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,18,33.01%*6,1.9806,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Solar Flare DMG,19,34.65%*6,2.079,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,1,175.00%,1.75,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,2,189.35%,1.8935,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,3,203.70%,2.037,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,4,223.79%,2.2379,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,5,238.14%,2.3814,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,6,254.65%,2.5465,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,7,277.61%,2.7761,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,8,300.57%,3.0057,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,9,323.53%,3.2353,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,10,347.92%,3.4792,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,11,376.62%,3.7662,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,12,405.32%,4.0532,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,13,434.02%,4.3402,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,14,462.72%,4.6272,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,15,491.42%,4.9142,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,16,520.12%,5.2012,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,17,548.82%,5.4882,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,18,577.52%,5.7752,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany: Stella Glamor DMG,19,606.22%,6.0622,"[""Skill Damage""]"
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,1,22.40%,0.224,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,2,24.24%,0.2424,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,3,26.08%,0.2608,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,4,28.65%,0.2865,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,5,30.49%,0.3049,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,6,32.60%,0.326,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,7,35.54%,0.3554,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,8,38.48%,0.3848,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,9,41.42%,0.4142,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,10,44.54%,0.4454,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,11,48.21%,0.4821,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,12,51.89%,0.5189,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,13,55.56%,0.5556,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,14,59.23%,0.5923,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,15,62.91%,0.6291,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,16,66.58%,0.6658,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,17,70.25%,0.7025,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,18,73.93%,0.7393,
+Jinhsi,Luminal Synthesis,Forte Circuit,Additional multiplier per Incandescence,19,77.60%,0.776,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,1,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,2,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,3,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,4,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,5,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,6,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,7,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,8,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,9,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,10,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,11,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,12,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,13,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,14,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,15,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,16,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,17,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Heavy Attack STA Cost,18,30,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,1,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,2,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,3,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,4,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,5,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,6,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,7,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,8,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,9,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,10,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,11,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,12,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,13,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,14,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,15,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,16,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,17,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Incarnation - Dodge STA Cost,18,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,1,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,2,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,3,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,4,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,5,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,6,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,7,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,8,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,9,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,10,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,11,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,12,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,13,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,14,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,15,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,16,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,17,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Ordination Glow Duration,18,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,1,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,2,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,3,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,4,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,5,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,6,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,7,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,8,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,9,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,10,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,11,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,12,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,13,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,14,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,15,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,16,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,17,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Unison Duration,18,5,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,1,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,2,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,3,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,4,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,5,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,6,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,7,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,8,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,9,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,10,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,11,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,12,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,13,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,14,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,15,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,16,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,17,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Cooldown,18,10,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,1,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,2,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,3,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,4,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,5,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,6,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,7,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,8,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,9,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,10,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,11,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,12,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,13,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,14,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,15,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,16,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,17,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Crescent Divinity Concerto Regen,18,8,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,1,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,2,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,3,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,4,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,5,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,6,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,7,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,8,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,9,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,10,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,11,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,12,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,13,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,14,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,15,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,16,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,17,20,0.0,
+Jinhsi,Luminal Synthesis,Forte Circuit,Illuminous Epiphany Concerto Regen,18,20,0.0,

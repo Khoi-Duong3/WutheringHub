@@ -1,0 +1,555 @@
+character_id,skill_name,skill_type,attack_name,level,raw_value,total_motion_value,damage_type
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,1,30.00%,0.3,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,2,32.46%,0.3246,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,3,34.92%,0.3492,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,4,38.37%,0.3837,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,5,40.83%,0.4083,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,6,43.66%,0.4366,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,7,47.59%,0.4759,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,8,51.53%,0.5153,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,9,55.47%,0.5547,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,10,59.65%,0.5965,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,11,64.57%,0.6457,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,12,69.49%,0.6949,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,13,74.41%,0.7441,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,14,79.33%,0.7933,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,15,84.25%,0.8425,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,16,89.17%,0.8917,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,17,94.09%,0.9409,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,18,99.01%,0.9901,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,19,103.93%,1.0393,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 1 DMG,20,108.85%,1.0885,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,1,40.00%,0.4,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,2,43.28%,0.4328,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,3,46.56%,0.4656,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,4,51.16%,0.5116,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,5,54.44%,0.5444,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,6,58.21%,0.5821,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,7,63.46%,0.6346,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,8,68.70%,0.687,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,9,73.95%,0.7395,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,10,79.53%,0.7953,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,11,86.09%,0.8609,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,12,92.65%,0.9265,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,13,99.21%,0.9921,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,14,105.77%,1.0577,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,15,112.33%,1.1233,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,16,118.89%,1.1889,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,17,125.45%,1.2545,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,18,132.01%,1.3201,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,19,138.57%,1.3857,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 2 DMG,20,145.13%,1.4513,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,1,36.65%*2,0.733,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,2,39.66%*2,0.7932,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,3,42.67%*2,0.8534,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,4,46.87%*2,0.9374,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,5,49.88%*2,0.9976,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,6,53.33%*2,1.0666,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,7,58.14%*2,1.1628,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,8,62.95%*2,1.259,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,9,67.76%*2,1.3552,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,10,72.87%*2,1.4574,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,11,78.88%*2,1.5776,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,12,84.89%*2,1.6978,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,13,90.90%*2,1.818,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,14,96.91%*2,1.9382,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,15,102.92%*2,2.0584,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,16,108.93%*2,2.1786,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,17,114.94%*2,2.2988,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,18,120.95%*2,2.419,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,19,126.96%*2,2.5392,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 3 DMG,20,132.97%*2,2.6594,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,1,10.27%*5+21.99%,0.7334,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,2,11.11%*5+23.80%,0.7935,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,3,11.95%*5+25.60%,0.8535,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,4,13.13%*5+28.13%,0.9378,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,5,13.97%*5+29.93%,0.9978,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,6,14.94%*5+32.00%,1.067,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,7,16.28%*5+34.89%,1.1629,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,8,17.63%*5+37.77%,1.2592,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,9,18.98%*5+40.66%,1.3556,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,10,20.41%*5+43.72%,1.4577,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,11,22.09%*5+47.33%,1.5778,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,12,23.77%*5+50.94%,1.6979,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,13,25.46%*5+54.54%,1.8184,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,14,27.14%*5+58.15%,1.9385,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,15,28.82%*5+61.76%,2.0586,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,16,30.50%*5+65.36%,2.1786,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,17,32.19%*5+68.97%,2.2992,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,18,33.87%*5+72.57%,2.4192,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,19,35.55%*5+76.18%,2.5393,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 4 DMG,20,37.24%*5+79.79%,2.6599,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,1,76.70%,0.767,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,2,82.99%,0.8299,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,3,89.28%,0.8928,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,4,98.09%,0.9809,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,5,104.38%,1.0438,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,6,111.61%,1.1161,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,7,121.67%,1.2167,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,8,131.74%,1.3174,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,9,141.80%,1.418,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,10,152.49%,1.5249,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,11,165.07%,1.6507,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,12,177.65%,1.7765,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,13,190.23%,1.9023,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,14,202.81%,2.0281,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,15,215.39%,2.1539,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,16,227.97%,2.2797,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,17,240.54%,2.4054,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,18,253.12%,2.5312,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,19,265.70%,2.657,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Stage 5 DMG,20,278.28%,2.7828,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,1,40.00%*2,0.8,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,2,43.28%*2,0.8656,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,3,46.56%*2,0.9312,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,4,51.16%*2,1.0232,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,5,54.44%*2,1.0888,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,6,58.21%*2,1.1642,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,7,63.46%*2,1.2692,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,8,68.70%*2,1.374,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,9,73.95%*2,1.479,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,10,79.53%*2,1.5906,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,11,86.09%*2,1.7218,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,12,92.65%*2,1.853,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,13,99.21%*2,1.9842,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,14,105.77%*2,2.1154,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,15,112.33%*2,2.2466,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,16,118.89%*2,2.3778,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,17,125.45%*2,2.509,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,18,132.01%*2,2.6402,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,19,138.57%*2,2.7714,
+Lingyang,Majestic Fists,Normal Attack,Feral Roars Damage,20,145.13%*2,2.9026,
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,1,73.30%,0.733,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,2,79.32%,0.7932,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,3,85.33%,0.8533,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,4,93.74%,0.9374,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,5,99.75%,0.9975,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,6,106.66%,1.0666,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,7,116.28%,1.1628,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,8,125.90%,1.259,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,9,135.51%,1.3551,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,10,145.73%,1.4573,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,11,157.75%,1.5775,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,12,169.78%,1.6978,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,13,181.80%,1.818,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,14,193.82%,1.9382,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,15,205.84%,2.0584,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,16,217.86%,2.1786,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,17,229.88%,2.2988,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,18,241.90%,2.419,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,19,253.92%,2.5392,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack DMG,20,265.94%,2.6594,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,1,62.00%,0.62,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,2,67.09%,0.6709,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,3,72.17%,0.7217,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,4,79.29%,0.7929,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,5,84.37%,0.8437,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,6,90.22%,0.9022,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,7,98.36%,0.9836,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,8,106.49%,1.0649,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,9,114.62%,1.1462,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,10,123.27%,1.2327,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,11,133.44%,1.3344,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,12,143.60%,1.436,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,13,153.77%,1.5377,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,14,163.94%,1.6394,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,15,174.11%,1.7411,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,16,184.28%,1.8428,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,17,194.44%,1.9444,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,18,204.61%,2.0461,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,19,214.78%,2.1478,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack DMG,20,224.95%,2.2495,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,1,63.40%*2,1.268,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,2,68.60%*2,1.372,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,3,73.80%*2,1.476,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,4,81.08%*2,1.6216,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,5,86.28%*2,1.7256,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,6,92.26%*2,1.8452,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,7,100.58%*2,2.0116,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,8,108.89%*2,2.1778,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,9,117.21%*2,2.3442,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,10,126.05%*2,2.521,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,11,136.45%*2,2.729,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,12,146.85%*2,2.937,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,13,157.24%*2,3.1448,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,14,167.64%*2,3.3528,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,15,178.04%*2,3.5608,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,16,188.44%*2,3.7688,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,17,198.83%*2,3.9766,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,18,209.23%*2,4.1846,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,19,219.63%*2,4.3926,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Dodge Counter DMG,20,230.03%*2,4.6006,"[""Basic Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,1,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,2,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,3,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,4,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,5,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,6,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,7,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,8,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,9,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,10,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,11,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,12,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,13,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,14,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,15,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,16,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,17,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,18,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,19,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Heavy Attack STA Cost,20,25,0.0,"[""Heavy Attack Damage""]"
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,1,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,2,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,3,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,4,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,5,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,6,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,7,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,8,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,9,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,10,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,11,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,12,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,13,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,14,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,15,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,16,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,17,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,18,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,19,30,0.0,
+Lingyang,Majestic Fists,Normal Attack,Mid-air Attack STA Cost,20,30,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,1,66.70%,0.667,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,2,72.17%,0.7217,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,3,77.64%,0.7764,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,4,85.30%,0.853,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,5,90.77%,0.9077,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,6,97.06%,0.9706,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,7,105.81%,1.0581,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,8,114.56%,1.1456,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,9,123.31%,1.2331,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,10,132.61%,1.3261,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,11,143.55%,1.4355,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,12,154.49%,1.5449,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,13,165.43%,1.6543,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,14,176.37%,1.7637,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,15,187.31%,1.8731,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,16,198.24%,1.9824,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,17,209.18%,2.0918,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,18,220.12%,2.2012,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,19,231.06%,2.3106,
+Lingyang,Ancient Arts,Resonance Skill,Ancient Arts Damage,20,242.00%,2.42,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,1,38.35%*2,0.767,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,2,41.50%*2,0.83,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,3,44.64%*2,0.8928,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,4,49.05%*2,0.981,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,5,52.19%*2,1.0438,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,6,55.81%*2,1.1162,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,7,60.84%*2,1.2168,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,8,65.87%*2,1.3174,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,9,70.90%*2,1.418,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,10,76.25%*2,1.525,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,11,82.54%*2,1.6508,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,12,88.83%*2,1.7766,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,13,95.12%*2,1.9024,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,14,101.41%*2,2.0282,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,15,107.70%*2,2.154,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,16,113.99%*2,2.2798,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,17,120.27%*2,2.4054,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,18,126.56%*2,2.5312,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,19,132.85%*2,2.657,
+Lingyang,Ancient Arts,Resonance Skill,Furious Punches Damage,20,139.14%*2,2.7828,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,1,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,2,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,3,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,4,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,5,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,6,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,7,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,8,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,9,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,10,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,11,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,12,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,13,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,14,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,15,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,16,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,17,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,18,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,19,0,0.0,
+Lingyang,Ancient Arts,Resonance Skill,Cooldown,20,0,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,1,200.00%,2.0,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,2,216.40%,2.164,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,3,232.80%,2.328,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,4,255.76%,2.5576,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,5,272.16%,2.7216,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,6,291.02%,2.9102,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,7,317.26%,3.1726,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,8,343.50%,3.435,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,9,369.74%,3.6974,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,10,397.62%,3.9762,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,11,430.42%,4.3042,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,12,463.22%,4.6322,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,13,496.02%,4.9602,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,14,528.82%,5.2882,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,15,561.62%,5.6162,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,16,594.42%,5.9442,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,17,627.22%,6.2722,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,18,660.02%,6.6002,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,19,692.82%,6.9282,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Ultimate DMG,20,725.62%,7.2562,"[""Liberation Damage""]"
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,1,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,2,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,3,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,4,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,5,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,6,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,7,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,8,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,9,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,10,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,11,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,12,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,13,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,14,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,15,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,16,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,17,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,18,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,19,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Lion's Vigor Duration,20,14,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,1,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,2,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,3,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,4,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,5,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,6,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,7,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,8,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,9,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,10,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,11,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,12,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,13,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,14,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,15,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,16,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,17,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,18,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,19,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Cooldown,20,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,1,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,2,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,3,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,4,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,5,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,6,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,7,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,8,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,9,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,10,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,11,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,12,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,13,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,14,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,15,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,16,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,17,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,18,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,19,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Resonance Cost,20,125,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,1,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,2,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,3,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,4,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,5,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,6,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,7,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,8,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,9,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,10,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,11,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,12,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,13,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,14,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,15,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,16,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,17,20,0.0,
+Lingyang,Strive: Lion's Vigor,Resonance Liberation,Concerto Regen,18,20,0.0,
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,1,50.00%*2,1.0,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,2,54.10%*2,1.082,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,3,58.20%*2,1.164,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,4,63.94%*2,1.2788,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,5,68.04%*2,1.3608,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,6,72.76%*2,1.4552,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,7,79.32%*2,1.5864,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,8,85.88%*2,1.7176,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,9,92.44%*2,1.8488,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,10,99.41%*2,1.9882,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,11,107.61%*2,2.1522,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,12,115.81%*2,2.3162,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,13,124.01%*2,2.4802,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,14,132.21%*2,2.6442,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,15,140.41%*2,2.8082,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,16,148.61%*2,2.9722,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,17,156.81%*2,3.1362,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,18,165.01%*2,3.3002,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,19,173.21%*2,3.4642,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Intro DMG,20,181.41%*2,3.6282,"[""Intro Damage""]"
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,1,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,2,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,3,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,4,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,5,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,6,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,7,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,8,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,9,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,10,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,11,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,12,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,13,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,14,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,15,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,16,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,17,10,0.0,
+Lingyang,Lion Awakens,Intro Skill,Concerto Regen,18,10,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,1,86.70%,0.867,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,2,93.81%,0.9381,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,3,100.92%,1.0092,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,4,110.88%,1.1088,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,5,117.99%,1.1799,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,6,126.16%,1.2616,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,7,137.54%,1.3754,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,8,148.91%,1.4891,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,9,160.29%,1.6029,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,10,172.37%,1.7237,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,11,186.59%,1.8659,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,12,200.81%,2.0081,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,13,215.03%,2.1503,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,14,229.25%,2.2925,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,15,243.47%,2.4347,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,16,257.69%,2.5769,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,17,271.90%,2.719,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,18,286.12%,2.8612,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,19,300.34%,3.0034,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Glorious Plunge Damage,20,314.56%,3.1456,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,1,43.80%*2+58.40%,1.46,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,2,47.40%*2+63.19%,1.5799,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,3,50.99%*2+67.98%,1.6996,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,4,56.02%*2+74.69%,1.8673,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,5,59.61%*2+79.48%,1.987,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,6,63.74%*2+84.98%,2.1246,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,7,69.48%*2+92.64%,2.316,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,8,75.23%*2+100.31%,2.5077,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,9,80.98%*2+107.97%,2.6993,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,10,87.08%*2+116.11%,2.9027,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,11,94.27%*2+125.69%,3.1423,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,12,101.45%*2+135.27%,3.3817,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,13,108.63%*2+144.84%,3.621,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,14,115.82%*2+154.42%,3.8606,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,15,123.00%*2+164.00%,4.1,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,16,130.18%*2+173.58%,4.3394,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,17,137.37%*2+183.15%,4.5789,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,18,144.55%*2+192.73%,4.8183,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,19,151.73%*2+202.31%,5.0577,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 1 DMG,20,158.92%*2+211.89%,5.2973,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,1,15.98%*6,0.9588,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,2,17.29%*6,1.0374,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,3,18.60%*6,1.116,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,4,20.44%*6,1.2264,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,5,21.75%*6,1.305,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,6,23.26%*6,1.3956,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,7,25.35%*6,1.521,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,8,27.45%*6,1.647,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,9,29.55%*6,1.773,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,10,31.77%*6,1.9062,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,11,34.39%*6,2.0634,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,12,37.01%*6,2.2206,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,13,39.63%*6,2.3778,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,14,42.26%*6,2.5356,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,15,44.88%*6,2.6928,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,16,47.50%*6,2.85,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,17,50.12%*6,3.0072,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,18,52.74%*6,3.1644,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,19,55.36%*6,3.3216,
+Lingyang,Unification of Spirits,Forte Circuit,Feral Gyrate Stage 2 DMG,20,57.98%*6,3.4788,
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,1,41.69%*2,0.8338,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,2,45.11%*2,0.9022,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,3,48.53%*2,0.9706,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,4,53.31%*2,1.0662,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,5,56.73%*2,1.1346,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,6,60.66%*2,1.2132,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,7,66.13%*2,1.3226,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,8,71.60%*2,1.432,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,9,77.07%*2,1.5414,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,10,82.88%*2,1.6576,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,11,89.72%*2,1.7944,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,12,96.56%*2,1.9312,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,13,103.39%*2,2.0678,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,14,110.23%*2,2.2046,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,15,117.07%*2,2.3414,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,16,123.90%*2,2.478,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,17,130.74%*2,2.6148,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,18,137.58%*2,2.7516,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,19,144.41%*2,2.8882,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Mountain Roamer Damage,20,151.25%*2,3.025,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,1,18.13%*8+96.65%,2.4169,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,2,19.61%*8+104.58%,2.6146,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,3,21.10%*8+112.51%,2.8131,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,4,23.18%*8+123.60%,3.0904,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,5,24.67%*8+131.53%,3.2889,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,6,26.37%*8+140.64%,3.516,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,7,28.75%*8+153.32%,3.8332,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,8,31.13%*8+166.00%,4.1504,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,9,33.51%*8+178.68%,4.4676,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,10,36.03%*8+192.15%,4.8039,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,11,39.01%*8+208.01%,5.2009,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,12,41.98%*8+223.86%,5.597,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,13,44.95%*8+239.71%,5.9931,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,14,47.92%*8+255.56%,6.3892,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,15,50.89%*8+271.41%,6.7853,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,16,53.87%*8+287.26%,7.1822,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,17,56.84%*8+303.11%,7.5783,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,18,59.81%*8+318.96%,7.9744,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,19,62.78%*8+334.81%,8.3705,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Stormy Kicks Damage,20,65.75%*8+350.66%,8.7666,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,1,88.00%*2,1.76,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,2,95.22%*2,1.9044,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,3,102.44%*2,2.0488,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,4,112.54%*2,2.2508,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,5,119.76%*2,2.3952,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,6,128.05%*2,2.561,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,7,139.60%*2,2.792,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,8,151.14%*2,3.0228,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,9,162.69%*2,3.2538,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,10,174.96%*2,3.4992,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,11,189.39%*2,3.7878,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,12,203.82%*2,4.0764,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,13,218.25%*2,4.365,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,14,232.69%*2,4.6538,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,15,247.12%*2,4.9424,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,16,261.55%*2,5.231,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,17,275.98%*2,5.5196,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,18,290.41%*2,5.8082,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,19,304.85%*2,6.097,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,Tail Strike Damage,20,319.28%*2,6.3856,"[""Basic Attack Damage""]"
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",1,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",2,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",3,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",4,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",5,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",6,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",7,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",8,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",9,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",10,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",11,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",12,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",13,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",14,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",15,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",16,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",17,35,0.0,
+Lingyang,Unification of Spirits,Forte Circuit,"""Lion's Spirit"" Concerto Regen",18,35,0.0,
