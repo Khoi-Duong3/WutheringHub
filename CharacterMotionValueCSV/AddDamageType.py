@@ -44,7 +44,7 @@ for row in rows:
 
 
 fieldnames = list(rows[0].keys())
-if "damage_type" not in fieldnames:
+if "damage_type" not in fieldnames: 
     fieldnames.append("damage_type")
 
 with open(out_path, "w", newline="", encoding="utf-8") as f:
