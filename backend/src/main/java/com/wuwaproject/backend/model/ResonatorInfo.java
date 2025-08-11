@@ -3,7 +3,7 @@ package com.wuwaproject.backend.model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "\"CharacterInfo\"") 
+@Table(name = "\"character_info\"") 
 public class ResonatorInfo {
 
   @Id
