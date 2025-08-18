@@ -2,7 +2,7 @@ export type EchoStat = | "atk" | "atk%" | "hp" | "hp%"
                 | "def" | "def%" | "critRate" | "critDmg" 
                 | "basicDmgBonus" | "skillDmgBonus" | "heavyDmgBonus" | "liberationDmgBonus"
                 | "glacioDmgBonus" | "fusionDmgBonus" | "electroDmgBonus" | "aeroDmgBonus"
-                | "spectroDmgBonus" | "havocDmgBonus" | "energyRegen" | ""
+                | "spectroDmgBonus" | "havocDmgBonus" | "energyRegen" | "healingBonus" | ""
 
 
 export type AttackType =
