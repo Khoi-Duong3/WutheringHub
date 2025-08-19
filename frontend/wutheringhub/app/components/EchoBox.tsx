@@ -6,6 +6,8 @@ import { EchoStat } from "@/lib/types";
 export type EchoCost = 1 | 3 | 4;
 export type StatKey = EchoStat | "";
 
+type SetOption = { value: string; label: string; icon?: string };
+
 export interface EchoMeta {
 	id: number;
 	name: string;
@@ -92,24 +94,49 @@ interface ValueFieldProps {
 }
 
 function ValueField({ stat, value, onChange, id, placeholder }: ValueFieldProps) {
-	const tiers = stat ? ROLL_TIERS[stat as EchoStat] : undefined;
-	if (tiers?.length) {
-		return (
+  if (!stat) {
+    return (
+      <div
+        id={id}
+        className="w-full rounded-lg border border-gray-700 bg-gray-900 px-3 py-2 text-sm text-gray-400"
+      >
+        —
+      </div>
+    );
+  }
+
+  const tiers = ROLL_TIERS[stat as EchoStat];
+  if (tiers?.length) {
+    return (
+		<div className="relative">
 			<select
 				id={id}
-				className="w-full rounded-lg border border-gray-700 bg-gray-900 px-3 py-2 text-sm text-gray-100 focus:outline-none focus:ring-2 focus:ring-indigo-500"
+				className="w-full appearance-none rounded-lg border border-gray-700 bg-gray-900 px-3 py-2 pr-8 text-sm text-gray-100 focus:outline-none focus:ring-2 focus:ring-indigo-500"
 				value={value}
 				onChange={(e) => onChange(Number(e.target.value))}
-			>
-				<option value={0}>— select —</option>
+				>
+				<option value={0}>0%</option>
 				{tiers.map((t) => (
-					<option key={t} value={t}>{format(stat, t)}</option>
+					<option key={t} value={t}>
+					{format(stat, t)}
+					</option>
 				))}
-			</select>
-		);
+				</select>
+				<svg
+					width="16"
+					height="16"
+					viewBox="0 0 20 20"
+					className="pointer-events-none absolute right-2 top-1/2 -translate-y-1/2 opacity-70"
+					>
+					<path d="M5 7l5 6 5-6H5z" fill="currentColor" />
+				</svg>
+		</div>
+    	);
 	}
 
-	return <NumberInput id={id} value={value} onChange={onChange} placeholder={placeholder} />;
+  return (
+    <NumberInput id={id} value={value} onChange={onChange} placeholder={placeholder} />
+  );
 }
 
 
@@ -200,6 +227,83 @@ function EchoPicker({ echoes, onPick, trigger }: EchoPickerProps) {
 				)}
 		</div>
 	);
+}
+
+interface SetSelectWithIconProps {
+	value: string;
+	options: SetOption[];
+	onChange: (v: string) => void;
+	id?: string;
+	className?: string;
+	placeholder?: string;
+	disabled?: boolean;
+	
+};
+
+function SetSelectWithIcon({value, options, onChange, id, className, placeholder="-select-", disabled}: SetSelectWithIconProps) {
+	const [open, setOpen] = useState(false);
+	const menuRef = useRef<HTMLDivElement | null>(null);
+	const current = options.find(o => o.value === value);
+
+	useEffect(() => {
+		if (!open) return;
+		const onDown = (e: MouseEvent) => {
+			if (menuRef.current && !menuRef.current.contains(e.target as Node)) setOpen(false);
+		};
+		const onKey = (e: KeyboardEvent) => { if (e.key === "Escape") setOpen(false); };
+		document.addEventListener("mousedown", onDown);
+		document.addEventListener("keydown", onKey);
+		return () => {
+			document.removeEventListener("mousedown", onDown);
+			document.removeEventListener("keydown", onKey);
+		};
+	}, [open]);
+
+	return(
+		<div className="relative">
+			<button
+				type="button"
+				id={id}
+				className={`flex w-full items-center justify-between rounded-lg border border-gray-700 bg-gray-900 px-3 py-2 text-sm text-gray-100 focus:outline-none focus:ring-2 focus:ring-indigo-500 ${className ?? ""} ${disabled ? "opacity-60 cursor-not-allowed" : ""}`}
+				onClick={() => !disabled && setOpen(o => !o)}
+				aria-haspopup="listbox"
+				aria-expanded={open}
+				aria-disabled={disabled || undefined}
+			>
+				<span className="flex items-center gap-2 truncate">
+				{current?.icon && <img src={current.icon} alt="" className="h-4 w-4 rounded-sm" />}
+				<span className="truncate">{current?.label ?? placeholder}</span>
+				</span>
+				<svg width="16" height="16" viewBox="0 0 20 20" className="opacity-70">
+					<path d="M5 7l5 6 5-6H5z" fill="currentColor" />
+				</svg>
+			</button>
+
+			{open && (
+				<div
+				ref={menuRef}
+				className="absolute z-20 mt-2 max-h-64 w-full overflow-auto rounded-lg border border-gray-800 bg-gray-950 p-1 shadow-xl"
+				role="listbox"
+				>
+				{options.map(o => {
+					const selected = o.value === value;
+					return (
+					<button
+						key={o.value}
+						className={`flex w-full items-center gap-2 rounded-md px-2 py-2 text-left text-sm hover:bg-gray-800 ${selected ? "bg-gray-800" : ""}`}
+						onClick={() => { onChange(o.value); setOpen(false); }}
+						role="option"
+						aria-selected={selected}
+					>
+						{o.icon && <img src={o.icon} alt="" className="h-4 w-4 rounded-sm" />}
+						{o.label}
+					</button>
+					);
+				})}
+				</div>
+			)}
+		</div>
+  	)
 }
 
 const MAIN_STATS: StatKey[] = [
@@ -462,6 +566,12 @@ export default function EchoBox({echoes,value,onChange,title = "Echo Slot"}: Ech
 		[onChange, value]
 	);
 
+	useEffect(() => {
+  		if (value.level == null || value.level === 0) {
+    	update({ level: 25 });
+  		}
+	}, []);
+
 	const subStats = useMemo(() => {
 		const subs = [...value.substats];
 		while (subs.length < 5) subs.push({ stat: "", value: 0});
@@ -501,7 +611,15 @@ export default function EchoBox({echoes,value,onChange,title = "Echo Slot"}: Ech
 		}
 	}, [mainValue, value.main.stat, value.main.value, update])
 
-	const setOptions = selectedEcho?.sets ?? [];
+	const setOptions = useMemo<SetOption[]>(() => {
+		if (!selectedEcho) return [];
+		const urls = selectedEcho.setURL ?? [];
+		return selectedEcho.sets.map((label, i) => ({
+			value: label,
+			label,
+			icon: urls[i],
+		}));
+	}, [selectedEcho])
 
 	return (
 		<div className="rounded-2xl border border-gray-800 bg-gray-950/70 p-4 shadow-lg">
@@ -555,17 +673,13 @@ export default function EchoBox({echoes,value,onChange,title = "Echo Slot"}: Ech
 			</div>
 
 			<label className="mb-1 block text-xs text-gray-400">Set</label>
-			<select
-				className="mb-3 w-full rounded-lg border border-gray-700 bg-gray-900 px-3 py-2 text-sm text-gray-100 focus:outline-none focus:ring-2 focus:ring-indigo-500"
+			<SetSelectWithIcon 
 				value={value.setName}
-				onChange={(e) => update ({ setName: e.target.value})}
+				options={setOptions}
+				onChange={(v) => update({ setName: v})}
 				disabled={!selectedEcho}
-			>
-				{!selectedEcho && <option value="">Pick an Echo</option>}
-				{setOptions.map((s) => (
-					<option key={s} value={s}>{s}</option>
-				))}
-			</select>
+				className="mb-2"
+			/>
 
 			<div className="grid grid-cols-2 gap-2">
 				<div>

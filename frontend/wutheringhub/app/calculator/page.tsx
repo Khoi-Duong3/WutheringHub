@@ -1,42 +1,57 @@
-"use client";
+'use client';
 
-import { useState } from "react";
-import EchoBox, { type EchoPiece, type EchoMeta } from "../components/EchoBox";
-// ⬇️ Adjust path to your JSON location
-import echoesData from "@/data/echoes.json";
+import { useMemo, useState } from 'react';
+import LoadoutGrid, { WeaponData } from '../components/LoadoutGrid';
+import type { EchoMeta, EchoPiece, EchoCost } from '../components/EchoBox';
+
+
+import echoesJson from '@/data/echoes.json';
+
+
+function makeEmptyPiece(slot: number): EchoPiece {
+  return {
+    id: `slot-${slot}`,
+    level: 25,
+    setName: '',
+    cost: 1 as EchoCost,
+    main: { stat: '', value: 0 },
+    secondary: { stat: 'hp', value: 0 }, 
+    substats: [],
+    selectedEchoId: undefined,
+  };
+}
+
+
 
 export default function Page() {
-  const echoes = echoesData as unknown as EchoMeta[];
+  const echoes = useMemo(() => echoesJson as unknown as EchoMeta[], []);
 
-  const [piece, setPiece] = useState<EchoPiece>({
-    id: "echo-1",
-    level: 0,
-    setName: "",
-    cost: 1, // will be overridden when you pick an echo
-    main: { stat: "", value: 0 },
-    secondary: { stat: "hp", value: 0 }, // will auto-sync
-    substats: Array.from({ length: 5 }, () => ({ stat: "", value: 0 })),
-  });
+  const [pieces, setPieces] = useState<EchoPiece[]>(
+    Array.from({ length: 5 }, (_, i) => makeEmptyPiece(i))
+  );
+
+  const [weapon, setWeapon] = useState<WeaponData | undefined>(undefined);
+
+  const onChangePiece = (slot: number, next: EchoPiece) => {
+    setPieces((prev) => {
+      const arr = [...prev];
+      arr[slot] = next;
+      return arr;
+    });
+  };
 
   return (
-    <div className="mx-auto max-w-3xl space-y-6 p-4">
-      <EchoBox
-        echoes={echoes}
-        value={piece}
-        onChange={setPiece}
-        title="Test Echo Slot"
-        // ⬇️ when you have real numbers for the secondary curves, plug them here
-        secondaryScaler={(level, cost) => {
-          // example placeholder; replace with real tables:
-          const base = cost === 1 ? 140 : 260;
-          const per = cost === 1 ? 3.2 : 5.5;
-          return Math.round((base + per * level) * 10) / 10;
-        }}
-      />
+    <main className="mx-auto max-w-[1600px] px-4 py-6">
+      <h1 className="mb-4 text-lg font-semibold text-gray-100">Loadout</h1>
 
-      <pre className="overflow-auto rounded-xl border border-gray-800 bg-black p-3 text-xs text-gray-300">
-        {JSON.stringify(piece, null, 2)}
-      </pre>
-    </div>
+      <LoadoutGrid
+        echoes={echoes}
+        pieces={pieces}
+        onChangePiece={onChangePiece}
+        weapon={weapon}
+        onChangeWeapon={(patch) => setWeapon((w) => ({ ...w, ...patch }))}
+        compactScale={0.75} 
+      />
+    </main>
   );
 }
