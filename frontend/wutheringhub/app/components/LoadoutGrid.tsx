@@ -28,7 +28,7 @@ function makeEmptyPiece(slot: number): EchoPiece {
         cost: 1 as EchoCost,
         main: { stat: "", value: 0 },
         secondary: { stat: "hp", value: 0 },          
-        substats: [],
+        substats: Array.from({length: 5}, () => ({ stat: "" as any, value: 0})),
         selectedEchoId: undefined,
     };
 }
@@ -102,10 +102,10 @@ export default function LoadoutGrid({
   }, [pieces]);
 
   return (
-    <section className={`mx-auto w-fit ${className ?? ""}`}>
+    <section className={`mx-auto w-full px-4 ${className ?? ""}`}>
     
-    <div className="grid grid-flow-col auto-cols-[356px] gap-x-4">
-      <div className="min-w-0">
+    <div className="mx-auto grid grid-cols-5 gap-4 justify-items-center max-w-[1760px]">
+      <div className="w-full max-w-[340px]">
         <EchoBox
             echoes={echoes}
             value={slots[0]}
@@ -114,7 +114,7 @@ export default function LoadoutGrid({
         />
       </div>
 
-      <div className="min-w-0">
+      <div className="w-full max-w-[340px]">
         <EchoBox
             echoes={echoes}
             value={slots[1]}
@@ -123,7 +123,7 @@ export default function LoadoutGrid({
         />
       </div>
 
-      <div className="min-w-0">
+      <div className="w-full max-w-[340px]">
         <EchoBox
             echoes={echoes}
             value={slots[2]}
@@ -133,7 +133,7 @@ export default function LoadoutGrid({
 
       </div>
 
-      <div className="min-w-0">
+      <div className="w-full max-w-[340px]">
           <EchoBox
             echoes={echoes}
             value={slots[3]}
@@ -142,7 +142,7 @@ export default function LoadoutGrid({
         />
       </div>
 
-      <div className="min-w-0">
+      <div className="w-full max-w-[340px]">
           <EchoBox
             echoes={echoes}
             value={slots[4]}

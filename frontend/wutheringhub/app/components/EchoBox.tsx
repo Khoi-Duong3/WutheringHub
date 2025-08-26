@@ -572,11 +572,25 @@ export default function EchoBox({echoes,value,onChange,title = "Echo Slot"}: Ech
   		}
 	}, []);
 
-	const subStats = useMemo(() => {
-		const subs = [...value.substats];
-		while (subs.length < 5) subs.push({ stat: "", value: 0});
-		return subs.slice(0,5);
-	}, [value.substats])
+	const uiSubStats = useMemo(() => Array.from({ length: 5 }, (_, i) => value.substats?.[i] ?? { stat: "" as StatKey, value: 0 }), [value.substats]);
+
+	const setSubStats = (idx: number, stat: StatKey) => {
+		const next = Array.from(
+			{ length: 5,},
+			(_, i) => value.substats?.[i] ?? { stat: "" as StatKey, value: 0}
+		);
+		next[idx] = { stat, value: stat ? next[idx].value : 0 };
+		update({ substats: next });
+	};
+
+	const setSubStatValue = (idx: number, val: number) => {
+		const next = Array.from (
+			{ length: 5},
+			(_, i) => value.substats?.[i] ?? { stat: "" as StatKey, value: 0 }
+		);
+		next[idx] = { ...next[idx], value: val };
+  		update({ substats: next });
+	};
 
 	const selectedEcho = useMemo(
 		() => echoes.find((e) => e.id === value.selectedEchoId),
@@ -712,7 +726,7 @@ export default function EchoBox({echoes,value,onChange,title = "Echo Slot"}: Ech
 			<div className="mt-4">
 				<div className="mb-1 text-xs text-gray-400">Substats (5/5)</div>
 				<div className="space-y-2">
-					{subStats.map((ss,index) => (
+					{uiSubStats.map((ss,index) => (
 						<div key={index} className="grid grid-cols-12 items-center gap-2">
 							<div className="col-span-7">
 								<StatSelect 
