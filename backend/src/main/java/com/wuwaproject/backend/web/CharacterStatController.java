@@ -1,6 +1,6 @@
 package com.wuwaproject.backend.web;
 
-import com.wuwaproject.backend.service.CharacterStatService;
+import com.wuwaproject.backend.service.CharacterStatService; // match your actual class name
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
@@ -8,28 +8,25 @@ import java.util.List;
 @RequestMapping("/api/characters")
 @CrossOrigin
 public class CharacterStatController {
-    private final CharacterStatService svc;
+  private final CharacterStatService svc;
+  public CharacterStatController(CharacterStatService svc) { this.svc = svc; }
 
-    public CharacterStatController(CharacterStatService svc) {
-        this.svc = svc;
-    }
+  @GetMapping("") // explicit
+  public List<CharacterSummaryDTO> list() {
+    return svc.listCharacters();
+  }
 
-    @GetMapping
-    public List<CharacterSummaryDTO> list() {
-        return svc.listCharacters();
-    }
+  @GetMapping("/{id}/stats/all")
+  public CharacterAllRowsDTO all(@PathVariable("id") int id) {
+    return svc.allRows(id);
+  }
 
-    @GetMapping("/{id}/stats/all")
-    public CharacterAllRowsDTO all(@PathVariable int id) {
-        return svc.allRows(id);
-    }
-
-    @GetMapping("/{id}/stats")
-    public CharacterBaseRowDTO one(
-        @PathVariable int id,
-        @RequestParam int ascension,
-        @RequestParam int level
-    ) {
-        return svc.row(id, ascension, level);
-    }
+  @GetMapping("/{id}/stats")
+  public CharacterBaseRowDTO one(
+      @PathVariable("id") int id,
+      @RequestParam("ascension") int ascension,
+      @RequestParam("level") int level
+  ) {
+    return svc.row(id, ascension, level);
+  }
 }

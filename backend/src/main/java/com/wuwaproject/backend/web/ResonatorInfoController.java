@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/characters")
+@RequestMapping("/api/resonators")
 public class ResonatorInfoController {
     private final ResonatorInfoRepository repo;
     public ResonatorInfoController(ResonatorInfoRepository repo) { this.repo = repo; }
