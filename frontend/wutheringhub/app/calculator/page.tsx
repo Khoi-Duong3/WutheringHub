@@ -1,57 +1,42 @@
-'use client';
+import { CalculatorProvider, type BaseRow, type CharacterBasic } from "../components/CalculatorProvider";
+import LoadoutGridConnected from "../components/LoadoutGridConnected";
+import type { EchoMeta } from "../components/EchoBox";
 
-import { useMemo, useState } from 'react';
-import LoadoutGrid, { WeaponData } from '../components/LoadoutGrid';
-import type { EchoMeta, EchoPiece, EchoCost } from '../components/EchoBox';
-
-
-import echoesJson from '@/data/echoes.json';
-
-
-function makeEmptyPiece(slot: number): EchoPiece {
-  return {
-    id: `slot-${slot}`,
-    level: 25,
-    setName: '',
-    cost: 1 as EchoCost,
-    main: { stat: '', value: 0 },
-    secondary: { stat: 'hp', value: 0 }, 
-    substats: [],
-    selectedEchoId: undefined,
-  };
+interface PageProps {
+  	searchParams: Record<string, string | string[] | undefined>;
 }
 
+async function fetchRows(characterId: string): Promise<BaseRow[] | null> {
 
+	const res = await fetch(`${process.env.API_BASE}/api/characters/${characterId}/stats/all`, {
+		cache: "no-store",
+	});
+	if (!res.ok) return null;
+	const data: { characterId: number; rows: BaseRow[] } = await res.json();
+	return data.rows ?? null;
+}
 
-export default function Page() {
-  const echoes = useMemo(() => echoesJson as unknown as EchoMeta[], []);
+export default async function Page({ searchParams }: PageProps) {
+	const characterId = typeof searchParams.characterId === "string" ? searchParams.characterId : undefined;
 
-  const [pieces, setPieces] = useState<EchoPiece[]>(
-    Array.from({ length: 5 }, (_, i) => makeEmptyPiece(i))
-  );
+	const initialRows = characterId ? await fetchRows(characterId) : null;
+	const initialCharacter: CharacterBasic | null = characterId
+		? { id: Number(characterId), name: "Selected", portraitURL: undefined }
+		: null;
 
-  const [weapon, setWeapon] = useState<WeaponData | undefined>(undefined);
+  
+  	const echoes: EchoMeta[] = []; 
 
-  const onChangePiece = (slot: number, next: EchoPiece) => {
-    setPieces((prev) => {
-      const arr = [...prev];
-      arr[slot] = next;
-      return arr;
-    });
-  };
-
-  return (
-    <main className="mx-auto max-w-[1600px] px-4 py-6">
-      <h1 className="mb-4 text-lg font-semibold text-gray-100">Loadout</h1>
-
-      <LoadoutGrid
-        echoes={echoes}
-        pieces={pieces}
-        onChangePiece={onChangePiece}
-        weapon={weapon}
-        onChangeWeapon={(patch) => setWeapon((w) => ({ ...w, ...patch }))}
-        compactScale={0.75} 
-      />
-    </main>
-  );
+	return (
+		
+		<CalculatorProvider
+		key={characterId ?? "none"}
+		initialRows={initialRows}
+		initialCharacter={initialCharacter}
+		initialLevel={1}
+		initialAscension={0}
+		>
+		<LoadoutGridConnected echoes={echoes} />
+		</CalculatorProvider>
+	);
 }
