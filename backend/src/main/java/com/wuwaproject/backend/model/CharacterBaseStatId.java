@@ -25,11 +25,11 @@ public class CharacterBaseStatId implements Serializable{
         return characterId;
     }
 
-    public Integer getCharacterAscension(){
+    public Integer getAscension(){
         return ascension;
     }
 
-    public Integer getCharacterLevel(){
+    public Integer getLevel(){
         return level;
     }
 
